@@ -44,16 +44,17 @@ My research interest includes **machine learning and data mining**. Specially no
 - *2021.10* First Prize, Academic Scholarship of Southeast University. 
 
 # 🎖 Honors and Awards (undergraduate)
-- Scholarship：华为奖学金、海云天大数据奖学金、上海同振奖学金、汪乾荣一等奖学金、国家励志奖学金\*3、校级综合甲等乙等奖学金\*6
-- honor: 重庆市创新能力提升先进个人、重庆大学优秀毕业生干部、科技学术先进个人、优秀共青团员、学生干部、社团先进个人
-- Contest: 美国大学生数学建模大赛特等奖Outstanding Winner（2019）、高校绿色创新大赛国家一等奖（2020）、高校易班技术创新大会创新创意组国家一等奖（2020）、微信小程序应用开发赛国家三等奖（2020）、大学生计算机设计大赛国家三等奖\*2（2019,2020）、大学生数学建模大赛重庆市一等奖（2020）
+- Scholarship：华为奖学金、海云天大数据奖学金、上海同振奖学金、汪乾荣一等奖学金、国家励志奖学金\*3、校级综合甲等乙等奖学金\*6。
+- honor: 重庆市创新能力提升先进个人、重庆大学优秀毕业生干部、科技学术先进个人、优秀共青团员、学生干部、社团先进个人。
+- Contest: 美国大学生数学建模大赛特等奖Outstanding Winner（2019）、高校绿色创新大赛国家一等奖（2020）、高校易班技术创新大会创新创意组国家一等奖（2020）、微信小程序应用开发赛国家三等奖（2020）、大学生计算机设计大赛国家三等奖\*2（2019,2020）、大学生数学建模大赛重庆市一等奖（2020）。
 
 
 
 
 # 📖 Educations
-- *2021.06 - 2024.09 (now)*, Southeast University. 
-- *2017.09 - 2021.06*, Chongqing University (3.60/4.00). 
+- *2021.06 - 2024.09 (now)*, Master, Southeast University, Nanjing. 
+- *2017.09 - 2021.06*, Undergraduate, Chongqing University (3.60/4.00), Chongqing.
+- *2014.09 - 2017.06*, Chongqing Tianjiabing Middle School, Chongqing.
 
 # 💬 Invited Talks
 - None
