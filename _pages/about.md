@@ -37,12 +37,15 @@ My research interest includes **machine learning and data mining**. Specially no
 </div>
 </div>
 
-- [A new approach for generation of generalized basic probability  assignment in the evidence theory]([A new approach for generation of generalized basic probability assignment in the evidence theory (springer.com)](https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf)), Yongchuan Tang\*, **Dongdong Wu**, Zijing Liu, **PAA 2020**
-- [An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory](https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660), **Dongdong Wu**, Yongchuan Tang*, **QRE 2020**
+- [A new approach for generation of generalized basic probability  assignment in the evidence theory]([A new approach for generation of generalized basic probability assignment in the evidence theory (springer.com)](https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf)), Yongchuan Tang\*, **Dongdong Wu**, Zijing Liu, **PAA 2020 (ESI Highly Cited Paper, top1%)**
+- [An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory](https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660), **Dongdong Wu**, Yongchuan Tang*, **QRE 2020 (ESI Highly Cited Paper, top1%)**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards (Master)
+- *2021.10* First Prize, Academic Scholarship of Southeast University. 
+
+# 🎖 Honors and Awards (undergraduate)
+- *2021.10* First Prize, Academic Scholarship of Southeast University. 
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
