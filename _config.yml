@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wu Dongdong (吴东冬)"
+  name             : "Wu Dongdong"
   avatar           : "images/wdd-512x512.png"
   bio              : "Southeast University, PALM group"
   location         : "Jiangsu, China"
