@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wu Dongdong"
+title                    : "Wu-dd (吴东冬)"
 description              : "Master's student at Southeast University. Focusing on weakly supervised learning."
 repository               : "wu-dd/wu-dd.github.io"
 google_scholar_stats_use_cdn : true
