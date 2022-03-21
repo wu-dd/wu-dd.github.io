@@ -27,17 +27,18 @@ My research interest includes **machine learning and data mining**. Specially no
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='../images/Jounal-EAAI.png' alt="EAAI" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[A new classification method based on the negation of a basic probability assignment in the evidence theory](https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864), **Dongdong Wu**, Zijing Liu, Yongchuan Tang\*
 
-**CVPR, 2016** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**EAAI, 2020** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=_Vx3dZgAAAAJ&citation_for_view=_Vx3dZgAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this paper, in the frame of Dempster–Shafer evidence theory, a new classification method based on the negation of basic probability assignment (BPA) is proposed to implement an effective classification. The proposed method addresses the issue that the values of samples’ attributes cannot clearly point out a certain class in classification problems. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [A new approach for generation of generalized basic probability  assignment in the evidence theory]([A new approach for generation of generalized basic probability assignment in the evidence theory (springer.com)](https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf)), Yongchuan Tang\*, **Dongdong Wu**, Zijing Liu, **PAA 2020**
+- [An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory](https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660), **Dongdong Wu**, Yongchuan Tang*, **QRE 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
