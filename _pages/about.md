@@ -56,7 +56,7 @@ My research interest includes **machine learning and data mining**. Specially no
 - *2017.09 - 2021.06*, Undergraduate, Chongqing University (3.60/4.00), Chongqing.
 - *2014.09 - 2017.06*, Chongqing Tianjiabing Middle School, Chongqing.
 
-# ​:calendar:​ Academic Services
+# 💬 Academic Services
 - PC Member of ICML'22
 
 # 💻 Internships
