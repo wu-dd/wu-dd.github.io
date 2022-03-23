@@ -20,6 +20,7 @@ redirect_from:
 Wu Dongdong (吴东冬) is currently a first-year M.Eng. student in [School of computer science and engineering at Southeast University](https://cse.seu.edu.cn/). He is a member of [Pattern Learning and Mining Lab (PALM)](http://palm.seu.edu.cn/) supervised by [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/). Wu Dongdong received his B.Eng. degree in [School of Big Data & Software Engineering at Chongqing University](http://www.cse.cqu.edu.cn/) in Jun 2021. In the same year, he was admitted to study for an M.Eng. degree in Southeast University without entrance examination.
 
 My research interest includes **machine learning and data mining**. Specially now I am focusing on **partial label learning** and **noisy label learning**.
+Interest Keywords include **distillaiton**, **knowlwdge**, **dscriminative feature**, **CAM**, **image classification**, **complementary**, **noisy label**, **attention**, **data programming**.
 
 
 # 🔥 News
