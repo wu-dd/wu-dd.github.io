@@ -24,7 +24,7 @@ Interest Keywords include **distillaiton**, **knowlwdge**, **dscriminative featu
 
 
 # 🔥 News
-- 2022.04.04 Our work published in _Quality and Reliability Engineering International_ is one of the top cited papers and generated immediate impact on the community. The certificate can be downloaded here [<a href ="../images/Top Cited Article 2020-2021.pdf"><img src="file"></a>].
+- 2022.04.04 Our work published in _Quality and Reliability Engineering International_ is one of the top cited papers and generated immediate impact on the community. The certificate can be downloaded [<a href ="../images/Top Cited Article 2020-2021.pdf">here</a>].
 
 # 📝 Publications 
 
