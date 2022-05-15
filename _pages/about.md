@@ -24,7 +24,8 @@ Interest Keywords include **distillaiton**, **knowlwdge**, **dscriminative featu
 
 # 🔥 News
 
-- 2022.04.04 Our work published in _Quality and Reliability Engineering International_ is one of the top cited papers and generated immediate impact on the community. The certificate can be downloaded [<a href ="../images/Top Cited Article 2020-2021.pdf">here</a>].
+- 2022.05.15: Our work is accepted by ICML 2022:Revisiting Consistency Regularization for Deep Partial Label Learning, **Dong-dong Wu**, Deng-bao Wang, Min-ling Zhang.
+- 2022.04.04: Our work published in _Quality and Reliability Engineering International_ is one of the top cited papers and generated immediate impact on the community. The certificate can be downloaded [<a href ="../images/Top Cited Article 2020-2021.pdf">here</a>].
 
 # 🤺 Github
 
