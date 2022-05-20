@@ -37,7 +37,7 @@ Feel free to drop me an email if you are interested in collaborating with me.
 - [A new classification method based on the negation of a basic probability assignment in the evidence theory](https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864) 
   - **Dongdong Wu**, Zijing Liu, Yongchuan Tang.
   - *Engineering Applications of Artificial Intelligence*. 2020, 96: 103985. https://doi.org/10.1016/j.engappai.2020.103985.
-- [A new approach for generation of generalized basic probability  assignment in the evidence theory]([A new approach for generation of generalized basic probability assignment in the evidence theory (springer.com)](https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf)), 
+- [A new approach for generation of generalized basic probability  assignment in the evidence theory](https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf), 
   - Yongchuan Tang\*, **Dongdong Wu**, Zijing Liu.
   - *Pattern Analysis and Applications*.  2021, 24(3): 1007-1023. https://doi.org/10.1007/s10044-021-00966-0.
   - **ESI Highly Cited Paper, top1%**.
