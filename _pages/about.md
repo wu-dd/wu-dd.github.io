@@ -48,10 +48,10 @@ Feel free to drop me an email if you are interested in collaborating with me.
 - [A new approach for generation of generalized basic probability  assignment in the evidence theory]([A new approach for generation of generalized basic probability assignment in the evidence theory (springer.com)](https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf)), Yongchuan Tang\*, **Dongdong Wu**, Zijing Liu, **PAA 2020 (ESI Highly Cited Paper, top1%)**
 - [An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory](https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660), **Dongdong Wu**, Yongchuan Tang*, **QRE 2020 (ESI Highly Cited Paper, top1%)**
 
-# 🎖 Honors and Awards (Master)
+# 🏅 Honors and Awards (Master)
 - *2021.10* First Prize, Academic Scholarship of Southeast University. 
 
-# 🎖 Honors and Awards (Undergraduate)
+# 🏅 Honors and Awards (Undergraduate)
 
 - Scholarship：华为奖学金、海云天大数据奖学金、上海同振奖学金、汪乾荣一等奖学金、国家励志奖学金\*3、校级综合甲等乙等奖学金\*6。
 - honor: 重庆市创新能力提升先进个人、重庆大学优秀毕业生干部、科技学术先进个人、优秀共青团员、学生干部、社团先进个人。
