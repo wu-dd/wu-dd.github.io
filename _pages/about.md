@@ -19,14 +19,14 @@ redirect_from:
 
 Wu Dongdong (吴东冬) is currently a first-year M.Eng. student in [School of computer science and engineering at Southeast University](https://cse.seu.edu.cn/). He is a member of [Pattern Learning and Mining Lab (PALM)](http://palm.seu.edu.cn/) supervised by [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/). Wu Dongdong received his B.Eng. degree in [School of Big Data & Software Engineering at Chongqing University](http://www.cse.cqu.edu.cn/) in Jun 2021. In the same year, he was admitted to study for an M.Eng. degree in Southeast University without entrance examination.
 
-My research interest includes **machine learning and data mining**. Specially now I am focusing on **partial label learning** and **noisy label learning**.
+My research interest includes **machine learning and data mining** and **evidence theory**. Specially now I am focusing on **partial label learning** and **noisy label learning**.
 Interest Keywords include **distillaiton**, **knowlwdge**, **dscriminative feature**, **CAM**, **image classification**, **complementary**, **noisy label**, **attention**, **data programming**.
 
-Feel free to drop me an email if you are interested in collaborating with me.
+Feel free to drop me an email if you are interested in collaborating with me(dongdongwu@seu.edu.cn).
 
 # 🔥 News
 
-- 2022.05.15: 🎉🎉Our work is accepted by ICML 2022:Revisiting Consistency Regularization for Deep Partial Label Learning, **Dong-dong Wu**, Deng-bao Wang, Min-ling Zhang.
+- 2022.05.15: 🎉🎉Our work is accepted by ICML 2022:Revisiting Consistency Regularization for Deep Partial Label Learning, **Dong-dong Wu**, Deng-Bao Wang, Min-Ling Zhang.
 - 2022.04.04: Our work published in _Quality and Reliability Engineering International_ is one of the top cited papers and generated immediate impact on the community. The certificate can be downloaded [<a href ="../images/Top Cited Article 2020-2021.pdf">here</a>].
 
 # 🎈 Github
