@@ -34,19 +34,17 @@ Feel free to drop me an email if you are interested in collaborating with me.
 - [[Advances-in-Partial-and-Complementary-Label-Learning]](https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
 
 # 📝 Publications
-
-<div class='paper-box'><div class='paper-box-image'><img src='../images/Jounal-EAAI.png' alt="EAAI" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-[A new classification method based on the negation of a basic probability assignment in the evidence theory](https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864), **Dongdong Wu**, Zijing Liu, Yongchuan Tang\*
-
-**EAAI, 2020** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=_Vx3dZgAAAAJ&citation_for_view=_Vx3dZgAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- In this paper, in the frame of Dempster–Shafer evidence theory, a new classification method based on the negation of basic probability assignment (BPA) is proposed to implement an effective classification. The proposed method addresses the issue that the values of samples’ attributes cannot clearly point out a certain class in classification problems. 
-</div>
-</div>
-
-- [A new approach for generation of generalized basic probability  assignment in the evidence theory]([A new approach for generation of generalized basic probability assignment in the evidence theory (springer.com)](https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf)), Yongchuan Tang\*, **Dongdong Wu**, Zijing Liu, **PAA 2020 (ESI Highly Cited Paper, top1%)**
-- [An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory](https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660), **Dongdong Wu**, Yongchuan Tang*, **QRE 2020 (ESI Highly Cited Paper, top1%)**
+- [A new classification method based on the negation of a basic probability assignment in the evidence theory](https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864) 
+  - **Dongdong Wu**, Zijing Liu, Yongchuan Tang.
+  - *Engineering Applications of Artificial Intelligence*. 2020, 96: 103985. https://doi.org/10.1016/j.engappai.2020.103985.
+- [A new approach for generation of generalized basic probability  assignment in the evidence theory]([A new approach for generation of generalized basic probability assignment in the evidence theory (springer.com)](https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf)), 
+  - Yongchuan Tang\*, **Dongdong Wu**, Zijing Liu.
+  - *Pattern Analysis and Applications*.  2021, 24(3): 1007-1023. https://doi.org/10.1007/s10044-021-00966-0.
+  - **ESI Highly Cited Paper, top1%**.
+- [An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory](https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660)
+  - **Dongdong Wu**, Yongchuan Tang*.
+  - *Quality and Reliability Engineering International*. 2020; 36(5): 1786‐1807. https://doi.org/10.1002/qre.2660.
+  - **ESI Highly Cited Paper, top1%.**
 
 # 🏅 Honors and Awards (Master)
 - *2021.10* First Prize, Academic Scholarship of Southeast University. 
