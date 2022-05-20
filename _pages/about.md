@@ -22,12 +22,14 @@ Wu Dongdong (吴东冬) is currently a first-year M.Eng. student in [School of c
 My research interest includes **machine learning and data mining**. Specially now I am focusing on **partial label learning** and **noisy label learning**.
 Interest Keywords include **distillaiton**, **knowlwdge**, **dscriminative feature**, **CAM**, **image classification**, **complementary**, **noisy label**, **attention**, **data programming**.
 
+Feel free to drop me an email if you are interested in collaborating with me.
+
 # 🔥 News
 
-- 2022.05.15: Our work is accepted by ICML 2022:Revisiting Consistency Regularization for Deep Partial Label Learning, **Dong-dong Wu**, Deng-bao Wang, Min-ling Zhang.
+- 2022.05.15: 🎉🎉Our work is accepted by ICML 2022:Revisiting Consistency Regularization for Deep Partial Label Learning, **Dong-dong Wu**, Deng-bao Wang, Min-ling Zhang.
 - 2022.04.04: Our work published in _Quality and Reliability Engineering International_ is one of the top cited papers and generated immediate impact on the community. The certificate can be downloaded [<a href ="../images/Top Cited Article 2020-2021.pdf">here</a>].
 
-# 🤺 Github
+# 🎈 Github
 
 - [[Advances-in-Partial-and-Complementary-Label-Learning]](https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
 
