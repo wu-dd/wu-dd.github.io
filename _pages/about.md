@@ -34,14 +34,13 @@ Feel free to drop me an email if you are interested in collaborating with me (do
 - [[Advances-in-Partial-and-Complementary-Label-Learning]](https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
 
 # 📝 Publications
--  [Revisiting consistency regularization for deep partial label learning](http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf) [[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#icml22a)
+-  [Revisiting consistency regularization for deep partial label learning](http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf). [[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#icml22a)
   - **Dong-Dong Wu**$\dagger$, Deng-Bao Wang$\dagger$, Min-Ling Zhang\*.
   - *Proceedings of the 39th International Conference on Machine Learning (**ICML'22**)*, accepted, 2022.
-
 - [A new classification method based on the negation of a basic probability assignment in the evidence theory](https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864) 
   - **Dongdong Wu**, Zijing Liu, Yongchuan Tang\*.
   - *Engineering Applications of Artificial Intelligence*. 2020, 96: 103985. https://doi.org/10.1016/j.engappai.2020.103985.
-- [A new approach for generation of generalized basic probability  assignment in the evidence theory](https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf), 
+- [A new approach for generation of generalized basic probability  assignment in the evidence theory](https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf).
   - Yongchuan Tang\*, **Dongdong Wu**, Zijing Liu.
   - *Pattern Analysis and Applications*.  2021, 24(3): 1007-1023. https://doi.org/10.1007/s10044-021-00966-0.
   - **ESI Highly Cited Paper, top1%**.
