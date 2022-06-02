@@ -66,7 +66,7 @@ Feel free to drop me an email if you are interested in collaborating with me (do
 
 # 🌞 Academic Services
 
-- PC Member of ICML'22
+- Programe Comittee Member of ICML'22
 
 # 👨‍💻 Internships
 
