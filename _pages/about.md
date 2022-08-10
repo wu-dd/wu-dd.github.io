@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wu Dongdong (吴东冬) is currently a first-year M.Eng. student in [School of computer science and engineering at Southeast University](https://cse.seu.edu.cn/). He is a member of [Pattern Learning and Mining Lab (PALM)](http://palm.seu.edu.cn/) supervised by [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/). Wu Dongdong received his B.Eng. degree in [School of Big Data & Software Engineering at Chongqing University](http://www.cse.cqu.edu.cn/) in Jun 2021. In the same year, he was admitted to study for an M.Eng. degree in Southeast University without entrance examination.
+Wu Dong-Dong (吴东冬) is currently a second-year M.Eng. student in [School of computer science and engineering at Southeast University](https://cse.seu.edu.cn/). He is a member of [Pattern Learning and Mining Lab (PALM)](http://palm.seu.edu.cn/) supervised by [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/). Wu Dongdong received his B.Eng. degree in [School of Big Data & Software Engineering at Chongqing University](http://www.cse.cqu.edu.cn/) in Jun 2021. In the same year, he was admitted to study for an M.Eng. degree in Southeast University without entrance examination.
 
 My research interest includes **machine learning and data mining** and **evidence theory** <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Specially now I am focusing on **partial label learning** and **noisy label learning**.
 Interest Keywords include **distillation**, **knowledge**, **discriminative feature**, **CAM**, **image classification**, **complementary**, **noisy label**, **attention**, **data programming**, **instance-dependent**, **label smoothing**.
@@ -26,14 +26,16 @@ Feel free to drop me an email if you are interested in collaborating with me (do
 
 # 🔥 News
 
+- 2022.08.10: 👏👏We wined the 7th place@Task 1-1 and 4th place@Task 1-2 in the 1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022. The certificate can be downloaded [<a href ="../certificates/1st of LMNL challenge.pdf">here</a>], [[Code]](https://github.com/wu-dd/LMNL).
 - 2022.05.15: 🎉🎉Our work is accepted by ICML 2022: Revisiting Consistency Regularization for Deep Partial Label Learning, **Dong-dong Wu**, Deng-Bao Wang, Min-Ling Zhang.
-- 2022.04.04: Our work published in _Quality and Reliability Engineering International_ is one of the top cited papers and generated immediate impact on the community. The certificate can be downloaded [<a href ="../images/Top Cited Article 2020-2021.pdf">here</a>].
+- 2022.04.04: Our work published in _Quality and Reliability Engineering International_ is one of the top cited papers and generated immediate impact on the community. The certificate can be downloaded [<a href ="../certificates/Top Cited Article 2020-2021.pdf">here</a>].
 
 # 🎈 Github
 
 - [[Advances-in-Partial-and-Complementary-Label-Learning]](https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
 
 # 📝 Publications
+
 - [Revisiting consistency regularization for deep partial label learning](http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf). [[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#icml22a)
   - **Dong-Dong Wu**$\dagger$, Deng-Bao Wang$\dagger$, Min-Ling Zhang\*.
   - *Proceedings of the 39th International Conference on Machine Learning (**ICML'22**)*, accepted, 2022.
