@@ -52,7 +52,7 @@ Feel free to drop me an email if you are interested in collaborating with me (do
   - **ESI Highly Cited Paper, top1%.**
 
 # 🏅 Honors and Awards (Master)
-- 2022.08  7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">here</a>], [[Code]](https://github.com/wu-dd/LMNL).
+- 2022.08  7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL).
 - *2021.10* First Prize, Academic Scholarship of Southeast University. 
 
 # 🏅 Honors and Awards (Undergraduate)
@@ -73,4 +73,4 @@ Feel free to drop me an email if you are interested in collaborating with me (do
 
 # 👨‍💻 Internships
 
-- *2020.06 - 2021.09*, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China.
+- *2020.06 - 2021.09*, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China, [<a href ="../certificates/Institute of Automation-Admission.pdf">Admission</a>] [<a href ="../certificates/Institute of Automation-Proof.pdf.pdf">Certificate</a>].
