@@ -26,7 +26,7 @@ Feel free to drop me an email if you are interested in collaborating with me (do
 
 # 🔥 News
 
-- 2022.08.10: 👏👏We wined the 7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the 1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022. The certificate can be downloaded [<a href ="../certificates/1st of LMNL challenge.pdf">here</a>], [[Code]](https://github.com/wu-dd/LMNL).
+- 2022.08.10: 👏👏We wined the 7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022***. The certificate can be downloaded [<a href ="../certificates/1st of LMNL challenge.pdf">here</a>], [[Code]](https://github.com/wu-dd/LMNL).
 - 2022.05.15: 🎉🎉Our work is accepted by ICML 2022: Revisiting Consistency Regularization for Deep Partial Label Learning, **Dong-dong Wu**, Deng-Bao Wang, Min-Ling Zhang.
 - 2022.04.04: Our work published in _Quality and Reliability Engineering International_ is one of the top cited papers and generated immediate impact on the community. The certificate can be downloaded [<a href ="../certificates/Top Cited Article 2020-2021.pdf">here</a>].
 
@@ -52,6 +52,7 @@ Feel free to drop me an email if you are interested in collaborating with me (do
   - **ESI Highly Cited Paper, top1%.**
 
 # 🏅 Honors and Awards (Master)
+- 2022.08  7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">here</a>], [[Code]](https://github.com/wu-dd/LMNL).
 - *2021.10* First Prize, Academic Scholarship of Southeast University. 
 
 # 🏅 Honors and Awards (Undergraduate)
