@@ -19,10 +19,11 @@ redirect_from:
 
 Wu Dong-Dong (吴东冬) is currently a second-year M.Eng. student in [School of computer science and engineering at Southeast University](https://cse.seu.edu.cn/). He is a member of [Pattern Learning and Mining Lab (PALM)](http://palm.seu.edu.cn/) supervised by [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/). Wu Dongdong received his B.Eng. degree in [School of Big Data & Software Engineering at Chongqing University](http://www.cse.cqu.edu.cn/) in Jun 2021. In the same year, he was admitted to study for an M.Eng. degree in Southeast University without entrance examination.
 
-My research interest includes **machine learning and data mining** and **evidence theory** <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Specially now I am focusing on **partial label learning** and **noisy label learning**.
-Interest Keywords include **distillation**, **knowledge**, **discriminative feature**, **CAM**, **image classification**, **complementary**, **noisy label**, **attention**, **data programming**, **instance-dependent**, **label smoothing**.
+My research interest includes **Trustworthy machine learning and data mining**  <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Specially now I am focusing on **partial label learning**, **noisy label learning**, **knowledge distillation** blablablabla... 
 
-Feel free to drop me an email if you are interested in collaborating with me (dongdongwu@seu.edu.cn).
+If you are interested in **partial label learning**, you can find the following github link.
+
+If you are interested in discussing with me, feel free to drop me an email (dongdongwu@seu.edu.cn) or add my wechat (kaefer1999).
 
 # 🔥 News
 
@@ -52,6 +53,7 @@ Feel free to drop me an email if you are interested in collaborating with me (do
   - **ESI Highly Cited Paper, top1%.**
 
 # 🏅 Honors and Awards (Master)
+- 2022.09  "*Merit Student graduate student*" Honors.
 - 2022.08  7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL).
 - *2021.10* First Prize, Academic Scholarship of Southeast University. 
 
