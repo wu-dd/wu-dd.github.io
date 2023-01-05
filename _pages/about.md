@@ -46,13 +46,13 @@ If you are interested in discussing with me, feel free to drop me an email (dong
   - *Quality and Reliability Engineering International*. 2020; 36(5): 1786‐1807. https://doi.org/10.1002/qre.2660.
   - **ESI Highly Cited Paper [<a href ="../certificates/Top Cited Article 2020-2021.pdf">Certificate</a>], top1%.**
 
-# 🏅 Honors and Awards (Southeast University)
+# 🏅 Honors and Awards (at Southeast University)
 
 -  Merit Student graduate student in Southeast University, 2022.
 - 7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL), 2022.
 - Academic Scholarship of Southeast University\*2.
 
-# 🏅 Honors and Awards (Chongqing University)
+# 🏅 Honors and Awards (at Chongqing University)
 
 - Advanced Individual in Chongqing city, 2021.
 - Outstanding Graduates in Chongqing University, 2020.
