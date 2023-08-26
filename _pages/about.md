@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dong-Dong Wu (吴东冬) is currently a second-year master student in [School of computer science and engineering at Southeast University](https://cse.seu.edu.cn/). He is a member of [Pattern Learning and Mining Lab (PALM)](http://palm.seu.edu.cn/) supervised by [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/). Dong-Dong Wu received his B.Eng. degree in [School of Big Data & Software Engineering at Chongqing University](http://www.cse.cqu.edu.cn/) in Jun 2021. In the same year, he was admitted to study for an M.Eng. degree in Southeast University without entrance examination.
+Dong-Dong Wu (吴东冬) is currently a third-year master student in [School of computer science and engineering at Southeast University](https://cse.seu.edu.cn/). He is a member of [Pattern Learning and Mining Lab (PALM)](http://palm.seu.edu.cn/) supervised by [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/). Dong-Dong Wu received his B.Eng. degree in [School of Big Data & Software Engineering at Chongqing University](http://www.cse.cqu.edu.cn/) in Jun 2021. In the same year, he was admitted to study for an M.Eng. degree in Southeast University without entrance examination.
 
-My primary research interest lies in the field of **trustworthy weakly supervised learning**,   <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Specially now I am focusing on partial label learning, dataset condensation, long-tailed learning, knowledge distillation, and uncertainty calibration. Here is my  <a href ="../certificates/CV.pdf">CV</a>.
+My primary research interest lies in the field of **trustworthy weakly supervised learning**,   <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Specially now I am focusing on partial label learning, dataset condensation, long-tailed learning, knowledge distillation, and uncertainty calibration, model defense. Here is my  <a href ="../certificates/CV.pdf">CV</a>.
 
 If you are interested in discussing with me, feel free to drop me an email (dongdongwu@seu.edu.cn) or add my wechat (kaefer1999).
 
@@ -30,6 +30,12 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 
 
 # 📝 Publications
+
+- Distilling Reliable Knowledge for Instance-dependent Partial Label Learning
+  - **Dong-Dong Wu**, Deng-Bao Wang, Min-Ling Zhang\*.
+
+- Robust Representation Learning for Unreliable Partial Label Learning
+  - Yu Shi$\dagger$, **Dong-Dong Wu**$\dagger$, Xin Geng\*, Min-Ling Zhang\*
 
 - [Revisiting consistency regularization for deep partial label learning](http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf). [[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#icml22a)
   - **Dong-Dong Wu**$\dagger$, Deng-Bao Wang$\dagger$, Min-Ling Zhang\*.
@@ -75,4 +81,4 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 # 👨‍🎓Educations
 
 - *2021.06 - 2024.09 (now)*, Master, Southeast University, Nanjing. 
-- *2017.09 - 2021.06*, Undergraduate, Chongqing University (3.68/4.00), Chongqing.
+- *2017.09 - 2021.06*, Undergraduate, Chongqing University (3.57/4.00), Chongqing.
