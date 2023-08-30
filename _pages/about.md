@@ -80,5 +80,5 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 
 # 👨‍🎓Educations
 
-- *2021.06 - 2024.09 (now)*, Master, Southeast University, Nanjing. 
-- *2017.09 - 2021.06*, Undergraduate, Chongqing University (3.57/4.00), Chongqing.
+- *2021.09 - 2024.06 (now)*, Master, Southeast University (87.93/100), Nanjing. 
+- *2017.09 - 2021.06*, Undergraduate, Chongqing University (86.88/100), Chongqing.
