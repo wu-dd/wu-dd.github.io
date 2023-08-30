@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wu-dd (吴东冬)"
-description              : "Master's student at Southeast University. Focusing on weakly supervised learning."
+description              : "Master student at PALM lab. Focusing on trustworthy weakly supervised learning."
 repository               : "wu-dd/wu-dd.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wu Dong-Dong"
   avatar           : "images/wdd-512x512.png"
-  bio              : "Southeast University, PALM group"
+  bio              : "Southeast University"
   location         : "Jiangsu, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "wu-dd" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "https://www.zhihu.com/people/hai-bian-de-qia-fu-qia-33-18"
 
 
 # Reading Files
