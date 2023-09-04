@@ -34,7 +34,7 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 - Distilling Reliable Knowledge for Instance-dependent Partial Label Learning
   - **Dong-Dong Wu**, Deng-Bao Wang, Min-Ling Zhang\*.
 
-- Robust Representation Learning for Unreliable Partial Label Learning
+- [Robust Representation Learning for Unreliable Partial Label Learning]([2308.16718.pdf (arxiv.org)](https://arxiv.org/pdf/2308.16718.pdf))
   - Yu Shi$\dagger$, **Dong-Dong Wu**$\dagger$, Xin Geng\*, Min-Ling Zhang\*
 
 - [Revisiting consistency regularization for deep partial label learning](http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf). [[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#icml22a)
