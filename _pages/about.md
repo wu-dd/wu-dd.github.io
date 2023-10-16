@@ -64,11 +64,11 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 
 # 🏅 Honors and Awards
 
+-  Outstanding Graduate Student Model in Southeast University, 2023.
 -  Lenovo Research Institute Scholarship, 2023.
--  Excellent Graduate Student in Southeast University, 2022.
+-  Outstanding Graduate Student in Southeast University, 2022.
 - 7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL), 2022.
-- Graduate Academic Scholarship of Southeast University (2-time), 2021-2022.
-
+-  Graduate Academic Scholarship of Southeast University (2-time), 2021-2022.
 - Advanced Individual in Chongqing city, 2021.
 - Outstanding Graduates in Chongqing University, 2020.
 - First Prize (top 3%), National CCF Green Computing Contest, 2021.
