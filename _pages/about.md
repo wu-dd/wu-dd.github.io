@@ -21,7 +21,7 @@ Dong-Dong Wu (吴东冬) is currently a third-year master student in [School of 
 
 My primary research interest lies in the field of **trustworthy weakly supervised learning**,   <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Specially now I am focusing on partial label learning, dataset condensation, long-tailed learning, knowledge distillation, and uncertainty calibration, model defense. Here is my  <a href ="../certificates/CV.pdf">CV</a>.
 
-If you are interested in discussing with me, feel free to drop me an email (dongdongwu@seu.edu.cn) or add my wechat (kaefer1999).
+If you are interested in discussing with me, feel free to drop me an email (dongdongwu@seu.edu.cn, dongdongwu1230@gmail.com) or add my wechat (kaefer1999).
 
 # 🎈 Github
 
@@ -30,6 +30,9 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 
 
 # 📝 Publications
+
+- Noising the Dataset: Revisiting Noise Transition Matrix for Efficient Model Stealing Defense
+  - **Dong-Dong Wu**, Chi-Lin Fu, Wei-Chang Wu, Xiao-Lu Zhang, Jun Zhou, Min-Ling Zhang*.
 
 - Distilling Reliable Knowledge for Instance-dependent Partial Label Learning
   - **Dong-Dong Wu**, Deng-Bao Wang, Min-Ling Zhang\*.
@@ -54,8 +57,8 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 
 # 👨‍💻 Internships
 
-- *2020.06 - 2021.09*, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China, [<a href ="../certificates/Institute of Automation-Admission.pdf">Admission</a>] [<a href ="../certificates/Institute of Automation-Proof.pdf">Certificate</a>].	
 - *2023.06 - 2023.10*, Machine Intelligence Department, [Ant Group](https://www.antgroup.com/), China.
+- *2020.06 - 2021.09*, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China, [<a href ="../certificates/Institute of Automation-Admission.pdf">Admission</a>] [<a href ="../certificates/Institute of Automation-Proof.pdf">Certificate</a>].	
 
 # 🌞 Professional Services
 
