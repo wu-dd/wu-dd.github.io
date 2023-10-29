@@ -31,7 +31,7 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 
 # 📝 Publications
 
-- Noising the Dataset: Revisiting Noise Transition Matrix for Efficient Model Stealing Defense
+- Efficient Model Stealing Defense with Noise Transition Matrix
   - **Dong-Dong Wu**, Chi-Lin Fu, Wei-Chang Wu, Xiao-Lu Zhang, Jun Zhou, Min-Ling Zhang*.
 
 - Distilling Reliable Knowledge for Instance-dependent Partial Label Learning
