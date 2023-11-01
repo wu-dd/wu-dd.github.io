@@ -32,7 +32,7 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 # 📝 Publications
 
 - Efficient Model Stealing Defense with Noise Transition Matrix
-  - **Dong-Dong Wu**, Chi-Lin Fu, Wei-Chang Wu, Xiao-Lu Zhang, Jun Zhou, Min-Ling Zhang*.
+  - **Dong-Dong Wu**, Chi-Lin Fu, Wei-Chang Wu, Wen-Wen Xia, Xiao-Lu Zhang, Jun Zhou, Min-Ling Zhang*.
 
 - Distilling Reliable Knowledge for Instance-dependent Partial Label Learning
   - **Dong-Dong Wu**, Deng-Bao Wang, Min-Ling Zhang\*.
