@@ -62,7 +62,7 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 
 # 🌞 Professional Services
 
-- Reviewer / PC Member: ICML (2022), ECML-PKDD (2023).
+- Reviewer / PC Member: ICML (2022), ECML-PKDD (2023), CVPR (2024).
 - Teaching Assistant: Machine Learning at Southeast University, spring 2022.
 
 # 🏅 Honors and Awards
