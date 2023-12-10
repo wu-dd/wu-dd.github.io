@@ -43,14 +43,14 @@ If you are interested in discussing with me, feel free to drop me an email (dong
   - *Proceedings of the 39th International Conference on Machine Learning (**ICML'22**)*, accepted, 2022.
 - [A new classification method based on the negation of a basic probability assignment in the evidence theory](https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864) 
   - **Dongdong Wu**, Zijing Liu, Yongchuan Tang\*.
-  - *Engineering Applications of Artificial Intelligence*. 2020, 96: 103985. https://doi.org/10.1016/j.engappai.2020.103985.
+  - *Engineering Applications of Artificial Intelligence (EAAI)*. 2020, 96: 103985. https://doi.org/10.1016/j.engappai.2020.103985.
 - [A new approach for generation of generalized basic probability  assignment in the evidence theory](https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf).
   - Yongchuan Tang\*, **Dongdong Wu**, Zijing Liu.
-  - *Pattern Analysis and Applications*.  2021, 24(3): 1007-1023. https://doi.org/10.1007/s10044-021-00966-0.
+  - *Pattern Analysis and Applications (PAA)*.  2021, 24(3): 1007-1023. https://doi.org/10.1007/s10044-021-00966-0.
   - **ESI Highly Cited Paper, top1%**.
 - [An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory](https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660)
   - **Dongdong Wu**, Yongchuan Tang*.
-  - *Quality and Reliability Engineering International*. 2020; 36(5): 1786‐1807. https://doi.org/10.1002/qre.2660.
+  - *Quality and Reliability Engineering International (QRE)*. 2020; 36(5): 1786‐1807. https://doi.org/10.1002/qre.2660.
   - **ESI Highly Cited Paper [<a href ="../certificates/Top Cited Article 2020-2021.pdf">Certificate</a>], top1%.**
 
 # 👨‍💻 Internships
