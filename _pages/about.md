@@ -35,10 +35,10 @@ If you are interested in discussing with me, feel free to drop me an email (dong
   - **Dong-Dong Wu**, Chi-Lin Fu, Wei-Chang Wu, Wen-Wen Xia, Xiao-Lu Zhang, Jun Zhou, Min-Ling Zhang*.
 - [Robust Representation Learning for Unreliable Partial Label Learning.](https://arxiv.org/pdf/2308.16718.pdf)
   - Yu Shi$\dagger$, **Dong-Dong Wu**$\dagger$, Xin Geng\*, Min-Ling Zhang\*
-- Distilling Reliable Knowledge for Instance-dependent Partial Label Learning
+- [Distilling Reliable Knowledge for Instance-dependent Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/AAAI'24d.pdf). [[Code]](https://github.com/wu-dd/DIRK)
   - **Dong-Dong Wu**, Deng-Bao Wang, Min-Ling Zhang\*.
   - *Proceedings of the 38th AAAI Conference on Artificial Intelligence (**AAAI'24**)*, accepted, 2023.
-- [Revisiting consistency regularization for deep partial label learning](http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf). [[Code]](http://palm.seu.edu.cn/zhangml/Resources.htm#icml22a)
+- [Revisiting consistency regularization for deep partial label learning](http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf). [[Code]](https://github.com/wu-dd/PLCR)
   - **Dong-Dong Wu**$\dagger$, Deng-Bao Wang$\dagger$, Min-Ling Zhang\*.
   - *Proceedings of the 39th International Conference on Machine Learning (**ICML'22**)*, accepted, 2022.
 - [A new classification method based on the negation of a basic probability assignment in the evidence theory](https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864) 
