@@ -35,7 +35,7 @@ If you are interested in discussing with me, feel free to drop me an email (dong
   - **Dong-Dong Wu**, Chi-Lin Fu, Wei-Chang Wu, Wen-Wen Xia, Xiao-Lu Zhang, Jun Zhou, Min-Ling Zhang*.
 - [Robust Representation Learning for Unreliable Partial Label Learning.](https://arxiv.org/pdf/2308.16718.pdf)
   - Yu Shi$\dagger$, **Dong-Dong Wu**$\dagger$, Xin Geng\*, Min-Ling Zhang\*
-- [Distilling Reliable Knowledge for Instance-dependent Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/AAAI'24d.pdf). [[Appendix]]([Appendix_AAAI'24d.pdf (seu.edu.cn)](https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf)) [[Code]](https://github.com/wu-dd/DIRK)
+- [Distilling Reliable Knowledge for Instance-dependent Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/AAAI'24d.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf) [[Code]](https://github.com/wu-dd/DIRK)
   - **Dong-Dong Wu**, Deng-Bao Wang, Min-Ling Zhang\*.
   - *Proceedings of the 38th AAAI Conference on Artificial Intelligence (**AAAI'24**)*, accepted, 2023.
 - [Revisiting consistency regularization for deep partial label learning](http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf). [[Code]](https://github.com/wu-dd/PLCR)
