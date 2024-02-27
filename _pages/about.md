@@ -32,7 +32,8 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 # 📝 Publications
 
 - Efficient Model Stealing Defense with Noise Transition Matrix
-  - **Dong-Dong Wu**, Chi-Lin Fu, Wei-Chang Wu, Wen-Wen Xia, Xiao-Lu Zhang, Jun Zhou, Min-Ling Zhang*.
+  - **Dong-Dong Wu**, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang*.
+  - *Proceedings of the 34th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**)*, accepted, 2024.
 - [Robust Representation Learning for Unreliable Partial Label Learning.](https://arxiv.org/pdf/2308.16718.pdf)
   - Yu Shi$\dagger$, **Dong-Dong Wu**$\dagger$, Xin Geng\*, Min-Ling Zhang\*
 - [Distilling Reliable Knowledge for Instance-dependent Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/AAAI'24d.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf) [[Code]](https://github.com/wu-dd/DIRK)
