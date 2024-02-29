@@ -23,6 +23,8 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 
 If you are interested in discussing with me, feel free to drop me an email (dongdongwu@seu.edu.cn, dongdongwu1230@gmail.com) or add my wechat (kaefer1999).
 
+**Note: I am seeking a research assistant (RA) position opportunities** from June 2023 through March 2024. Please feel free to contact me if you have any potential openings.
+
 # 🎈 Github
 
 - [[Advances-in-Partial-and-Complementary-Label-Learning]](https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
@@ -33,7 +35,7 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 
 - Efficient Model Stealing Defense with Noise Transition Matrix
   - **Dong-Dong Wu**, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang*.
-  - *Proceedings of the 34th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**)*, accepted, 2024.
+  - *Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**)*, accepted, 2024.
 - [Robust Representation Learning for Unreliable Partial Label Learning.](https://arxiv.org/pdf/2308.16718.pdf)
   - Yu Shi$\dagger$, **Dong-Dong Wu**$\dagger$, Xin Geng\*, Min-Ling Zhang\*
 - [Distilling Reliable Knowledge for Instance-dependent Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/AAAI'24d.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf) [[Code]](https://github.com/wu-dd/DIRK)
