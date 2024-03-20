@@ -68,6 +68,7 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 
 # 🏅 Honors and Awards
 
+-  6th place@final list, 1th place@defense session (track: AI generated news detection) in the **ATECE2023**, 2024.
 -  Outstanding Graduate Student Model in Southeast University, 2023.
 -  Lenovo Research Institute Scholarship, 2023.
 -  Outstanding Graduate Student in Southeast University, 2022.
