@@ -68,21 +68,20 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 
 # 🏅 Honors and Awards
 
--  Outstanding Graduates of Jiangsu Province, 2024.
--  1st place team (Top 1/1901) in the **ATEC2023**, 2024. (Thanks for my team mates!)
+-  1st place team (Top 1/1901) in the **ATEC2023 - LLM application and security** [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml), 2024. (Thanks for my team mates!)
 -  Excellent Master Student Model in Southeast University, 2023.
 -  Lenovo Research Institute Scholarship, 2023.
 -  Excellent Master Student in Southeast University, 2022.
-- 7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL), 2022.
+-  7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL), 2022.
 -  Graduate Academic Scholarship of Southeast University (3-time), 2021-2022.
-- Advanced Individual in Chongqing city, 2021.
-- Outstanding Graduates in Chongqing University, 2020.
-- First Prize (top 3%), National CCF Green Computing Contest, 2021.
-- Third Prize  (top 5%), National WeChat Mini Program Development Contest, 2020.
-- Outstanding Winner (top 0.1%), International Interdisciplinary Contest in Modeling (ICM), 2019.
-- Individual Scholarship (4-time), including Huawei Scholarship, Seasky Land Scholarship, Texcel Scholarship, Qianrong Wang Scholarship).
-- National Inspirational Scholarship of Chongqing University (3-time).
-- Comprehensive Scholarship of Chongqing University (6-time).
+-  Advanced Individual in Chongqing city, 2021.
+-  Outstanding Graduates in Chongqing University, 2020.
+-  First Prize (top 3%), National CCF Green Computing Contest, 2021.
+-  Third Prize  (top 5%), National WeChat Mini Program Development Contest, 2020.
+-  Outstanding Winner (top 0.1%), International Interdisciplinary Contest in Modeling (ICM), 2019.
+-  Individual Scholarship (4-time), including Huawei Scholarship, Seasky Land Scholarship, Texcel Scholarship, Qianrong Wang Scholarship).
+-  National Inspirational Scholarship of Chongqing University (3-time).
+-  Comprehensive Scholarship of Chongqing University (6-time).
 
 # 👨‍🎓Educations
 
