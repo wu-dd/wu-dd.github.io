@@ -66,7 +66,7 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 - Reviewer / PC Member: ICML (2022), ECML-PKDD (2023), CVPR (2024), IJCAI (2024), KDD (2024).
 - Teaching Assistant: Machine Learning at Southeast University, spring 2022.
 
-# :ghost: Invited Talk
+# 👻 Invited Talk
 
 - "ATEC2023 Competition Review and Sharing", Meituan, 2024
 
