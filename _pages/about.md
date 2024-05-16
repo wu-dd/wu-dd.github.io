@@ -66,9 +66,14 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 - Reviewer / PC Member: ICML (2022), ECML-PKDD (2023), CVPR (2024), IJCAI (2024), KDD (2024).
 - Teaching Assistant: Machine Learning at Southeast University, spring 2022.
 
+# :ghost: Invited Talk
+
+- "ATEC2023 Competition Review and Sharing", Meituan, 2024
+
 # 🏅 Honors and Awards
 
 -  1st place team (Top 1/1901) in the **ATEC2023 - LLM application and security** [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml), 2024. (Thanks for my team mates!)
+-  Huawei Scholarship, 2024.
 -  Excellent Master Student Model in Southeast University, 2023.
 -  Lenovo Research Institute Scholarship, 2023.
 -  Excellent Master Student in Southeast University, 2022.
