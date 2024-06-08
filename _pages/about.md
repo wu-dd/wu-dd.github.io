@@ -23,7 +23,7 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 
 If you are interested in discussing with me, feel free to drop me an email (dongdongwu@seu.edu.cn, dongdongwu1230@gmail.com) or add my wechat (kaefer1999).
 
-**Note: I am seeking a research assistant (RA) position opportunities** from June 2023 through March 2024. Please feel free to contact me if you have any potential openings.
+~~**Note: I am seeking a research assistant (RA) position opportunities** from June 2023 through March 2024. Please feel free to contact me if you have any potential openings.~~
 
 # 🎈 Github
 
@@ -72,6 +72,7 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 
 # 🏅 Honors and Awards
 
+-  Outstanding Graduate in Southeast University, 2024.
 -  1st place team (Top 1/1901) in the **ATEC2023 - LLM application and security** [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml), 2024. (Thanks for my team mates!)
 -  Huawei Scholarship, 2024.
 -  Excellent Master Student Model in Southeast University, 2023.
@@ -80,7 +81,7 @@ If you are interested in discussing with me, feel free to drop me an email (dong
 -  7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL), 2022.
 -  Graduate Academic Scholarship of Southeast University (3-time), 2021-2022.
 -  Advanced Individual in Chongqing city, 2021.
--  Outstanding Graduates in Chongqing University, 2020.
+-  Outstanding Graduate in Chongqing University, 2021.
 -  First Prize (top 3%), National CCF Green Computing Contest, 2021.
 -  Third Prize  (top 5%), National WeChat Mini Program Development Contest, 2020.
 -  Outstanding Winner (top 0.1%), International Interdisciplinary Contest in Modeling (ICM), 2019.
