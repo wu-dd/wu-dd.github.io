@@ -23,7 +23,9 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 
 If you are interested in discussing with me, feel free to drop me an email (dongdongwu@seu.edu.cn, dongdongwu1230@gmail.com) or add my wechat (kaefer1999).
 
-~~**Note: I am seeking a research assistant (RA) position opportunities** from June 2023 through March 2024. Please feel free to contact me if you have any potential openings.~~
+~~**Note: I am seeking a research assosiate (RA) position opportunities** from June 2024 through March 2025. Please feel free to contact me if you have any potential openings.~~
+
+I am going to MBZUAI as RA from Sept. 1th 2024, advised by Zhiqiang Shen, welcome to chat with me if you are interested.
 
 # 🎈 Github
 
