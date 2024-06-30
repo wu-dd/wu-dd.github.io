@@ -23,9 +23,7 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 
 If you are interested in discussing with me, feel free to drop me an email (dongdongwu@seu.edu.cn, dongdongwu1230@gmail.com) or add my wechat (kaefer1999).
 
-~~**Note: I am seeking a research assosiate (RA) position opportunities** from June 2024 through March 2025. Please feel free to contact me if you have any potential openings.~~
-
-I am going to MBZUAI as RA from Sept. 1th 2024, advised by Zhiqiang Shen, welcome to chat with me if you are interested.
+I am going to MBZUAI as RA from Sept. 1th 2024, advised by Zhiqiang Shen, welcome to discuss with me if you are interested.
 
 # 🎈 Github
 
@@ -75,7 +73,7 @@ I am going to MBZUAI as RA from Sept. 1th 2024, advised by Zhiqiang Shen, welcom
 # 🏅 Honors and Awards
 
 -  Outstanding Graduate in Southeast University, 2024.
--  1st place team (Top 1/1901) in the **ATEC2023 - LLM application and security** [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml), 2024. (Thanks for my team mates!)
+-  1st place team (Top 1/1901) in the **ATEC2023 - LLM application and security** [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml), 2024.
 -  Huawei Scholarship, 2024.
 -  Excellent Master Student Model in Southeast University, 2023.
 -  Lenovo Research Institute Scholarship, 2023.
@@ -93,5 +91,5 @@ I am going to MBZUAI as RA from Sept. 1th 2024, advised by Zhiqiang Shen, welcom
 
 # 👨‍🎓Educations
 
-- *2021.09 - 2024.06 (now)*, Master, Southeast University (87.93/100), Nanjing. 
+- *2021.09 - 2024.06*, Master, Southeast University (87.93/100), Nanjing. 
 - *2017.09 - 2021.06*, Undergraduate, Chongqing University (86.88/100), Chongqing.
