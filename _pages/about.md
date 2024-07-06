@@ -33,7 +33,7 @@ I am going to MBZUAI as RA from Sept. 1th 2024, advised by Zhiqiang Shen, welcom
 
 # 📝 Publications
 
-- [Efficient Model Stealing Defense with Noise Transition Matrix](https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf) [[Code]](https://palm.seu.edu.cn/zhangml/files/EMMA.zip)
+- [Efficient Model Stealing Defense with Noise Transition Matrix](https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf) [[Code]](https://github.com/wu-dd/EMMA)
   - **Dong-Dong Wu**, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang*.
   - *Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**)*, accepted, 2024.
 - [Robust Representation Learning for Unreliable Partial Label Learning.](https://arxiv.org/pdf/2308.16718.pdf)
@@ -58,13 +58,18 @@ I am going to MBZUAI as RA from Sept. 1th 2024, advised by Zhiqiang Shen, welcom
 
 # 👨‍💻 Internships
 
-- *2023.06 - 2023.10*, Machine Intelligence Department, [Ant Group](https://www.antgroup.com/), China.
-- *2020.06 - 2021.09*, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China, [<a href ="../certificates/Institute of Automation-Admission.pdf">Admission</a>] [<a href ="../certificates/Institute of Automation-Proof.pdf">Certificate</a>].	
+- *2023.06 - 2023.10*, Machine Intelligence Department, [Ant Group](https://www.antgroup.com/), China. 
+- *2020.06 - 2021.09*, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China, [<a href ="../certificates/Institute of Automation-Proof.pdf">Certificate</a>].	
 
-# 🌞 Professional Services
+# 🌞 Academic Services
 
 - Reviewer / PC Member: ICML (2022), ECML-PKDD (2023), CVPR (2024), IJCAI (2024), KDD (2024).
 - Teaching Assistant: Machine Learning at Southeast University, spring 2022.
+
+# 👨‍🎓 Educations
+
+- *2021.09 - 2024.06*, Master, Southeast University (87.93/100), Nanjing. 
+- *2017.09 - 2021.06*, Undergraduate, Chongqing University (86.88/100), Chongqing.
 
 # 👻 Invited Talk
 
@@ -72,24 +77,37 @@ I am going to MBZUAI as RA from Sept. 1th 2024, advised by Zhiqiang Shen, welcom
 
 # 🏅 Honors and Awards
 
--  Outstanding Graduate in Southeast University, 2024.
--  1st place team (Top 1/1901) in the **ATEC2023 - LLM application and security** [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml), 2024.
--  Huawei Scholarship, 2024.
--  Excellent Master Student Model in Southeast University, 2023.
--  Lenovo Research Institute Scholarship, 2023.
--  Excellent Master Student in Southeast University, 2022.
--  7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL), 2022.
--  Graduate Academic Scholarship of Southeast University (3-time), 2021-2022.
--  Advanced Individual in Chongqing city, 2021.
--  Outstanding Graduate in Chongqing University, 2021.
--  First Prize (top 3%), National CCF Green Computing Contest, 2021.
--  Third Prize  (top 5%), National WeChat Mini Program Development Contest, 2020.
--  Outstanding Winner (top 0.1%), International Interdisciplinary Contest in Modeling (ICM), 2019.
--  Individual Scholarship (4-time), including Huawei Scholarship, Seasky Land Scholarship, Texcel Scholarship, Qianrong Wang Scholarship).
--  National Inspirational Scholarship of Chongqing University (3-time).
+- -------------------
+
+  Outstanding Graduate in Southeast University, 2024.
+
+- Excellent Master Student Model in Southeast University, 2023.
+
+- Excellent Master Student in Southeast University, 2022.
+
+- 1st place team (Top 1/1901) in the **ATEC2023 - LLM application and security** [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml), 2024.
+
+- 7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL), 2022.
+
+- Individual Scholarship (2-time), including Lenovo Research Institute Scholarship (2023), Huawei Scholarship (2024).
+
+- Graduate Academic Scholarship of Southeast University (3-time), 2021-202.
+
+- ---------------------
+
+  Outstanding Graduate in Chongqing University, 2021.
+
+- Advanced Individual in Chongqing city, 2021.
+
+- First Prize, National CCF Green Computing Contest, 2021.
+
+- Third Prize, National WeChat Mini Program Development Contest, 2020.
+
+- Outstanding Winner (top 0.1%), International Interdisciplinary Contest in Modeling (ICM), 2019.
+
+- Individual Scholarship (4-time), including Huawei Scholarship, Seasky Land Scholarship, Texcel Scholarship, Qianrong Wang Scholarship.
+
+- National Inspirational Scholarship of Chongqing University (3-time).
+
 -  Comprehensive Scholarship of Chongqing University (6-time).
 
-# 👨‍🎓Educations
-
-- *2021.09 - 2024.06*, Master, Southeast University (87.93/100), Nanjing. 
-- *2017.09 - 2021.06*, Undergraduate, Chongqing University (86.88/100), Chongqing.
