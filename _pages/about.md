@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dong-Dong Wu (吴东冬) is currently a third-year master student in [School of computer science and engineering at Southeast University](https://cse.seu.edu.cn/). He is a member of [Pattern Learning and Mining Lab (PALM)](http://palm.seu.edu.cn/) supervised by [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml/). Dong-Dong Wu received his B.Eng. degree in [School of Big Data & Software Engineering at Chongqing University](http://www.cse.cqu.edu.cn/) in Jun 2021. In the same year, he was admitted to study for an M.Eng. degree in Southeast University without entrance examination.
+I am currently a incoming research associate in Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by Assistant Professor [Zhiqiang SHEN](https://zhiqiangshen.com/). Before that, I received my M.Eng. degree from [Southeast University](https://cse.seu.edu.cn/) under the supervision of [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml). I received my B.Eng. degree from [Chongqing University](http://www.cse.cqu.edu.cn/).
 
 My primary research interest lies in the field of **trustworthy weakly supervised learning**,   <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Specially now I am focusing on partial label learning, dataset condensation, long-tailed learning, knowledge distillation, and uncertainty calibration, model defense. Here is my  <a href ="../certificates/CV.pdf">CV</a>.
 
-If you are interested in discussing with me, feel free to drop me an email (dongdongwu@seu.edu.cn, dongdongwu1230@gmail.com) or add my wechat (kaefer1999).
+If you are interested in discussing with me, welcome and feel free to drop me an email (dongdongwu@seu.edu.cn, dongdongwu1230@gmail.com) or add my wechat (kaefer1999).
 
-I am going to MBZUAI as RA from Sept. 1th 2024, advised by Zhiqiang Shen, welcome to discuss with me if you are interested.
-
-# 🎈 Github
+# 🎈 GitHub Repositories
 
 - [[Advances-in-Partial-and-Complementary-Label-Learning]](https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
   - A curated list of most recent papers & codes in Learning with Partial/Complementary Labels.
@@ -56,10 +54,11 @@ I am going to MBZUAI as RA from Sept. 1th 2024, advised by Zhiqiang Shen, welcom
   - *Quality and Reliability Engineering International (QRE)*. 2020; 36(5): 1786‐1807. https://doi.org/10.1002/qre.2660.
   - **ESI Highly Cited Paper [<a href ="../certificates/Top Cited Article 2020-2021.pdf">Certificate</a>], top1%.**
 
-# 👨‍💻 Internships
+# 👨‍💻 Academic Experience
 
-- *2023.06 - 2023.10*, Machine Intelligence Department, [Ant Group](https://www.antgroup.com/), China. 
-- *2020.06 - 2021.09*, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China, [<a href ="../certificates/Institute of Automation-Proof.pdf">Certificate</a>].	
+- *2024.09 - now*, Research Associate, [MBZUAI](https://mbzuai.ac.ae/), UAE. [Advised by [Zhiqiang SHEN](https://zhiqiangshen.com/)]
+- *2023.06 - 2023.10*, Machine Intelligence Department, [Ant Group](https://www.antgroup.com/), China. [Advised by [Chilin FU](https://dblp.org/pid/245/1803.html), [Xiaolu ZHANG](https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en), and [Jun Zhou](https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en)]
+- *2020.06 - 2021.09*, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China.
 
 # 🌞 Academic Services
 
@@ -77,37 +76,19 @@ I am going to MBZUAI as RA from Sept. 1th 2024, advised by Zhiqiang Shen, welcom
 
 # 🏅 Honors and Awards
 
-- -------------------
-
-  Outstanding Graduate in Southeast University, 2024.
-
+- Outstanding Graduate in Southeast University, 2024.
 - Excellent Master Student Model in Southeast University, 2023.
-
 - Excellent Master Student in Southeast University, 2022.
-
 - 1st place team (Top 1/1901) in the **ATEC2023 - LLM application and security** [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml), 2024.
-
 - 7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL), 2022.
-
 - Individual Scholarship (2-time), including Lenovo Research Institute Scholarship (2023), Huawei Scholarship (2024).
-
 - Graduate Academic Scholarship of Southeast University (3-time), 2021-202.
-
-- ---------------------
-
-  Outstanding Graduate in Chongqing University, 2021.
-
+- 
+- Outstanding Graduate in Chongqing University, 2021.
 - Advanced Individual in Chongqing city, 2021.
-
 - First Prize, National CCF Green Computing Contest, 2021.
-
 - Third Prize, National WeChat Mini Program Development Contest, 2020.
-
 - Outstanding Winner (top 0.1%), International Interdisciplinary Contest in Modeling (ICM), 2019.
-
 - Individual Scholarship (4-time), including Huawei Scholarship, Seasky Land Scholarship, Texcel Scholarship, Qianrong Wang Scholarship.
-
 - National Inspirational Scholarship of Chongqing University (3-time).
-
--  Comprehensive Scholarship of Chongqing University (6-time).
-
+- Comprehensive Scholarship of Chongqing University (6-time).
