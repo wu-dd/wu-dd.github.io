@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a incoming research associate in Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by Assistant Professor [Zhiqiang SHEN](https://zhiqiangshen.com/). Before that, I received my M.Eng. degree from [Southeast University](https://cse.seu.edu.cn/) under the supervision of [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml). I received my B.Eng. degree from [Chongqing University](http://www.cse.cqu.edu.cn/).
+I am currently a research assistant in Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by Assistant Professor [Zhiqiang SHEN](https://zhiqiangshen.com/). Before that, I received my M.Eng. degree from [Southeast University](https://cse.seu.edu.cn/) under the supervision of [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml). I received my B.Eng. degree from [Chongqing University](http://www.cse.cqu.edu.cn/).
 
 My primary research interest lies in the field of **trustworthy weakly supervised learning**,   <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Specially now I am focusing on partial label learning, dataset condensation, long-tailed learning, knowledge distillation, and uncertainty calibration, model defense. Here is my  <a href ="../certificates/CV.pdf">CV</a>.
 
@@ -57,7 +57,7 @@ If you are interested in discussing with me, welcome and feel free to drop me an
 # 👨‍💻 Academic Experience
 
 - *2024.09 - now*, Research Associate, [MBZUAI](https://mbzuai.ac.ae/), UAE. [Advised by [Zhiqiang SHEN](https://zhiqiangshen.com/)]
-- *2023.06 - 2023.10*, Machine Intelligence Department, [Ant Group](https://www.antgroup.com/), China. [Advised by [Chilin FU](https://dblp.org/pid/245/1803.html), [Xiaolu ZHANG](https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en), and [Jun Zhou](https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en)]
+- *2023.06 - 2023.10*, Machine Intelligence Department, [Ant Group](https://www.antgroup.com/), China. [Collaborated with [Chilin FU](https://dblp.org/pid/245/1803.html), [Xiaolu ZHANG](https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en), and [Jun ZHOU](https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en)]
 - *2020.06 - 2021.09*, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China.
 
 # 🌞 Academic Services
