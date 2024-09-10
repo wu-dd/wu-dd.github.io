@@ -74,21 +74,23 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 
 - "ATEC2023 Competition Review and Sharing", Meituan, 2024
 
-# 🏅 Honors and Awards
+# 🏅 Awards
 
+- (Competition)
+- 1st place team (Top 1/1901) in the **ATEC2023 - LLM application and security** [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml), 2024.
+- 7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL), 2022.
+- First Prize, National CCF Green Computing Contest, 2021.
+- Third Prize, National WeChat Mini Program Development Contest, 2020.
+- Outstanding Winner (Top 0.1%), International Interdisciplinary Contest in Modeling (ICM), 2019.
+- (Honors)
 - Outstanding Graduate in Southeast University, 2024.
 - Excellent Master Student Model in Southeast University, 2023.
 - Excellent Master Student in Southeast University, 2022.
-- 1st place team (Top 1/1901) in the **ATEC2023 - LLM application and security** [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml), 2024.
-- 7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL), 2022.
-- Individual Scholarship (2-time), including Lenovo Research Institute Scholarship (2023), Huawei Scholarship (2024).
-- Graduate Academic Scholarship of Southeast University (3-time), 2021-202.
-- 
 - Outstanding Graduate in Chongqing University, 2021.
 - Advanced Individual in Chongqing city, 2021.
-- First Prize, National CCF Green Computing Contest, 2021.
-- Third Prize, National WeChat Mini Program Development Contest, 2020.
-- Outstanding Winner (top 0.1%), International Interdisciplinary Contest in Modeling (ICM), 2019.
-- Individual Scholarship (4-time), including Huawei Scholarship, Seasky Land Scholarship, Texcel Scholarship, Qianrong Wang Scholarship.
-- National Inspirational Scholarship of Chongqing University (3-time).
-- Comprehensive Scholarship of Chongqing University (6-time).
+- (Scholarship)
+- Individual Scholarship (2-time), including Lenovo Research Institute Scholarship (2023), Huawei Scholarship (2024).
+- Graduate Academic Scholarship of Southeast University (3-time), 2021-2023.
+- Individual Scholarship (4-time), including Huawei Scholarship (2021), Seasky Land Scholarship (2017), Texcel Scholarship (2019), Qianrong Wang Scholarship (2019).
+- National Inspirational Scholarship of Chongqing University (3-time), 2017-2020.
+- Comprehensive Scholarship of Chongqing University (6-time), 2017-2021.
