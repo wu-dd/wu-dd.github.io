@@ -25,7 +25,7 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 
 # 🎈 GitHub Repositories
 
-- [[Advances-in-Partial-and-Complementary-Label-Learning]](https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
+- [[Advances-in-Partial-and-Complementary-Label-Learning]](https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning) ![](https://img.shields.io/github/stars/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
   - A curated list of most recent papers & codes in Learning with Partial/Complementary Labels.
 
 
