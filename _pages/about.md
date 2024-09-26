@@ -34,6 +34,9 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 - Dissimilarity-Driven Contrastive Learning for Robust Hashing in Partial Label Image Retrieval.
   - Zhiqiang Kou, Yucheng Xie, **Dong-Dong Wu**, Jing Wang, Yuheng Jia, Min-Ling Zhang, Xin Geng.
 
+- PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms.
+  - Wei Wang, **Dong-Dong Wu**, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama.
+  
 - [Efficient Model Stealing Defense with Noise Transition Matrix](https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf) [[Code]](https://github.com/wu-dd/EMMA)
   - **Dong-Dong Wu**, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang*.
   - *Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**)*, accepted, 2024.
