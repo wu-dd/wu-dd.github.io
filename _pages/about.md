@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -17,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a <u>Research Assistant</u> in Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by Assistant Professor [Zhiqiang SHEN](https://zhiqiangshen.com/). Before that, I received my M.Eng. degree from [Southeast University](https://cse.seu.edu.cn/) under the supervision of [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml). I received my B.Eng. degree from [Chongqing University](http://www.cse.cqu.edu.cn/).
+I am currently a <u>Research Assistant</u> in Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by Assistant Professor [Zhiqiang Shen](https://zhiqiangshen.com/). Before that, I received my M.Eng. degree from [Southeast University](https://cse.seu.edu.cn/) under the supervision of [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml). I received my B.Eng. degree from [Chongqing University](http://www.cse.cqu.edu.cn/).
 
 My primary research interest lies in the field of **trustworthy weakly supervised learning**,   <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Currently, I am particularly interested in areas such as partial label learning, dataset condensation, AI safety, long-tailed learning, knowledge distillation, and uncertainty calibration. Here is my  <a href ="../certificates/CV.pdf">CV</a>.
 
@@ -56,8 +57,8 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 
 # 👨‍💻 Academic Experience
 
-- *2024.09 - now*, Research Assistant, [MBZUAI](https://mbzuai.ac.ae/), UAE. [Advised by [Zhiqiang SHEN](https://zhiqiangshen.com/)]
-- *2023.06 - 2023.10*, Machine Intelligence Department, [Ant Group](https://www.antgroup.com/), China. [Collaborated with [Chilin FU](https://dblp.org/pid/245/1803.html), [Xiaolu ZHANG](https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en), and [Jun ZHOU](https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en)]
+- *2024.09 - now*, Research Assistant, [MBZUAI](https://mbzuai.ac.ae/), UAE. [Advised by [Zhiqiang Shen](https://zhiqiangshen.com/)]
+- *2023.06 - 2023.10*, Machine Intelligence Department, [Ant Group](https://www.antgroup.com/), China. [Collaborated with [Chilin Fu](https://dblp.org/pid/245/1803.html), [Xiaolu Zhang](https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en), and [Jun Zhou](https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en)]
 - *2020.06 - 2021.09*, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China.
 
 # 🌞 Academic Services
@@ -76,23 +77,23 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 
 # 🏅 Awards
 
-- (Competition)
-- Team Champion (Rank 1/1901), **ATEC2023 - LLM Application and Security**, 2024. [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml)
-- Rank 6, ATEC2023 - AI-Generated News Detection Track, 2024.
-- Rank 7, ***1st Learning and Mining with Noisy Labels (LMNL) Challenge of IJCAI-ECAI2022*** - Image Classification Task, 2022. [<a href="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL)
-- Rank 4, ***1st Learning and Mining with Noisy Labels (LMNL) Challenge of IJCAI-ECAI2022*** - Label Noise Detection Task, 2022.
-- First Prize, National CCF Green Computing Contest, 2021.
-- Third Prize, National WeChat Mini Program Development Contest, 2020.
-- Outstanding Winner (Top 1%), International Interdisciplinary Contest in Modeling (ICM), 2019. [[Report]](https://wmxy.cqu.edu.cn/info/1016/1173.htm)
-- (Honors)
-- Outstanding Graduate in Southeast University, 2024.
-- Excellent Master Student Model in Southeast University, 2023.
-- Excellent Master Student in Southeast University, 2022.
-- Outstanding Graduate in Chongqing University, 2021.
-- Advanced Individual in Chongqing city, 2021.
-- (Scholarship)
-- Individual Scholarship (2-time), including Lenovo Research Institute Scholarship (2023), Huawei Scholarship (2024).
-- Graduate Academic Scholarship of Southeast University (3-time), 2021-2023.
-- Individual Scholarship (4-time), including Huawei Scholarship (2021), Seasky Land Scholarship (2017), Texcel Scholarship (2019), Qianrong Wang Scholarship (2019).
-- National Inspirational Scholarship of Chongqing University (3-time), 2017-2020.
-- Comprehensive Scholarship of Chongqing University (6-time), 2017-2021.
+- Competition
+  - Team Champion (Rank 1/1901), **ATEC2023** - LLM Application and Security, 2024. [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml)
+  - Rank 6, **ATEC2023** - AI-Generated News Detection Track, 2024.
+  - Rank 7, ***1st Learning and Mining with Noisy Labels (LMNL) Challenge of IJCAI-ECAI2022*** - Image Classification Task, 2022. [<a href="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL)
+  - Rank 4, ***1st Learning and Mining with Noisy Labels (LMNL) Challenge of IJCAI-ECAI2022*** - Label Noise Detection Task, 2022.
+  - First Prize, National CCF Green Computing Contest, 2021.
+  - Third Prize, National WeChat Mini Program Development Contest, 2020.
+  - Outstanding Winner (Top 1%), International Interdisciplinary Contest in Modeling (ICM), 2019. [[Report]](https://wmxy.cqu.edu.cn/info/1016/1173.htm)
+- Honors
+  - Outstanding Graduate in Southeast University, 2024.
+  - Excellent Master Student Model in Southeast University, 2023.
+  - Excellent Master Student in Southeast University, 2022.
+  - Outstanding Graduate in Chongqing University, 2021.
+  - Advanced Individual in Chongqing city, 2021.
+- Scholarship
+  - Individual Scholarship (2-time), including Lenovo Research Institute Scholarship (2023), Huawei Scholarship (2024).
+  - Graduate Academic Scholarship of Southeast University (3-time), 2021-2023.
+  - Individual Scholarship (4-time), including Huawei Scholarship (2021), Seasky Land Scholarship (2017), Texcel Scholarship (2019), Qianrong Wang Scholarship (2019).
+  - National Inspirational Scholarship of Chongqing University (3-time), 2017-2020.
+  - Comprehensive Scholarship of Chongqing University (6-time), 2017-2021.
