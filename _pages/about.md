@@ -77,11 +77,13 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 # 🏅 Awards
 
 - (Competition)
-- 1st place team (Top 1/1901) in the **ATEC2023 - LLM application and security** [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml), 2024.
-- 7th place@Task 1-1(Image Classification) and 4th place@Task 1-2(Label Noise Detection) in the ***1st Learning and Mining with Noisy Labels (LMNL) challenge of IJCAI-ECAI2022*** [<a href ="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL), 2022.
+- Team Champion (Rank 1/1901), **ATEC2023 - LLM Application and Security**, 2024. [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml)
+- Rank 6, ATEC2023 - AI-Generated News Detection Track, 2024.
+- Rank 7, ***1st Learning and Mining with Noisy Labels (LMNL) Challenge of IJCAI-ECAI2022*** - Image Classification Task, 2022. [<a href="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL)
+- Rank 4, ***1st Learning and Mining with Noisy Labels (LMNL) Challenge of IJCAI-ECAI2022*** - Label Noise Detection Task, 2022.
 - First Prize, National CCF Green Computing Contest, 2021.
 - Third Prize, National WeChat Mini Program Development Contest, 2020.
-- Outstanding Winner (Top 0.1%), International Interdisciplinary Contest in Modeling (ICM), 2019.
+- Outstanding Winner (Top 1%), International Interdisciplinary Contest in Modeling (ICM), 2019. [[Report]](https://wmxy.cqu.edu.cn/info/1016/1173.htm)
 - (Honors)
 - Outstanding Graduate in Southeast University, 2024.
 - Excellent Master Student Model in Southeast University, 2023.
