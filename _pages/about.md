@@ -89,12 +89,7 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 - Honors
   - Outstanding Graduate in Southeast University, 2024.
   - Excellent Master Student Model in Southeast University, 2023.
-  - Excellent Master Student in Southeast University, 2022.
-  - Outstanding Graduate in Chongqing University, 2021.
-  - Advanced Individual in Chongqing city, 2021.
+  - Outstanding Undergraduate in Chongqing University, 2021.
+  - Advanced Undergraduate in Chongqing city, 2021.
 - Scholarship
-  - Individual Scholarship (2-time), including Lenovo Research Institute Scholarship (2023), Huawei Scholarship (2024).
-  - Graduate Academic Scholarship of Southeast University (3-time), 2021-2023.
-  - Individual Scholarship (4-time), including Huawei Scholarship (2021), Seasky Land Scholarship (2017), Texcel Scholarship (2019), Qianrong Wang Scholarship (2019).
-  - National Inspirational Scholarship of Chongqing University (3-time), 2017-2020.
-  - Comprehensive Scholarship of Chongqing University (6-time), 2017-2021.
+  - Huawei Scholarship (2024), Lenovo Research Institute Scholarship (2023), Huawei Scholarship (2021)
