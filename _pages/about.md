@@ -80,6 +80,7 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 - Competition
   - Team Champion (Rank 1/1901), **ATEC2023** - LLM Application and Security, 2024. [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml)
   - Rank 6, **ATEC2023** - AI-Generated News Detection Track, 2024.
+  - Rank 6, **CCF BDCI** - Conversational RAG Track, 2024.
   - Rank 7, ***1st Learning and Mining with Noisy Labels (LMNL) Challenge of IJCAI-ECAI2022*** - Image Classification Task, 2022. [<a href="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL)
   - Rank 4, ***1st Learning and Mining with Noisy Labels (LMNL) Challenge of IJCAI-ECAI2022*** - Label Noise Detection Task, 2022.
   - First Prize, National CCF Green Computing Contest, 2021.
