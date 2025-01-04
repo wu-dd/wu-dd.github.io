@@ -35,8 +35,9 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 - [Efficient Model Stealing Defense with Noise Transition Matrix](https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf) [[Code]](https://github.com/wu-dd/EMMA)
   - **Dong-Dong Wu**, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang*.
   - *Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**)*, accepted, 2024.
-- [Robust Representation Learning for Unreliable Partial Label Learning.](https://arxiv.org/pdf/2308.16718.pdf)
-  - Yu Shi$\dagger$, **Dong-Dong Wu**$\dagger$, Xin Geng\*, Min-Ling Zhang\*
+- [Robust Representation Learning for Unreliable Partial Label Learning](https://arxiv.org/pdf/2308.16718.pdf). [[Code]](https://github.com/wu-dd/URRL)
+  - Yu Shi$\dagger$, **Dong-Dong Wu**$\dagger$, Xin Geng\*, Min-Ling Zhang\*.
+  - *Preprint on arXiv*, 2024.
 - [Distilling Reliable Knowledge for Instance-dependent Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/AAAI'24d.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf) [[Code]](https://github.com/wu-dd/DIRK)
   - **Dong-Dong Wu**, Deng-Bao Wang, Min-Ling Zhang\*.
   - *Proceedings of the 38th AAAI Conference on Artificial Intelligence (**AAAI'24**)*, accepted, 2023.
@@ -61,15 +62,15 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 - *2023.06 - 2023.10*, Machine Intelligence Department, [Ant Group](https://www.antgroup.com/), China. [Collaborated with [Chilin Fu](https://dblp.org/pid/245/1803.html), [Xiaolu Zhang](https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en), and [Jun Zhou](https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en)]
 - *2020.06 - 2021.09*, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China.
 
-# 🌞 Academic Services
-
-- Reviewer / PC Member: ICML (2022), ECML-PKDD (2023), CVPR (2024, 2025), IJCAI (2024, 2025), KDD (2024).
-- Teaching Assistant: Machine Learning at Southeast University, spring 2022.
-
 # 👨‍🎓 Educations
 
 - *2021.09 - 2024.06*, Master, Southeast University (87.93/100), Nanjing. 
 - *2017.09 - 2021.06*, Undergraduate, Chongqing University (86.88/100), Chongqing.
+
+# 🌞 Academic Services
+
+- Reviewer / PC Member: ICML (2022), ECML-PKDD (2023), CVPR (2024, 2025), IJCAI (2024, 2025), KDD (2024).
+- Teaching Assistant: Machine Learning at Southeast University, spring 2022.
 
 # 👻 Invited Talk
 
@@ -80,7 +81,7 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 - Competition
   - Team Champion (Rank 1/1901), **ATEC2023** - LLM Application and Security, 2024. [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml)
   - Rank 6, **ATEC2023** - AI-Generated News Detection Track, 2024.
-  - Rank 6, **CCF BDCI** - Conversational RAG Track, 2024.
+  - Rank 6, **CCF BDCI** - Conversational RAG Track, 2024. [[Code]](https://github.com/wu-dd/BDCI-Solution) 
   - Rank 7, ***1st Learning and Mining with Noisy Labels (LMNL) Challenge of IJCAI-ECAI2022*** - Image Classification Task, 2022. [<a href="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL)
   - Rank 4, ***1st Learning and Mining with Noisy Labels (LMNL) Challenge of IJCAI-ECAI2022*** - Label Noise Detection Task, 2022.
   - First Prize, National CCF Green Computing Contest, 2021.
