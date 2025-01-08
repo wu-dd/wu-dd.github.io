@@ -20,7 +20,7 @@ redirect_from:
 
 I am currently a <u>Research Assistant</u> in MBZUAI, advised by Assistant Professor [Zhiqiang Shen](https://zhiqiangshen.com/). Before that, I received my M.Eng. degree from [Southeast University](https://cse.seu.edu.cn/) under the supervision of [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml). I received my B.Eng. degree from [Chongqing University](http://www.cse.cqu.edu.cn/).
 
-My primary research interest lies in the field of **trustworthy weakly supervised learning** and **data-efficient learning**,   <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Here is my  <a href ="../certificates/CV.pdf">CV</a>.
+My primary research focus is on **trustworthy weakly supervised learning** and **data-efficient learning**,   <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Here's my  <a href ="../certificates/CV.pdf">CV</a>.
 
 <u>Next year (2025 April), I will begin my Ph.D. studies at the University of Tokyo under the supervision of</u> [Masashi Sugiyama](https://scholar.google.co.jp/citations?user=GkYIrlIAAAAJ&hl=en). If you are interested in discussing with me, welcome and feel free to email me at DongDong.Wu@mbzuai.ac.ae or dongdongwu1230@gmail.com, or reach out via WeChat (ID: kaefer1999).
 
@@ -62,10 +62,10 @@ My primary research interest lies in the field of **trustworthy weakly supervise
 - *2023.06 - 2023.10*, Research Intern, Machine Intelligence Department of [Ant Group](https://www.antgroup.com/), China. [Collaborated with [Chilin Fu](https://dblp.org/pid/245/1803.html), [Xiaolu Zhang](https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en), and [Jun Zhou](https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en)]
 - *2020.06 - 2021.09*, Research Intern, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China.
 
-# 👨‍🎓 Educations
+# 👨‍🎓 Academic Educations
 
-- *2021.09 - 2024.06*, Master, Southeast University (87.93/100), Nanjing. 
-- *2017.09 - 2021.06*, Undergraduate, Chongqing University (86.88/100), Chongqing.
+- *2021.09 - 2024.06*, Master, Southeast University (87.93/100), Nanjing city, China. 
+- *2017.09 - 2021.06*, Undergraduate, Chongqing University (86.88/100), Chongqing city, China.
 
 # 🌞 Academic Services
 
