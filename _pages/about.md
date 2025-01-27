@@ -76,7 +76,7 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 
 # 🌞 Academic Services
 
-- Reviewer / PC Member: ICML (2022), ECML-PKDD (2023), CVPR (2024, 2025), IJCAI (2024, 2025), KDD (2024).
+- Reviewer / PC Member: ICML (2022, 2025), ECML-PKDD (2023), CVPR (2024, 2025), IJCAI (2024, 2025), KDD (2024).
 - Teaching Assistant: Machine Learning at Southeast University, spring 2022.
 
 # 👻 Invited Talk
