@@ -32,7 +32,7 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 
 # 📝 Publications
 
-- [PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms](https://openreview.net/forum?id=FtX6oAW7Dd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)).
+- [PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms](https://openreview.net/forum?id=FtX6oAW7Dd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)). (Spotlight)
   - Wei Wang, **Dong-Dong Wu**, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama*.
   - *The 13th International Conference on Learning Representations (**ICLR’25**)*, accepted, 2024.
 - Unleashing Potential of Mix Augmentation for Partial Label Learning.
