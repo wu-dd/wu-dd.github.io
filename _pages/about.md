@@ -38,7 +38,7 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 - Unleashing Potential of Mix Augmentation for Partial Label Learning.
   - **Dong-Dong Wu**, Zhaoyi Li, Xiang Li, Zhiqiang Shen*.
 - Dissimilarity-Driven Contrastive Learning for Robust Hashing in Partial Label Image Retrieval.
-  - Zhiqiang Kou, Yucheng Xie, **Dong-Dong Wu**, Jing Wang, Yuheng Jia, Min-Ling Zhang, Xin Geng*.
+  - Zhiqiang Kou$\dagger$, Yucheng Xie$\dagger$, **Dong-Dong Wu**, Jing Wang, Yuheng Jia, Min-Ling Zhang, Xin Geng*.
 - [Efficient Model Stealing Defense with Noise Transition Matrix](https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf) [[Code]](https://github.com/wu-dd/EMMA)
   - **Dong-Dong Wu**, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang*.
   - *Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**)*, accepted, 2024.
@@ -66,7 +66,7 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 # 👨‍💻 Academic Experience
 
 - *2024.09 - 2025.3 (expected)*, Research Assistant, [MBZUAI](https://mbzuai.ac.ae/), UAE. [Advised by [Zhiqiang Shen](https://zhiqiangshen.com/)]
-- *2023.06 - 2023.10*, Research Intern, Machine Intelligence Department of [Ant Group](https://www.antgroup.com/), China. [Collaborated with [Chilin Fu](https://dblp.org/pid/245/1803.html), [Xiaolu Zhang](https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en), and [Jun Zhou](https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en)]
+- *2023.06 - 2023.10*, Research Intern, [Ant Group](https://www.antgroup.com/), China. [Collaborated with [Chilin Fu](https://dblp.org/pid/245/1803.html), [Weichang Wu](https://openreview.net/profile?id=~Weichang_Wu1), [Xiaolu Zhang](https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en), and [Jun Zhou](https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en)]
 - *2020.06 - 2021.09*, Research Intern, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China.
 
 # 👨‍🎓 Academic Educations
