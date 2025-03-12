@@ -32,13 +32,16 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 
 # 📝 Publications
 
-- [PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms](https://openreview.net/forum?id=FtX6oAW7Dd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)). (🌟Spotlight🌟) [[Code]](https://github.com/wwangwitsel/PLENCH)
-  - Wei Wang, **Dong-Dong Wu**, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama*.
-  - *The 13th International Conference on Learning Representations (**ICLR’25**)*, accepted, 2024.
+- M-Attack: A Simple Baseline Achieving Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1.
+  - Zhaoyi Li, Xiaohan Zhao, **Dong-Dong Wu**, Jiacheng Cui, Zhiqiang Shen*.
+
 - Unleashing Potential of Mix Augmentation for Partial Label Learning.
   - **Dong-Dong Wu**, Zhaoyi Li, Xiang Li, Zhiqiang Shen*.
 - Dissimilarity-Driven Contrastive Learning for Robust Hashing in Partial Label Image Retrieval.
   - Zhiqiang Kou$\dagger$, Yucheng Xie$\dagger$, **Dong-Dong Wu**, Jing Wang, Yuheng Jia, Min-Ling Zhang, Xin Geng*.
+- [PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms](https://openreview.net/forum?id=FtX6oAW7Dd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)). (🌟Spotlight🌟) [[Code]](https://github.com/wwangwitsel/PLENCH)
+  - Wei Wang, **Dong-Dong Wu**, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama*.
+  - *The 13th International Conference on Learning Representations (**ICLR’25**)*, accepted, 2024.
 - [Efficient Model Stealing Defense with Noise Transition Matrix](https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf) [[Code]](https://github.com/wu-dd/EMMA)
   - **Dong-Dong Wu**, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang*.
   - *Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**)*, accepted, 2024.
