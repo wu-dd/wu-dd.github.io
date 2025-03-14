@@ -31,37 +31,37 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 
 
 # 📝 Publications
-
-- M-Attack: A Simple Baseline Achieving Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1.
-  - Zhaoyi Li$\dagger$, Xiaohan Zhao$\dagger$, **Dong-Dong Wu**, Jiacheng Cui, Zhiqiang Shen*.
+($\*$Equal contribution, $\dagger$Corresponding Author)
+- [M-Attack: A Simple Baseline Achieving Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1](https://arxiv.org/abs/2503.10635v1). [[Code]](https://vila-lab.github.io/M-Attack-Website)
+  - Zhaoyi Li$\*$, Xiaohan Zhao$\*$, **Dong-Dong Wu**, Jiacheng Cui, Zhiqiang Shen$\dagger$
 - Unleashing Potential of Mix Augmentation for Partial Label Learning.
   - **Dong-Dong Wu**, Zhaoyi Li, Xiang Li, Zhiqiang Shen*.
 - Dissimilarity-Driven Contrastive Learning for Robust Hashing in Partial Label Image Retrieval.
-  - Zhiqiang Kou$\dagger$, Yucheng Xie$\dagger$, **Dong-Dong Wu**, Jing Wang, Yuheng Jia, Min-Ling Zhang, Xin Geng*.
+  - Zhiqiang Kou$\*$, Yucheng Xie$\*$, **Dong-Dong Wu**, Jing Wang, Yuheng Jia, Min-Ling Zhang, Xin Geng$\dagger$.
 - [PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms](https://openreview.net/forum?id=FtX6oAW7Dd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)). (🌟Spotlight🌟) [[Code]](https://github.com/wwangwitsel/PLENCH)
-  - Wei Wang, **Dong-Dong Wu**, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama*.
+  - Wei Wang, **Dong-Dong Wu**, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama$\dagger$.
   - *The 13th International Conference on Learning Representations (**ICLR’25**)*, accepted, 2025.
 - [Efficient Model Stealing Defense with Noise Transition Matrix](https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf) [[Code]](https://github.com/wu-dd/EMMA)
-  - **Dong-Dong Wu**, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang*.
+  - **Dong-Dong Wu**, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang$\dagger$.
   - *Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**)*, accepted, 2024.
 - [Robust Representation Learning for Unreliable Partial Label Learning](https://arxiv.org/pdf/2308.16718.pdf). [[Code]](https://github.com/wu-dd/URRL)
-  - Yu Shi$\dagger$, **Dong-Dong Wu**$\dagger$, Xin Geng\*, Min-Ling Zhang\*.
+  - Yu Shi*, **Dong-Dong Wu**$\*$, Xin Geng$\dagger$, Min-Ling Zhang$\dagger$.
   - *Preprint on arXiv*, 2024.
 - [Distilling Reliable Knowledge for Instance-dependent Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/AAAI'24d.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf) [[Code]](https://github.com/wu-dd/DIRK)
-  - **Dong-Dong Wu**, Deng-Bao Wang, Min-Ling Zhang\*.
+  - **Dong-Dong Wu**$\*$, Deng-Bao Wang$\*$, Min-Ling Zhang$\dagger$.
   - *Proceedings of the 38th AAAI Conference on Artificial Intelligence (**AAAI'24**)*, accepted, 2023.
 - [Revisiting consistency regularization for deep partial label learning](http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf). [[Code]](https://github.com/wu-dd/PLCR)
-  - **Dong-Dong Wu**$\dagger$, Deng-Bao Wang$\dagger$, Min-Ling Zhang\*.
+  - **Dong-Dong Wu**$\*$, Deng-Bao Wang$\*$, Min-Ling Zhang$\dagger$.
   - *Proceedings of the 39th International Conference on Machine Learning (**ICML'22**)*, accepted, 2022.
 - [A new classification method based on the negation of a basic probability assignment in the evidence theory](https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864) 
-  - **Dongdong Wu**, Zijing Liu, Yongchuan Tang\*.
+  - **Dongdong Wu**, Zijing Liu, Yongchuan Tang$\dagger$.
   - *Engineering Applications of Artificial Intelligence (EAAI)*. 2020, 96: 103985. https://doi.org/10.1016/j.engappai.2020.103985.
 - [A new approach for generation of generalized basic probability  assignment in the evidence theory](https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf).
-  - Yongchuan Tang\*, **Dongdong Wu**, Zijing Liu.
+  - Yongchuan Tang$\dagger$, **Dongdong Wu**, Zijing Liu.
   - *Pattern Analysis and Applications (PAA)*.  2021, 24(3): 1007-1023. https://doi.org/10.1007/s10044-021-00966-0.
   - **ESI Highly Cited Paper, top1%**.
 - [An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory](https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660)
-  - **Dongdong Wu**, Yongchuan Tang*.
+  - **Dongdong Wu**, Yongchuan Tang$\dagger$.
   - *Quality and Reliability Engineering International (QRE)*. 2020; 36(5): 1786‐1807. https://doi.org/10.1002/qre.2660.
   - **ESI Highly Cited Paper [<a href ="../certificates/Top Cited Article 2020-2021.pdf">Certificate</a>], top1%.**
 
