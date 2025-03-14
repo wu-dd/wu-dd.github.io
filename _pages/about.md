@@ -33,11 +33,11 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 # 📝 Publications
 ($\*$Equal contribution, $\dagger$Corresponding Author)
 - [M-Attack: A Simple Baseline Achieving Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1](https://arxiv.org/abs/2503.10635v1). [[Code]](https://vila-lab.github.io/M-Attack-Website)
-  - Zhaoyi Li*, Xiaohan Zhao*, **Dong-Dong Wu**, Jiacheng Cui, Zhiqiang Shen$\dagger$
+  - Zhaoyi Li\*, Xiaohan Zhao\*, **Dong-Dong Wu**, Jiacheng Cui, Zhiqiang Shen$\dagger$
 - Unleashing Potential of Mix Augmentation for Partial Label Learning.
-  - **Dong-Dong Wu**, Zhaoyi Li, Xiang Li, Zhiqiang Shen*.
+  - **Dong-Dong Wu**, Zhaoyi Li, Xiang Li, Zhiqiang Shen$\dagger$.
 - Dissimilarity-Driven Contrastive Learning for Robust Hashing in Partial Label Image Retrieval.
-  - Zhiqiang Kou*, Yucheng Xie*, **Dong-Dong Wu**, Jing Wang, Yuheng Jia, Min-Ling Zhang, Xin Geng$\dagger$.
+  - Zhiqiang Kou\*, Yucheng Xie\*, **Dong-Dong Wu**, Jing Wang, Yuheng Jia, Min-Ling Zhang, Xin Geng$\dagger$.
 - [PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms](https://openreview.net/forum?id=FtX6oAW7Dd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)). (🌟Spotlight🌟) [[Code]](https://github.com/wwangwitsel/PLENCH)
   - Wei Wang, **Dong-Dong Wu**, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama$\dagger$.
   - *The 13th International Conference on Learning Representations (**ICLR’25**)*, accepted, 2025.
@@ -45,13 +45,13 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
   - **Dong-Dong Wu**, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang$\dagger$.
   - *Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**)*, accepted, 2024.
 - [Robust Representation Learning for Unreliable Partial Label Learning](https://arxiv.org/pdf/2308.16718.pdf). [[Code]](https://github.com/wu-dd/URRL)
-  - Yu Shi*, **Dong-Dong Wu***, Xin Geng$\dagger$, Min-Ling Zhang$\dagger$.
+  - Yu Shi\*, **Dong-Dong Wu**\*, Xin Geng$\dagger$, Min-Ling Zhang$\dagger$.
   - *Preprint on arXiv*, 2024.
 - [Distilling Reliable Knowledge for Instance-dependent Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/AAAI'24d.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf) [[Code]](https://github.com/wu-dd/DIRK)
-  - **Dong-Dong Wu***, Deng-Bao Wang*, Min-Ling Zhang$\dagger$.
+  - **Dong-Dong Wu**\*, Deng-Bao Wang\*, Min-Ling Zhang$\dagger$.
   - *Proceedings of the 38th AAAI Conference on Artificial Intelligence (**AAAI'24**)*, accepted, 2023.
 - [Revisiting consistency regularization for deep partial label learning](http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf). [[Code]](https://github.com/wu-dd/PLCR)
-  - **Dong-Dong Wu***, Deng-Bao Wang*, Min-Ling Zhang$\dagger$.
+  - **Dong-Dong Wu**\*, Deng-Bao Wang\*, Min-Ling Zhang$\dagger$.
   - *Proceedings of the 39th International Conference on Machine Learning (**ICML'22**)*, accepted, 2022.
 - [A new classification method based on the negation of a basic probability assignment in the evidence theory](https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864) 
   - **Dongdong Wu**, Zijing Liu, Yongchuan Tang$\dagger$.
@@ -67,7 +67,7 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 
 # 👨‍💻 Academic Experience
 
-- *2024.09 - 2025.3 (expected)*, Research Assistant, [MBZUAI](https://mbzuai.ac.ae/), UAE. [Advised by [Zhiqiang Shen](https://zhiqiangshen.com/)]
+- *2024.09 - 2025.3*, Research Assistant, [MBZUAI](https://mbzuai.ac.ae/), UAE. [Advised by [Zhiqiang Shen](https://zhiqiangshen.com/)]
 - *2023.06 - 2023.10*, Research Intern, [Ant Group](https://www.antgroup.com/), China. [Collaborated with [Chilin Fu](https://dblp.org/pid/245/1803.html), [Weichang Wu](https://openreview.net/profile?id=~Weichang_Wu1), [Xiaolu Zhang](https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en), and [Jun Zhou](https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en)]
 - *2020.06 - 2021.09*, Research Intern, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China.
 
