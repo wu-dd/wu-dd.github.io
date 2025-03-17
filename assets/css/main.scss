@@ -49,7 +49,15 @@
 }
 
 .paper-prebadge {
-  background-color: #2aa198;
+  background-color: #007f89;
+  color: white;
+  font-size: 0.85em;
+  padding: 2px 0.3rem;
+  border-radius: 5px;
+}
+
+.paper-journalbadge {
+  background-color: #007f89;
   color: white;
   font-size: 0.85em;
   padding: 2px 0.3rem;
