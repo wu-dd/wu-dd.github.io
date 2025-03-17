@@ -38,14 +38,10 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 
 - <span class='paper-badge'>Submitted</span> **Dissimilarity-Driven Contrastive Learning for Robust Hashing in Partial Label Image Retrieval**<br>Zhiqiang Kou\*, Yucheng Xie\*, <u>**Dong-Dong Wu**</u>, Jing Wang, Yuheng Jia, Min-Ling Zhang, Xin Geng$\dagger$
 
-- <span class='paper-badge'>ICLR 2025</span> **PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms (<u>Spotlight</u>)**<br>Wei Wang, <u>**Dong-Dong Wu**</u>, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama$\dagger$<br>*The 13th International Conference on Learning Representations*, 2025.<br>span class='paper-asset'><a href="https://openreview.net/forum?id=FtX6oAW7Dd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2502.10184">PDF</a></span> <span class='paper-asset'><a href="https://github.com/wwangwitsel/PLENCH">Code</a></span>
+- <span class='paper-badge'>ICLR 2025</span> **PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms (<u>Spotlight</u>)**<br>Wei Wang, <u>**Dong-Dong Wu**</u>, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama$\dagger$<br>*The 13th International Conference on Learning Representations*, 2025<br><span lass='paper-asset'><a href="https://openreview.net/forum?id=FtX6oAW7Dd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2502.10184">PDF</a></span> <span class='paper-asset'><a href="https://github.com/wwangwitsel/PLENCH">Code</a></span>
 
-  
+  <span class='paper-badge'>CVPR 2024</span> **Efficient Model Stealing Defense with Noise Transition Matrix**<br>**Dong-Dong Wu**, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang$\dagger$<br>*Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024<br>*The 13th International Conference on Learning Representations*, 2025<br><span class='paper-asset'><a href="https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf">PDF</a></span> <span class='paper-asset'><a href="https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf">Appendix</a></span> <span class='paper-asset'><a href="https://github.com/wu-dd/EMMA">Code</a></span>
 
-- [Efficient Model Stealing Defense with Noise Transition Matrix](https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf) [[Code]](https://github.com/wu-dd/EMMA)
-  - **Dong-Dong Wu**, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang$\dagger$.
-  - *Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**)*, accepted, 2024.
-  
 - [Robust Representation Learning for Unreliable Partial Label Learning](https://arxiv.org/pdf/2308.16718.pdf). [[Code]](https://github.com/wu-dd/URRL)
   - Yu Shi\*, **Dong-Dong Wu**\*, Xin Geng$\dagger$, Min-Ling Zhang$\dagger$.
   - *Preprint on arXiv*, 2024.
