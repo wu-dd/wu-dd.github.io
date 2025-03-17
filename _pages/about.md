@@ -33,10 +33,8 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 # 📝 Publications
 ($\*$Equal contribution, $\dagger$Corresponding Author)
 - <span class='paper-badge'>arXiv 2024</span> **M-Attack: A Simple Baseline Achieving Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**<br>Zhaoyi Li\*, Xiaohan Zhao\*, <u>**Dong-Dong Wu**</u>, Jiacheng Cui, Zhiqiang Shen$\dagger$<br><span class='paper-asset'><a href="https://vila-lab.github.io/M-Attack-Website/">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2503.10635v1">PDF</a></span> <span class='paper-asset'><a href="https://github.com/VILA-Lab/M-Attack">Code</a></span>
-- Unleashing Potential of Mix Augmentation for Partial Label Learning.
-  - **Dong-Dong Wu**, Zhaoyi Li, Xiang Li, Zhiqiang Shen$\dagger$.
-- Dissimilarity-Driven Contrastive Learning for Robust Hashing in Partial Label Image Retrieval.
-  - Zhiqiang Kou\*, Yucheng Xie\*, **Dong-Dong Wu**, Jing Wang, Yuheng Jia, Min-Ling Zhang, Xin Geng$\dagger$.
+- <span class='paper-badge'>Submitted</span> **Unleashing Potential of Mix Augmentation for Partial Label Learning**<br>**<u>Dong-Dong Wu</u>**, Zhaoyi Li, Xiang Li, Zhiqiang Shen$\dagger$<br>
+- <span class='paper-badge'>Submitted</span> **Dissimilarity-Driven Contrastive Learning for Robust Hashing in Partial Label Image Retrieval**<br>Zhiqiang Kou\*, Yucheng Xie\*, <u>**Dong-Dong Wu**</u>, Jing Wang, Yuheng Jia, Min-Ling Zhang, Xin Geng$\dagger$
 - [PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms](https://openreview.net/forum?id=FtX6oAW7Dd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)). (🌟Spotlight🌟) [[Code]](https://github.com/wwangwitsel/PLENCH)
   - Wei Wang, **Dong-Dong Wu**, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama$\dagger$.
   - *The 13th International Conference on Learning Representations (**ICLR’25**)*, accepted, 2025.
