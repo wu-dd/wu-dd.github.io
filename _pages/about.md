@@ -48,19 +48,11 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
   
 - <span class='paper-badge'>ICML 2022</span> **Revisiting consistency regularization for deep partial label learning**<br><u>**Dong-Dong Wu**</u>\*, Deng-Bao Wang\*, Min-Ling Zhang$\dagger$<br>*Proceedings of the 39th International Conference on Machine Learning (**ICML'22**)*, accepted, 2022<br><span class='paper-asset'><a href="http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/wu-dd/PLCR">Code</a></span>
   
-- [A new classification method based on the negation of a basic probability assignment in the evidence theory](https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864) 
-  - **Dongdong Wu**, Zijing Liu, Yongchuan Tang$\dagger$.
-  - *Engineering Applications of Artificial Intelligence (EAAI)*. 2020, 96: 103985. https://doi.org/10.1016/j.engappai.2020.103985.
+- <span class='paper-badge'>EAAI</span>  **A new classification method based on the negation of a basic probability assignment in the evidence theory**<br>**Dongdong Wu**, Zijing Liu, Yongchuan Tang$\dagger$<br>*Engineering Applications of Artificial Intelligence (EAAI)*. 2020, 96: 103985. https://doi.org/10.1016/j.engappai.2020.103985<br><span class='paper-asset'><a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864">PDF</a></span>
   
-- [A new approach for generation of generalized basic probability  assignment in the evidence theory](https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf).
-  - Yongchuan Tang$\dagger$, **Dongdong Wu**, Zijing Liu.
-  - *Pattern Analysis and Applications (PAA)*.  2021, 24(3): 1007-1023. https://doi.org/10.1007/s10044-021-00966-0.
-  - **ESI Highly Cited Paper, top1%**.
+- <span class='paper-badge'>PAA</span>  **A new approach for generation of generalized basic probability  assignment in the evidence theory (<u>ESI Highly Cited Paper, top1%</u>)**<br>Yongchuan Tang$\dagger$, **<u>Dongdong Wu</u>**, Zijing Liu<br>*Pattern Analysis and Applications (PAA)*.  2021, 24(3): 1007-1023. https://doi.org/10.1007/s10044-021-00966-0<br><span class='paper-asset'><a href="https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf">PDF</a></span>
   
-- [An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory](https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660)
-  - **Dongdong Wu**, Yongchuan Tang$\dagger$.
-  - *Quality and Reliability Engineering International (QRE)*. 2020; 36(5): 1786‐1807. https://doi.org/10.1002/qre.2660.
-  - **ESI Highly Cited Paper [<a href ="../certificates/Top Cited Article 2020-2021.pdf">Certificate</a>], top1%.**
+- <span class='paper-badge'>QRE</span> **An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory (<u>ESI Highly Cited Paper, top1%</u>)**<br>**Dongdong Wu**, Yongchuan Tang$\dagger$<br>*Quality and Reliability Engineering International (QRE)*. 2020; 36(5): 1786‐1807. https://doi.org/10.1002/qre.2660<br><span class='paper-asset'><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660">PDF</a></span> <span class='paper-asset'><a href="../certificates/Top Cited Article 2020-2021.pdf">Certificate</a></span>
 
 # 👨‍💻 Academic Experience
 
