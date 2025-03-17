@@ -3,9 +3,10 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
+
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -29,8 +30,6 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
   - A curated list of most recent papers & codes in Learning with Partial/Complementary Labels.
 
 
-
-
 # 📝 Publications
 ($\*$Equal contribution, $\dagger$Corresponding Author)
 - [M-Attack: A Simple Baseline Achieving Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1](https://arxiv.org/abs/2503.10635v1). [[Code]](https://vila-lab.github.io/M-Attack-Website)
@@ -43,126 +42,64 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
   - Wei Wang, **Dong-Dong Wu**, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama$\dagger$.
   - *The 13th International Conference on Learning Representations (**ICLR’25**)*, accepted, 2025.
 - [Efficient Model Stealing Defense with Noise Transition Matrix](https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf) [[Code]](https://github.com/wu-dd/EMMA)
+  - **Dong-Dong Wu**, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang$\dagger$.
+  - *Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'24**)*, accepted, 2024.
+- [Robust Representation Learning for Unreliable Partial Label Learning](https://arxiv.org/pdf/2308.16718.pdf). [[Code]](https://github.com/wu-dd/URRL)
+  - Yu Shi\*, **Dong-Dong Wu**\*, Xin Geng$\dagger$, Min-Ling Zhang$\dagger$.
+  - *Preprint on arXiv*, 2024.
+- [Distilling Reliable Knowledge for Instance-dependent Partial Label Learning](https://palm.seu.edu.cn/zhangml/files/AAAI'24d.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf) [[Code]](https://github.com/wu-dd/DIRK)
+  - **Dong-Dong Wu**\*, Deng-Bao Wang\*, Min-Ling Zhang$\dagger$.
+  - *Proceedings of the 38th AAAI Conference on Artificial Intelligence (**AAAI'24**)*, accepted, 2023.
+- [Revisiting consistency regularization for deep partial label learning](http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf). [[Code]](https://github.com/wu-dd/PLCR)
+  - **Dong-Dong Wu**\*, Deng-Bao Wang\*, Min-Ling Zhang$\dagger$.
+  - *Proceedings of the 39th International Conference on Machine Learning (**ICML'22**)*, accepted, 2022.
+- [A new classification method based on the negation of a basic probability assignment in the evidence theory](https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864) 
+  - **Dongdong Wu**, Zijing Liu, Yongchuan Tang$\dagger$.
+  - *Engineering Applications of Artificial Intelligence (EAAI)*. 2020, 96: 103985. https://doi.org/10.1016/j.engappai.2020.103985.
+- [A new approach for generation of generalized basic probability  assignment in the evidence theory](https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf).
+  - Yongchuan Tang$\dagger$, **Dongdong Wu**, Zijing Liu.
+  - *Pattern Analysis and Applications (PAA)*.  2021, 24(3): 1007-1023. https://doi.org/10.1007/s10044-021-00966-0.
+  - **ESI Highly Cited Paper, top1%**.
+- [An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory](https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660)
+  - **Dongdong Wu**, Yongchuan Tang$\dagger$.
+  - *Quality and Reliability Engineering International (QRE)*. 2020; 36(5): 1786‐1807. https://doi.org/10.1002/qre.2660.
+  - **ESI Highly Cited Paper [<a href ="../certificates/Top Cited Article 2020-2021.pdf">Certificate</a>], top1%.**
 
-- <span class='paper-badge'>SData 2024</span> **Sm-Nd Isotope Data Compilation from Geoscientific Literature Using an Automated Tabular Extraction Method**<br>
-  _Zhixin Guo, Tao Wang, Chaoyang Wang, <u><b>Jianping Zhou</b></u>, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
-  _Scientific data_, 2024 (Nature 子刊)<br>
-  <span class='paper-asset'><a href="https://arxiv.org/abs/2403.18306">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2403.18306">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/tabularDataCollection">Code</a></span>
+# 👨‍💻 Academic Experience
 
-- <span class='paper-badge'>ICASSP 2024</span> **Towards Controlled Table-to-Text Generation with Scientific Reasoning**<br>
-  _Zhixin Guo, <u><b>Jianping Zhou</b></u>, Jiexing Qi, Mingxuan Yan, Ziwei He, Guanjie Zheng, Zhouhan Lin, Xinbing Wang, Chenghu Zhou_<br>
-  _IEEE International Conference on Acoustics, Speech and Signal Processing_, 2024 (CCF-B)<br>
-  <span class='paper-asset'><a href="https://arxiv.org/abs/2312.05402">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2312.05402.pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/CTRLSciTab">Code</a></span>
+- *2024.09 - 2025.3*, Research Assistant, [MBZUAI](https://mbzuai.ac.ae/), UAE. [Advised by [Zhiqiang Shen](https://zhiqiangshen.com/)]
+- *2023.06 - 2023.10*, Research Intern, [Ant Group](https://www.antgroup.com/), China. [Collaborated with [Chilin Fu](https://dblp.org/pid/245/1803.html), [Weichang Wu](https://openreview.net/profile?id=~Weichang_Wu1), [Xiaolu Zhang](https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en), and [Jun Zhou](https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en)]
+- *2020.06 - 2021.09*, Research Intern, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China.
 
-- <span class='paper-badge'>ICPR 2024</span> **SWave: Improving Vocoder Efficiency by Straightening the Waveform Generation Path**<br>
-  _Pan Liu, <u><b>Jianping Zhou</b></u>, Xiaohua Tian, Zhouhan Lin_<br>
-  _International Conference on Pattern Recognition_, 2024 (交大 A 类)<br>
-  <span class='paper-asset'><a href="https://swave-demo.github.io/">Page</a></span> <span class='paper-asset'><a href="https://link.springer.com/chapter/10.1007/978-3-031-78172-8_26">PDF</a></span> <span class='paper-asset'><a href="https://github.com/swave-demo/swave">Code</a></span>
+# 👨‍🎓 Academic Educations
 
-- <span class='paper-badge'>TASLP 2023</span> **Adapting Knowledge for Few-shot Table-to-Text Generation**<br>
-  _Zhixin Guo, Minyxuan Yan, Jiexing Qi, <u><b>Jianping Zhou</b></u>, Ziwei He, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
-  _Transactions on Audio, Speech and Language Processing_, 2023 (CCF-B)<br>
-  <span class='paper-asset'><a href="https://arxiv.org/abs/2302.12468">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2302.12468.pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/akg">Code</a></span>
+- *2021.09 - 2024.06*, Master, Southeast University (87.93/100), Nanjing city, China. 
+- *2017.09 - 2021.06*, Undergraduate, Chongqing University (86.88/100), Chongqing city, China.
 
-- <span class='paper-prebadge'>arXiv 2024</span> **MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data**<br>
-  _<u><b>Jianping Zhou</b></u>, Bin Lu, Zhanyu Liu, Siyu Pan, Xuejun Feng, Hua Wei,
-  Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
-  _arXiv (preprint)_, 2024<br>
-  <span class='paper-asset'><a href="https://arxiv.org/abs/2406.03511">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.03511">PDF</a></span>
+# 🌞 Academic Services
 
-- <span class='paper-prebadge'>arXiv 2024</span> **GeoViz: A Multi-View Visualization Platform for Spatio-temporal Knowledge Graph**<br>
-  _<u><b>Jianping Zhou</b></u>, Junhao Li, Guanjie Zheng, Yunqiang Zhu, Xinbing Wang, Chenghu Zhou_<br>
-  _arXiv (preprint)_, 2024<br>
-  <span class='paper-asset'><a href="https://arxiv.org/abs/2405.03697">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2405.03697">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/GeoViz">Code</a></span> <span class='paper-asset'><a href="https://www.youtube.com/watch?v=o31xlMEmcl4">Video</a></span>
+- Reviewer / PC Member: ICML (2022, 2025), ECML-PKDD (2023), CVPR (2024, 2025), ICCV(2025), IJCAI (2024, 2025), KDD (2024).
+- Teaching Assistant: Machine Learning at Southeast University, spring 2022.
 
-- <span class='paper-prebadge'>arXiv 2024</span> **AceMap: Knowledge Discovery through Academic Graph**<br>
-  _Xinbing Wang, <u><b>Jianping Zhou</b></u>, et al._<br> _arXiv (preprint)_, 2024<br>
-  <span class='paper-asset'><a href="https://www.acemap.info/">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2403.02576">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Acemap">Code</a></span>
+# 👻 Invited Talk
 
-# 🚀 Projects
+- "ATEC2023 Competition Review and Sharing", Meituan, 2024
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">beta</div><img src='images/geoknowledgefusion.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 🏅 Awards
 
-[Knowledge Fusion: An Advanced Platform for Efficient Multimodal Data Integration from Geoscience Literature](https://knowledgefusion.acemap.info/#/index)
-
-- DDE Knowledge Fusion is a one-stop multimodal knowledge fusion system for geoscientific literature, supporting the table extraction and table fusion from geoscience literature, as well as the extraction of knowledge tuples from text to construct knowledge graphs. We have completed the fusion of global Sm-Nd isotope tabular data and the construction of a global knowledge graph of debris flow. This project is supported by [Deep-time Digital Earth (DDE) International Big Science Program](https://deep-time.org/).
-
-- <span class='paper-badge'>Remote Sensing 2024</span> **GeoKnowledgeFusion: A Platform for Multimodal Data Compilation from Geoscience Literature** (SCI Q2)<br>
-  <span class='paper-asset'><a href="https://www.mdpi.com/2072-4292/16/9/1484">Page</a></span> <span class='paper-asset'><a href="https://www.mdpi.com/2072-4292/16/9/1484/pdf">PDF</a></span> <span class='paper-asset'><a href="https://github.com/sjtugzx/GeoKnowledgeFusion">Code</a></span>
-
-- <span class='paper-badge'>EGU 2024</span> **Accelerating Geoscience Research: An Advanced Platform for Efficient Multimodal Data Integration from Geoscience Literature** (清华 A 类)<br>
-  <span class='paper-asset'><a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-13715.html">Page</a></span> <span class='paper-asset'><a href="https://jeremychou28.github.io/files/EGU2024-poster.pdf">Poster</a></span>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/pollutants.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Global Environmental Pollutants Database
-
-- We want to build the global pollutant-centric databases involving pollutant molecular descriptors, mass spectrometry data, toxicity data and behavioral disease data. Based on this database, we want to realize causal reasoning and scientific discovery of emerging pollutants. This project is supported by the Innovative Research Group Program "GeoScience Knowledge Graph" from NSFC.
-
-</div>
-</div>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">beta</div><img src='images/geoviz.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Geoviz: Spatio-temporal knowledge graph visualizations platform](https://mdkg.acemap.cn/#/index)
-
-- GeoViz is a one-stop Spatio-temporal knowledge graph (STKG) visualization platform. We developed three customized visualization views for STKG: **knowledge tree**, **knowledge network** and **knowledge map**. This project is supported by the [National key research and development plan](http://www.igsnrr.cas.cn/news/zhxw/202303/t20230303_6688038.html) and [Deep-time Digital Earth (DDE) International Big Science Program](https://deep-time.org/).
-
-</div>
-</div> -->
-
-<!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
-# 💻 Internships
-
-- _2020.06 - 2020.09_, Hardware Engineer Intern, [Xilinx](https://xupsh.github.io/camp/), China.
-- _2021.09 - 2021.12_, MindSpore Excellent Developer, [Huawei MindSpore](https://www.mindspore.cn/), China. [\[Certificate\]](https://www.mindspore.cn/community/developer)
-
-# 📖 Teaching
-
-- Teaching Assistant, Communication Theory (EST3306), Shanghai Jiao Tong University. (Fall 2023, Fall 2024)
-
-# 📑 Academic Services
-
-- Conference Reviewer: ICLR'25, IJCAI'25
-- Journal Reviewer: TKDD'24
-
-# 🎖 Honors and Awards
-
-- _2020.12_, _2021.12_ National Scholarship in China (top 1%)
-- _2021.12_ President's Award of Shandong University (top 1%) [\[news\]](https://mp.weixin.qq.com/s/kg9RxqXPaxizK5F9qemySg)
-- _2021.12_ Outstanding Student of Shandong Province (top 1%)
-- _2020.12_ Outstanding Student Leader of Shandong Province (top 1%)
-- _2019.10_ First Prize of the 11th College Student Mathematics Competition
-- _2020.12_ First Prize of the 14th International Contest of innovAtionN [\[news\]](https://www.view.sdu.edu.cn/info/1003/144886.htm)
-
-<!-- # 📖 Educations
-
-
-- _2019.06 - 2022.04 (now)_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2015.09 - 2019.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-
-<!-- # 💬 Invited Talks
-
-- _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/) -->
-
-# 📫 Contact
-
-Location: Room 441, Building 1, No. 800 Dongchuan Road, Minhang District, Shanghai, China, 200240
-
-Email: jianpingzhou0927@gmail.com
-
-<div>
-
-<a href='https://clustrmaps.com/site/1bxrr'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=tt&d=0M8kPkKxBLYWYMx2sN62-gal633opUGy56vm6VlWAz8&co=2d78ad&ct=ffffff'/></a>
-
-</div>
+- Competition
+  - Team Champion (Rank 1/1901), **ATEC2023** - LLM Application and Security, 2024. [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml)
+  - Rank 6, **ATEC2023** - AI-Generated News Detection Track, 2024.
+  - Rank 6, **CCF BDCI** - Conversational RAG Track, 2024. [[Code]](https://github.com/wu-dd/BDCI-Solution) 
+  - Rank 7, ***1st Learning and Mining with Noisy Labels (LMNL) Challenge of IJCAI-ECAI2022*** - Image Classification Task, 2022. [<a href="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL)
+  - Rank 4, ***1st Learning and Mining with Noisy Labels (LMNL) Challenge of IJCAI-ECAI2022*** - Label Noise Detection Task, 2022.
+  - First Prize, National CCF Green Computing Contest, 2021.
+  - Third Prize, National WeChat Mini Program Development Contest, 2020.
+  - Outstanding Winner (Top 1%), International Interdisciplinary Contest in Modeling (ICM), 2019. [[Report]](https://wmxy.cqu.edu.cn/info/1016/1173.htm)
+- Honors
+  - Outstanding Graduate in Southeast University, 2024.
+  - Excellent Master Student Model in Southeast University, 2023.
+  - Outstanding Undergraduate in Chongqing University, 2021.
+  - Advanced Undergraduate in Chongqing city, 2021.
+- Scholarship
+  - Huawei Scholarship (2024), Lenovo Research Institute Scholarship (2023), Huawei Scholarship (2021)
