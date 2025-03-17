@@ -32,8 +32,7 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 
 # 📝 Publications
 ($\*$Equal contribution, $\dagger$Corresponding Author)
-- [M-Attack: A Simple Baseline Achieving Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1](https://arxiv.org/abs/2503.10635v1). [[Code]](https://vila-lab.github.io/M-Attack-Website)
-  - Zhaoyi Li\*, Xiaohan Zhao\*, **Dong-Dong Wu**, Jiacheng Cui, Zhiqiang Shen$\dagger$
+- <span class='paper-badge'>arXiv 2024</span> **M-Attack: A Simple Baseline Achieving Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**<br>Zhaoyi Li\*, Xiaohan Zhao\*, <u>**Dong-Dong Wu**</u>, Jiacheng Cui, Zhiqiang Shen$\dagger$<br><span class='paper-asset'><a href="https://vila-lab.github.io/M-Attack-Website/">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2503.10635v1">PDF</a></span> <span class='paper-asset'><a href="https://github.com/VILA-Lab/M-Attack">Code</a></span>
 - Unleashing Potential of Mix Augmentation for Partial Label Learning.
   - **Dong-Dong Wu**, Zhaoyi Li, Xiang Li, Zhiqiang Shen$\dagger$.
 - Dissimilarity-Driven Contrastive Learning for Robust Hashing in Partial Label Image Retrieval.
