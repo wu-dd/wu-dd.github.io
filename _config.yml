@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title: "Jianping Zhou (周健平)"
-description: "Ph.D. candidate in Shanghai Jiao Tong University."
-repository: "JeremyChou28/JeremyChou28.github.io"
+title                    : "Wu-dd (吴东冬)"
+description              : "Research Assistant at VILA Lab at MBZUAI."
+repository               : "wu-dd/wu-dd.github.io"
 google_scholar_stats_use_cdn: true
 
 # google analytics
-google_analytics_id: # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  "_Vx3dZgAAAAJ&hl=zh-CN"# get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification: # get google_site_verification from https://search.google.com/search-console/about
@@ -21,15 +21,14 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 
 # Site Author
 author:
-  Englishname: "Jianping Zhou"
-  Chinesename: "（周健平）"
-  avatar: "images/jianpingzhou.jpg"
-  # bio: "Shanghai Jiao Tong University"
-  location: "Shanghai, China"
+  name             : "Wu Dong-Dong"
+  avatar           : "images/wdd-512x512.png"
+  bio              : "Embracing life with passion."
+  location         : "Abu Dhabi, UAE"
   employer:
   pubmed:
-  googlescholar: "https://scholar.google.com/citations?user=3_wIk0EAAAAJ&hl=zh-CN"
-  email: "jianpingzhou0927@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=_Vx3dZgAAAAJ&hl=zh-CN"
+  email            : "dongdongwu1230@gmail.com"
   researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -38,22 +37,21 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "JeremyChou28"
+  github           : "wu-dd" # e.g., "github username"
   google_plus:
   keybase:
   instagram:
   impactstory: # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: jianping-zhou-098b31210/
-  dblp: "https://dblp.org/pid/59/5184-4.html"
-  orcid: https://orcid.org/my-orcid?orcid=0009-0000-7161-2029
+  linkedin         : # e.g., "linkedin username"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: JianpingZhou28
-  semanticscholar: author/Jianping-Zhou/2205243904
+  twitter          : 
   vine:
   weibo:
   xing:
