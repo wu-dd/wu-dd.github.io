@@ -4,13 +4,14 @@ main:
     url: "/#about-me"
 
   - title: "GitHub Repositories"
-    url: "/#-gitHub-repositories"
+    url: "/#-managed-gitHub-repositories"
 
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Academic Experience"
     url: "/#-academic-experience"
+
   - title: "Academic Services"
     url: "/#-academic-services"
 
@@ -20,8 +21,8 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Awards"
+    url: "/#-awards"
 
 
 

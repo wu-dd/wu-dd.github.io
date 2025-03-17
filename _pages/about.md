@@ -24,10 +24,10 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 
 <u>In April, I will begin my Ph.D. studies at the University of Tokyo under the supervision of</u> [Masashi Sugiyama](https://scholar.google.co.jp/citations?user=GkYIrlIAAAAJ&hl=en). If you are interested in discussing with me, welcome and feel free to email me at DongDong.Wu@mbzuai.ac.ae or dongdongwu1230@gmail.com, or reach out via WeChat (ID: kaefer1999).
 
-# 🎈 Managed GitHub Repository
+# 👨‍🎓 Educations
 
-- [[Advances-in-Partial-and-Complementary-Label-Learning]](https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning) ![](https://img.shields.io/github/stars/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
-  - A curated list of most recent papers & codes in Learning with Partial/Complementary Labels.
+- *2021.09 - 2024.06*, Master, Southeast University (87.93/100), Nanjing city, China. 
+- *2017.09 - 2021.06*, Undergraduate, Chongqing University (86.88/100), Chongqing city, China.
 
 
 # 📝 Publications
@@ -44,23 +44,23 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 - <span class='paper-badge'>PAA (Journal)</span>  **A new approach for generation of generalized basic probability  assignment in the evidence theory (<u>ESI Highly Cited Paper, top1%</u>)**<br>Yongchuan Tang$\dagger$, <u>Dongdong Wu</u>, Zijing Liu<br>*Pattern Analysis and Applications (PAA)*.  2021, 24(3): 1007-1023. https://doi.org/10.1007/s10044-021-00966-0<br><span class='paper-asset'><a href="https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf">PDF</a></span>
 - <span class='paper-badge'>QRE (Journal)</span> **An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory (<u>ESI Highly Cited Paper, top1%</u>)**<br><u>Dongdong Wu</u>, Yongchuan Tang$\dagger$<br>*Quality and Reliability Engineering International (QRE)*. 2020; 36(5): 1786‐1807. https://doi.org/10.1002/qre.2660<br><span class='paper-asset'><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660">PDF</a></span> <span class='paper-asset'><a href="../certificates/Top Cited Article 2020-2021.pdf">Certificate</a></span>
 
+# 🎈 Managed GitHub Repository
+
+- [[Advances-in-Partial-and-Complementary-Label-Learning]](https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning) ![](https://img.shields.io/github/stars/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
+  - A curated list of most recent papers & codes in Learning with Partial/Complementary Labels.
+
 # 👨‍💻 Academic Experience
 
 - *2024.09 - 2025.3*, Research Assistant, [MBZUAI](https://mbzuai.ac.ae/), UAE. [Advised by [Zhiqiang Shen](https://zhiqiangshen.com/)]
 - *2023.06 - 2023.10*, Research Intern, [Ant Group](https://www.antgroup.com/), China. [Collaborated with [Chilin Fu](https://dblp.org/pid/245/1803.html), [Weichang Wu](https://openreview.net/profile?id=~Weichang_Wu1), [Xiaolu Zhang](https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en), and [Jun Zhou](https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en)]
 - *2020.06 - 2021.09*, Research Intern, [Institute of Automation, Chinese Academy of Science](http://www.ia.cas.cn/), China.
 
-# 👨‍🎓 Academic Educations
-
-- *2021.09 - 2024.06*, Master, Southeast University (87.93/100), Nanjing city, China. 
-- *2017.09 - 2021.06*, Undergraduate, Chongqing University (86.88/100), Chongqing city, China.
-
 # 🌞 Academic Services
 
 - Reviewer / PC Member: ICML (2022, 2025), ECML-PKDD (2023), CVPR (2024, 2025), ICCV(2025), IJCAI (2024, 2025), KDD (2024).
 - Teaching Assistant: Machine Learning at Southeast University, spring 2022.
 
-# 👻 Invited Talk
+# 👻 Invited Talks
 
 - "ATEC2023 Competition Review and Sharing", Meituan, 2024
 
