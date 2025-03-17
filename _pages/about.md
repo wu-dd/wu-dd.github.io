@@ -17,31 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently a second year Ph.D. candidate at [IIoT Research Center](https://iiot.sjtu.edu.cn/#/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I have the honor to be supervised by [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/). Now I work closely with [Lei Bai](http://leibai.site/) research scientist from Shanghai AI Laboratory.
+I am currently a <u>Research Assistant</u> in MBZUAI, advised by Assistant Professor [Zhiqiang Shen](https://zhiqiangshen.com/). Before that, I received my M.Eng. degree from [Southeast University](https://cse.seu.edu.cn/) under the supervision of [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml). I received my B.Eng. degree from [Chongqing University](http://www.cse.cqu.edu.cn/).
 
-I received my bachelor's degree from Chongxin College at [Shandong University](https://www.sdu.edu.cn) in 2022, surpervised by [Prof. Hongchao Zhou](https://faculty.sdu.edu.cn/zhouhongchao/zh_CN/) and [Prof. Hailiang Xiong](https://faculty.sdu.edu.cn/xionghailiang).
+My primary research focus is on **trustworthy weakly supervised learning** and **data-efficient learning**,   <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Here's my  <a href ="../certificates/CV.pdf">CV</a>.
 
-My research interests include **time series**, **spatio-temporal data mining**, **knowledge graph** and **AI for Science**.
-I’m currently working on **missing problems** in spatio-temporal data and multivariate time series. What's more, I'm trying to use LLMs to solve time series and spatio-temporal data mining problems and contribute to the development of **multimodal foundation models**.
-I am collaborating with [Prof. Meng Jin](https://yume-sjtu.github.io/) and [Prof. Kun Zhang](https://sese.sjtu.edu.cn/faculty/view/27) to explore the applications of AI in molecular annotation of **Emerging Pollutants**.
+<u>In April, I will begin my Ph.D. studies at the University of Tokyo under the supervision of</u> [Masashi Sugiyama](https://scholar.google.co.jp/citations?user=GkYIrlIAAAAJ&hl=en). If you are interested in discussing with me, welcome and feel free to email me at DongDong.Wu@mbzuai.ac.ae or dongdongwu1230@gmail.com, or reach out via WeChat (ID: kaefer1999).
 
-I am looking for collaborations and am also open to **interested undergraduate interns**. Please feel free to contact me!
+# 🎈 Managed GitHub Repository
 
-<!-- My research interest includes neural machine translation and computer vision.  -->
+- [[Advances-in-Partial-and-Complementary-Label-Learning]](https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning) ![](https://img.shields.io/github/stars/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
+  - A curated list of most recent papers & codes in Learning with Partial/Complementary Labels.
 
-<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-<!-- # 🔥 News
 
-- _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications
-
-- <span class='paper-badge'>CIKM 2024</span> **MTSCI: A Conditional Diffusion Model for Multivariate Time Series Consistent Imputation**<br>
-  _<u><b>Jianping Zhou</b></u>, Junhao Li, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
-  _ACM International Conference on Information and Knowledge Management_, 2024 (CCF-B)<br>
-  <span class='paper-asset'><a href="https://arxiv.org/abs/2408.05740">Page</a></span> <span class='paper-asset'><a href="https://arxiv.org/pdf/2408.05740">PDF</a></span> <span class='paper-asset'><a href="https://github.com/JeremyChou28/MTSCI">Code</a></span>
+($\*$Equal contribution, $\dagger$Corresponding Author)
+- [M-Attack: A Simple Baseline Achieving Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1](https://arxiv.org/abs/2503.10635v1). [[Code]](https://vila-lab.github.io/M-Attack-Website)
+  - Zhaoyi Li\*, Xiaohan Zhao\*, **Dong-Dong Wu**, Jiacheng Cui, Zhiqiang Shen$\dagger$
+- Unleashing Potential of Mix Augmentation for Partial Label Learning.
+  - **Dong-Dong Wu**, Zhaoyi Li, Xiang Li, Zhiqiang Shen$\dagger$.
+- Dissimilarity-Driven Contrastive Learning for Robust Hashing in Partial Label Image Retrieval.
+  - Zhiqiang Kou\*, Yucheng Xie\*, **Dong-Dong Wu**, Jing Wang, Yuheng Jia, Min-Ling Zhang, Xin Geng$\dagger$.
+- [PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms](https://openreview.net/forum?id=FtX6oAW7Dd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)). (🌟Spotlight🌟) [[Code]](https://github.com/wwangwitsel/PLENCH)
+  - Wei Wang, **Dong-Dong Wu**, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama$\dagger$.
+  - *The 13th International Conference on Learning Representations (**ICLR’25**)*, accepted, 2025.
+- [Efficient Model Stealing Defense with Noise Transition Matrix](https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf). [[Appendix]](https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf) [[Code]](https://github.com/wu-dd/EMMA)
 
 - <span class='paper-badge'>SData 2024</span> **Sm-Nd Isotope Data Compilation from Geoscientific Literature Using an Automated Tabular Extraction Method**<br>
   _Zhixin Guo, Tao Wang, Chaoyang Wang, <u><b>Jianping Zhou</b></u>, Guanjie Zheng, Xinbing Wang, Chenghu Zhou_<br>
