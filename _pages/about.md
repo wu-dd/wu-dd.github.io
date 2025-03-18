@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a <u>Research Assistant</u> in MBZUAI, advised by Assistant Professor [Zhiqiang Shen](https://zhiqiangshen.com/). Before that, I received my M.Eng. degree from [Southeast University](https://cse.seu.edu.cn/) under the supervision of [Prof. Min-Ling Zhang](http://palm.seu.edu.cn/zhangml). I received my B.Eng. degree from [Chongqing University](http://www.cse.cqu.edu.cn/).
+I am currently a <u>Research Assistant</u> in MBZUAI, advised by Assistant Professor <a href="https://zhiqiangshen.com/" style="text-decoration: none;">Zhiqiang Shen</a>. Before that, I received my M.Eng. degree from <a href="https://cse.seu.edu.cn/" style="text-decoration: none;">Southeast University</a> under the supervision of Prof. <a href="http://palm.seu.edu.cn/zhangml" style="text-decoration: none;">Min-Ling Zhang</a>. I received my B.Eng. degree from <a href="http://www.cse.cqu.edu.cn/" style="text-decoration: none;">Chongqing University</a>.
 
 My primary research focus is on **trustworthy weakly supervised learning** and **data-efficient learning**,   <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Here's my  <a href ="../certificates/CV.pdf">CV</a>.
 
