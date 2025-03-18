@@ -24,11 +24,6 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 
 <u>In April, I will begin my Ph.D. studies at the University of Tokyo under the supervision of</u> [Masashi Sugiyama](https://scholar.google.co.jp/citations?user=GkYIrlIAAAAJ&hl=en). If you are interested in discussing with me, welcome and feel free to email me at DongDong.Wu@mbzuai.ac.ae or dongdongwu1230@gmail.com, or reach out via WeChat (ID: kaefer1999).
 
-# 👨‍🎓 Educations
-
-- *2021.09 - 2024.06*, Master, Southeast University (87.93/100), Nanjing city, China. 
-- *2017.09 - 2021.06*, Undergraduate, Chongqing University (86.88/100), Chongqing city, China.
-
 
 # 📝 Publications
 ($\*$Equal contribution, $\dagger$Corresponding Author)
@@ -44,7 +39,7 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 - <span class='paper-badge'>PAA</span>  **A new approach for generation of generalized basic probability  assignment in the evidence theory (<u>ESI Highly Cited Paper, top1%</u>)**<br>*Yongchuan Tang$\dagger$, <u>Dongdong Wu</u>, Zijing Liu*<br>*Pattern Analysis and Applications (PAA)*.  2021, 24(3): 1007-1023. https://doi.org/10.1007/s10044-021-00966-0<br><span class='paper-asset'><a href="https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf">PDF</a></span>
 - <span class='paper-badge'>QRE</span> **An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory (<u>ESI Highly Cited Paper, top1%</u>)**<br>*<u>Dongdong Wu</u>, Yongchuan Tang$\dagger$*<br>*Quality and Reliability Engineering International (QRE)*. 2020; 36(5): 1786‐1807. https://doi.org/10.1002/qre.2660<br><span class='paper-asset'><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660">PDF</a></span> <span class='paper-asset'><a href="../certificates/Top Cited Article 2020-2021.pdf">Certificate</a></span>
 
-# 🎈 Managed GitHub Repositories
+# 🎈 Maintained GitHub Repositories
 
 - [[Advances-in-Partial-and-Complementary-Label-Learning]](https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning) ![](https://img.shields.io/github/stars/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
   - A curated list of most recent papers & codes in Learning with Partial/Complementary Labels.

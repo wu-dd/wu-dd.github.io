@@ -3,20 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "GitHub Repositories"
-    url: "/#-managed-gitHub-repositories"
-
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "GitHub Repositories"
+    url: "/#-maintained-github-repositories"
 
   - title: "Academic Experience"
     url: "/#-academic-experience"
 
   - title: "Academic Services"
     url: "/#-academic-services"
-
-  - title: "Educations"
-    url: "/#-educations"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
