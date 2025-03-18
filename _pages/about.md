@@ -47,7 +47,7 @@ Email: dongdongwu1230 [at] gmail.com *OR* dongdong.wu [at] mbzuai.ac.ae.
 
 # 👨‍💻 Academic Experience
 
-- *2024.09 - 2025.3*, Research Assistant, <a href="https://mbzuai.ac.ae/" style="text-decoration: none;">MBZUAI</a>, UAE. [Advised by <a href="https://zhiqiangshen.com/" style="text-decoration: none;">Zhiqiang Shen</a>]
+- *2024.09 - 2025.03*, Research Assistant, <a href="https://mbzuai.ac.ae/" style="text-decoration: none;">MBZUAI</a>, UAE. [Advised by <a href="https://zhiqiangshen.com/" style="text-decoration: none;">Zhiqiang Shen</a>]
 - *2023.06 - 2023.10*, Research Intern, <a href="https://www.antgroup.com/" style="text-decoration: none;">Ant Group</a>, China. [Collaborated with <a href="https://dblp.org/pid/245/1803.html" style="text-decoration: none;">Chilin Fu</a>, <a href="https://openreview.net/profile?id=~Weichang_Wu1" style="text-decoration: none;">Weichang Wu</a>, <a href="https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en" style="text-decoration: none;">Xiaolu Zhang</a>, and <a href="https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en" style="text-decoration: none;">Jun Zhou</a>]
 
 - *2020.06 - 2021.09*, Research Intern, <a href="http://www.ia.cas.cn/" style="text-decoration: none;">Institute of Automation, Chinese Academy of Science</a>, China.
@@ -78,6 +78,5 @@ Email: dongdongwu1230 [at] gmail.com *OR* dongdong.wu [at] mbzuai.ac.ae.
   - Outstanding Graduate in Southeast University, 2024.
   - Excellent Master Student Model in Southeast University, 2023.
   - Outstanding Undergraduate in Chongqing University, 2021.
-  - Advanced Undergraduate in Chongqing city, 2021.
 - Scholarships
   - Huawei Scholarship (2024), Lenovo Research Institute Scholarship (2023), Huawei Scholarship (2021)
