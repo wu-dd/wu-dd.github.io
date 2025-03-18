@@ -22,7 +22,9 @@ I am currently a <u>Research Assistant</u> in MBZUAI, advised by Assistant Profe
 
 My primary research focus is on **trustworthy weakly supervised learning** and **data-efficient learning**,   <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Here's my  <a href ="../certificates/CV.pdf" style="text-decoration: none;">CV</a>.
 
-<u>In April, I will begin my Ph.D. studies at the University of Tokyo under the supervision of Prof. <a href="https://scholar.google.co.jp/citations?user=GkYIrlIAAAAJ&hl=en" style="text-decoration: none;">Masashi Sugiyama</a></u>. If you are interested in discussing with me, welcome and feel free to email me at dongdongwu1230@gmail.com, or reach out via WeChat (ID: kaefer1999).
+In April, I will begin my Ph.D. studies at the University of Tokyo under the supervision of Prof. <a href="https://scholar.google.co.jp/citations?user=GkYIrlIAAAAJ&hl=en" style="text-decoration: none;">Masashi Sugiyama</a>. If you are interested in discussing with me, welcome and feel free to contact me.
+
+Email: dongdongwu1230 [at] gmail.com *OR* dongdong.wu [at] mbzuai.ac.ae.
 
 
 # 📝 Publications
@@ -62,7 +64,7 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 
 # 🏅 Awards
 
-- Competition
+- Competitions
   - Team Champion (Rank 1/1901), **ATEC2023** - LLM Application and Security, 2024. [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml)
   - Rank 6, **ATEC2023** - AI-Generated News Detection Track, 2024.
   - Rank 6, **CCF BDCI** - Conversational RAG Track, 2024. [[Code]](https://github.com/wu-dd/BDCI-Solution) 
@@ -76,5 +78,5 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
   - Excellent Master Student Model in Southeast University, 2023.
   - Outstanding Undergraduate in Chongqing University, 2021.
   - Advanced Undergraduate in Chongqing city, 2021.
-- Scholarship
+- Scholarships
   - Huawei Scholarship (2024), Lenovo Research Institute Scholarship (2023), Huawei Scholarship (2021)
