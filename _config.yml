@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dong-Dong WU (吴东冬)"
-description              : "Research Assistant at VILA Lab at MBZUAI."
+description              : "Embracing life with passion."
 repository               : "wu-dd/wu-dd.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -23,7 +23,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name             : "Wu Dong-Dong"
   avatar           : "images/wdd-512x512.png"
-  bio              : "Embracing life with passion."
+  bio              : "Dong-Dong Wu 吴东冬"
   location         : "Abu Dhabi, UAE"
   employer:
   pubmed:
