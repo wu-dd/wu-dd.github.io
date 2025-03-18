@@ -77,6 +77,19 @@
   }
 }
 
+.paper-highlight {
+  font-size: 0.6875em;
+  padding: 2px 0.2rem;
+  border-radius: 5px;
+  color: #b73555;
+  border-color: #1565c0;
+  border-style: solid;
+  border-width: 1px;
+  a {
+    text-decoration: none;
+  }
+}
+
 .paper-box {
   display: flex;
   justify-content: left;
