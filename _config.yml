@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dong-Dong WU (吴东冬)"
+title                    : "Dong-Dong Wu"
 description              : "Embracing life with passion."
 repository               : "wu-dd/wu-dd.github.io"
 google_scholar_stats_use_cdn: true
@@ -21,9 +21,9 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 
 # Site Author
 author:
-  name             : "Wu Dong-Dong"
+  name             : "Dong-Dong Wu"
   avatar           : "images/wdd-512x512.png"
-  bio              : "Dong-Dong Wu 吴东冬"
+  bio              : "Dong-Dong Wu (吴东冬)"
   location         : "Abu Dhabi, UAE"
   employer:
   pubmed:
