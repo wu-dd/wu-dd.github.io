@@ -64,14 +64,16 @@ Email: dongdongwu1230 [at] gmail.com *OR* dongdong.wu [at] mbzuai.ac.ae.
 # 🏅 Awards
 
 - Competitions
-  - Team Champion (Rank 1/1901), **ATEC2023** - LLM Application and Security, 2024. [[Report]](https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml)
+  - Team Champion (Rank 1/1901), **ATEC2023** - LLM Application and Security, 2024. [<a href="https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml" style="text-decoration: none;">Report</a>]
   - Rank 6, **ATEC2023** - AI-Generated News Detection Track, 2024.
-  - Rank 6, **CCF BDCI** - Conversational RAG Track, 2024. [[Code]](https://github.com/wu-dd/BDCI-Solution) 
-  - Rank 7, ***1st Learning and Mining with Noisy Labels (LMNL) Challenge of IJCAI-ECAI2022*** - Image Classification Task, 2022. [<a href="../certificates/1st of LMNL challenge.pdf">Certificate</a>], [[Code]](https://github.com/wu-dd/LMNL)
-  - Rank 4, ***1st Learning and Mining with Noisy Labels (LMNL) Challenge of IJCAI-ECAI2022*** - Label Noise Detection Task, 2022.
+  
+  - Rank 6, **CCF BDCI** - Conversational RAG Track, 2024. [<a href="https://github.com/wu-dd/BDCI-Solution" style="text-decoration: none;">Code</a>]
+  
+  - Rank 7, ***1st Learning and Mining with Noisy Labels (LMNL) Challenge of IJCAI-ECAI2022*** - Image Classification Task, 2022.
+  - Rank 4, ***1st LMNL Challenge of IJCAI-ECAI2022*** - Label Noise Detection Task, 2022.  [<a href="../certificates/1st of LMNL challenge.pdf" style="text-decoration: none;">Certificate</a>], [<a href="https://github.com/wu-dd/LMNL" style="text-decoration: none;">Code</a>]
   - First Prize, National CCF Green Computing Contest, 2021.
   - Third Prize, National WeChat Mini Program Development Contest, 2020.
-  - Outstanding Winner (Top 1%), International Interdisciplinary Contest in Modeling (ICM), 2019. [[Report]](https://wmxy.cqu.edu.cn/info/1016/1173.htm)
+  - Outstanding Winner (Top 1%), International Interdisciplinary Contest in Modeling (ICM), 2019. [<a href="https://wmxy.cqu.edu.cn/info/1016/1173.htm" style="text-decoration: none;">Report</a>]
 - Honors
   - Outstanding Graduate in Southeast University, 2024.
   - Excellent Master Student Model in Southeast University, 2023.
