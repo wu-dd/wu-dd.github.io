@@ -20,11 +20,9 @@ redirect_from:
 
 I am currently a <u>Research Assistant</u> in MBZUAI, advised by Assistant Professor <a href="https://zhiqiangshen.com/" style="text-decoration: none;">Zhiqiang Shen</a>. Before that, I received my M.Eng. degree from <a href="https://cse.seu.edu.cn/" style="text-decoration: none;">Southeast University</a> under the supervision of Prof. <a href="http://palm.seu.edu.cn/zhangml" style="text-decoration: none;">Min-Ling Zhang</a>. I received my B.Eng. degree from <a href="http://www.cse.cqu.edu.cn/" style="text-decoration: none;">Chongqing University</a>.
 
-My primary research focus is on **trustworthy weakly supervised learning** and **data-efficient learning**,   <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Here's my  <a href ="../certificates/CV.pdf" style="text-decoration: none;">CV</a>.
+My primary research focus is on **trustworthy weakly supervised learning** and **data-efficient learning**,   <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Here's my  <a href ="../certificates/CV.pdf" style="text-decoration: none;">CV</a>. If you are interested in discussing with me, welcome and feel free to contact me.
 
-In April, I will begin my Ph.D. studies at the University of Tokyo under the supervision of Prof. <a href="https://scholar.google.co.jp/citations?user=GkYIrlIAAAAJ&hl=en" style="text-decoration: none;">Masashi Sugiyama</a>. If you are interested in discussing with me, welcome and feel free to contact me.
-
-Email: dongdongwu1230 [at] gmail.com *OR* dongdong.wu [at] mbzuai.ac.ae.
+Email: dongdongwu1230 [at] gmail.com *OR* wudd [at] g.ecc.u-tokyo.ac.jp *OR* dongdong.wu [at] riken.jp
 
 
 # 📝 Publications
@@ -47,6 +45,7 @@ Email: dongdongwu1230 [at] gmail.com *OR* dongdong.wu [at] mbzuai.ac.ae.
 
 # 👨‍💻 Academic Experience
 
+- *2025.04 - 2026.03 (Expected)*, Junior Research Associate, <a href="https://aip.riken.jp" style="text-decoration: none;">RIKEN</a>, Japan. [Advised by <a href="https://scholar.google.co.jp/citations?user=GkYIrlIAAAAJ&hl=en" style="text-decoration: none;">Masashi Sugiyama</a>]
 - *2024.09 - 2025.03*, Research Assistant, <a href="https://mbzuai.ac.ae/" style="text-decoration: none;">MBZUAI</a>, UAE. [Advised by <a href="https://zhiqiangshen.com/" style="text-decoration: none;">Zhiqiang Shen</a>]
 - *2023.06 - 2023.10*, Research Intern, <a href="https://www.antgroup.com/" style="text-decoration: none;">Ant Group</a>, China. [Collaborated with <a href="https://dblp.org/pid/245/1803.html" style="text-decoration: none;">Chilin Fu</a>, <a href="https://openreview.net/profile?id=~Weichang_Wu1" style="text-decoration: none;">Weichang Wu</a>, <a href="https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en" style="text-decoration: none;">Xiaolu Zhang</a>, and <a href="https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en" style="text-decoration: none;">Jun Zhou</a>]
 
