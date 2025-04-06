@@ -21,8 +21,8 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 
 # Site Author
 author:
-  Englishname: "Dong-Dong Wu （吳東冬）"
-  # Chinesename: "（吳東冬）"
+  Englishname: "Dong-Dong Wu"
+  Chinesename: "（吳東冬）"
   avatar           : "images/wdd-512x512.png"
   # bio              : "Dong-Dong Wu (吳東冬)"
   location         : "Tokyo, Japan"
