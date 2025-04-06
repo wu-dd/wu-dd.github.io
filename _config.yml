@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dong-Dong Wu (吳東冬)"
-description              : "Embracing life with passion."
+# description              : "Embracing life with passion."
 repository               : "wu-dd/wu-dd.github.io"
 google_scholar_stats_use_cdn: true
 
