@@ -18,11 +18,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a <u>Research Assistant</u> in MBZUAI, advised by Assistant Professor <a href="https://zhiqiangshen.com/" style="text-decoration: none;">Zhiqiang Shen</a>. Before that, I received my M.Eng. degree from <a href="https://cse.seu.edu.cn/" style="text-decoration: none;">Southeast University</a> under the supervision of Prof. <a href="http://palm.seu.edu.cn/zhangml" style="text-decoration: none;">Min-Ling Zhang</a>. I received my B.Eng. degree from <a href="http://www.cse.cqu.edu.cn/" style="text-decoration: none;">Chongqing University</a>.
+I am a first-year Ph.D. student at <a href="http://www.u-tokyo.ac.jp/en/" style="text-decoration: none;">the University of Tokyo</a>,  supervised by Prof. <a href="http://www.ms.k.u-tokyo.ac.jp/sugi/index.html" style="text-decoration: none;">Masashi Sugiyama</a>. I am also a Junior Research Associate at the [Imperfect Information Learning Team](https://aip.riken.jp/labs/generic_tech/imperfect_inf_learn), [RIKEN](https://www.riken.jp/en) [Center for Advanced Intelligence Project](https://aip.riken.jp/). Before that, I received my M.Eng. degree from <a href="https://cse.seu.edu.cn/" style="text-decoration: none;">Southeast University</a> under the supervision of Prof. <a href="http://palm.seu.edu.cn/zhangml" style="text-decoration: none;">Min-Ling Zhang</a>. I received my B.Eng. degree from <a href="http://www.cse.cqu.edu.cn/" style="text-decoration: none;">Chongqing University</a>. During my research journey, I also had wonderful time at MBZUAI, Ant Group and CAS.
 
 My primary research focus is on **trustworthy weakly supervised learning** and **data-efficient learning**,   <a href='https://scholar.google.com/citations?user=_Vx3dZgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. Here's my  <a href ="../certificates/CV.pdf" style="text-decoration: none;">CV</a>. If you are interested in discussing with me, welcome and feel free to contact me.
 
-Email: dongdongwu1230 [at] gmail.com *OR* wudd [at] g.ecc.u-tokyo.ac.jp *OR* dongdong.wu [at] riken.jp
+Email: <u>dongdongwu1230 [at] gmail.com</u> *OR* <u>wudd [at] g.ecc.u-tokyo.ac.jp</u> *OR* <u>dongdong.wu [at] riken.jp</u>
 
 
 # 📝 Publications
