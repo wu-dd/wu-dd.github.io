@@ -45,6 +45,7 @@ Email: <u>dongdongwu1230 [at] gmail.com</u> *OR* <u>wudd [at] g.ecc.u-tokyo.ac.j
 # 👨‍💻 Academic Experience
 
 - *2025.04 - 2026.03 (Expected)*, Junior Research Associate, <a href="https://aip.riken.jp" style="text-decoration: none;">RIKEN</a>, Japan. [Advised by <a href="https://scholar.google.co.jp/citations?user=GkYIrlIAAAAJ&hl=en" style="text-decoration: none;">Masashi Sugiyama</a>]
+- *2025.04 - 2026.03 (Expected)*, Research Assistant, <a href="https://beyondai.jp" style="text-decoration: none;">Beyond AI</a>, Japan.
 - *2024.09 - 2025.03*, Research Assistant, <a href="https://mbzuai.ac.ae/" style="text-decoration: none;">MBZUAI</a>, UAE. [Advised by <a href="https://zhiqiangshen.com/" style="text-decoration: none;">Zhiqiang Shen</a>]
 - *2023.06 - 2023.10*, Research Intern, <a href="https://www.antgroup.com/" style="text-decoration: none;">Ant Group</a>, China. [Collaborated with <a href="https://dblp.org/pid/245/1803.html" style="text-decoration: none;">Chilin Fu</a>, <a href="https://openreview.net/profile?id=~Weichang_Wu1" style="text-decoration: none;">Weichang Wu</a>, <a href="https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en" style="text-decoration: none;">Xiaolu Zhang</a>, and <a href="https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en" style="text-decoration: none;">Jun Zhou</a>]
 
