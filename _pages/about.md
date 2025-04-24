@@ -24,6 +24,10 @@ My primary research focus is on **trustworthy weakly supervised learning** and *
 
 Email: <u>dongdongwu1230 [at] gmail.com</u> *OR* <u>wudd [at] g.ecc.u-tokyo.ac.jp</u> *OR* <u>dongdong.wu [at] riken.jp</u>
 
+# 🎈 Maintained GitHub Repositories
+
+- <a href="https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning" style="text-decoration: none;">[Advances-in-Partial-and-Complementary-Label-Learning]</a> ![](https://img.shields.io/github/stars/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
+  - A curated list of most recent papers & codes in Learning with Partial/Complementary Labels.
 
 # 📝 Publications
 - <span class='paper-prebadge'>Submitted</span> **M-Attack: A Simple Baseline Achieving Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**<br>*Zhaoyi Li, Xiaohan Zhao, <u>Dong-Dong Wu</u>, Jiacheng Cui, Zhiqiang Shen*<br><span class='paper-asset'><a href="https://arxiv.org/pdf/2503.10635v1">PDF</a></span> <span class='paper-asset'><a href="https://github.com/VILA-Lab/M-Attack">Code</a></span> <span class='paper-asset'><a href="https://vila-lab.github.io/M-Attack-Website/">Website</a></span>
@@ -37,15 +41,10 @@ Email: <u>dongdongwu1230 [at] gmail.com</u> *OR* <u>wudd [at] g.ecc.u-tokyo.ac.j
 - <span class='paper-badge'>PAA</span>  **A new approach for generation of generalized basic probability  assignment in the evidence theory**<br>*Yongchuan Tang, <u>Dongdong Wu</u>, Zijing Liu*<br>*Pattern Analysis and Applications (PAA).  2021, 24(3): 1007-1023. https://doi.org/10.1007/s10044-021-00966-0*<br><span class='paper-asset'><a href="https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf">PDF</a></span> <span class='paper-highlight'>ESI Highly Cited Paper (top1%)</span>
 - <span class='paper-badge'>QRE</span> **An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory**<br>*<u>Dongdong Wu</u>, Yongchuan Tang*<br>*Quality and Reliability Engineering International (QRE). 2020; 36(5): 1786‐1807. https://doi.org/10.1002/qre.2660*<br><span class='paper-asset'><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660">PDF</a></span> <span class='paper-asset'><a href="../certificates/Top Cited Article 2020-2021.pdf">Certificate</a></span> <span class='paper-highlight'>ESI Highly Cited Paper (top1%)</span>
 
-# 🎈 Maintained GitHub Repositories
-
-- <a href="https://github.com/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning" style="text-decoration: none;">[Advances-in-Partial-and-Complementary-Label-Learning]</a> ![](https://img.shields.io/github/stars/wu-dd/Advances-in-Partial-and-Complementary-Label-Learning)
-  - A curated list of most recent papers & codes in Learning with Partial/Complementary Labels.
-
 # 👨‍💻 Academic Experience
 
 - *2025.04 - 2026.03 (Expected)*, Junior Research Associate, <a href="https://aip.riken.jp" style="text-decoration: none;">RIKEN</a>, Japan. [Advised by <a href="https://scholar.google.co.jp/citations?user=GkYIrlIAAAAJ&hl=en" style="text-decoration: none;">Masashi Sugiyama</a>]
-- *2025.04 - 2026.03 (Expected)*, Research Assistant, <a href="https://beyondai.jp" style="text-decoration: none;">Beyond AI</a>, Japan.
+- *2025.04 - 2026.03 (Expected)*, Research Assistant, <a href="https://beyondai.jp" style="text-decoration: none;">Beyond AI</a>, Japan. [Advised by <a href="https://scholar.google.co.jp/citations?user=GkYIrlIAAAAJ&hl=en" style="text-decoration: none;">Masashi Sugiyama</a>]
 - *2024.09 - 2025.03*, Research Assistant, <a href="https://mbzuai.ac.ae/" style="text-decoration: none;">MBZUAI</a>, UAE. [Advised by <a href="https://zhiqiangshen.com/" style="text-decoration: none;">Zhiqiang Shen</a>]
 - *2023.06 - 2023.10*, Research Intern, <a href="https://www.antgroup.com/" style="text-decoration: none;">Ant Group</a>, China. [Collaborated with <a href="https://dblp.org/pid/245/1803.html" style="text-decoration: none;">Chilin Fu</a>, <a href="https://openreview.net/profile?id=~Weichang_Wu1" style="text-decoration: none;">Weichang Wu</a>, <a href="https://scholar.google.com/citations?user=cAz9PToAAAAJ&hl=en" style="text-decoration: none;">Xiaolu Zhang</a>, and <a href="https://scholar.google.com/citations?user=mCVvloEAAAAJ&hl=en" style="text-decoration: none;">Jun Zhou</a>]
 
