@@ -52,8 +52,8 @@ Email: <u>dongdongwu1230 [at] gmail.com</u> *OR* <u>wudd [at] g.ecc.u-tokyo.ac.j
 
 # 🌞 Academic Services
 
-- Program Comittee Member: AAAI(2026), IJCAI(2025), ADMA(2025), ECAI(2025)
-- Reviewer: ICML (2022, 2025), NeurIPS (2025), CVPR (2024, 2025，2026), ICCV(2025), IJCAI (2024, 2025), AAAI (2026), KDD (2024), ECML-PKDD (2023), PAKDD (2026), WACV (2026), ADMA(2025), ECAI(2025).
+- Program Comittee Member: 2026(AAAI), 2025(IJCAI, ADMA, ECAI)
+- Reviewer: 2026(CVPR, AAAI, PAKDD, WACV), 2025(ICML, NeurIPS, CVPR, ICCV, IJCAI, ADMA, ECAI), 2024(CVPR, IJCAI, KDD), 2023(ECML-PKDD), 2022(ICML).
 - Teaching Assistant: Machine Learning at Southeast University, spring 2022.
 
 # 👻 Invited Talks
