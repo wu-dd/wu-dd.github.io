@@ -1,8 +1,5 @@
 ## Experience
-
-<h4 style="margin:0 10px 0;">Research & Work Experience</h4>
-
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 20px; padding-left:0;">
   <li><autocolor>*2025.04 - 2026.03 (Expected)*, Junior Research Associate, <a href="https://aip.riken.jp" style="text-decoration: none;">RIKEN</a>, Japan. [Advised by <a href="https://scholar.google.co.jp/citations?user=GkYIrlIAAAAJ&hl=en" style="text-decoration: none;">Masashi Sugiyama</a>]</autocolor></li>
   <li><autocolor>*2025.04 - 2026.03 (Expected)*, Research Assistant, <a href="https://beyondai.jp" style="text-decoration: none;">Beyond AI</a>, Japan. [Advised by <a href="https://scholar.google.co.jp/citations?user=GkYIrlIAAAAJ&hl=en" style="text-decoration: none;">Masashi Sugiyama</a>]</autocolor></li>
   <li><autocolor>*2024.09 - 2025.03*, Research Assistant, <a href="https://mbzuai.ac.ae/" style="text-decoration: none;">MBZUAI</a>, UAE. [Advised by <a href="https://zhiqiangshen.com/" style="text-decoration: none;">Zhiqiang Shen</a>]</autocolor></li>
