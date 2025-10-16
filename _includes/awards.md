@@ -8,7 +8,7 @@
   <li><autocolor>Rank 6, ATEC2023 – AI-Generated News Detection Track, 2024.</autocolor></li>
   <li><autocolor>Rank 6, CCF BDCI – Conversational RAG Track, 2024. [<a href="https://github.com/wu-dd/BDCI-Solution" style="text-decoration: none;">Code</a>]</autocolor></li>
   <li><autocolor>Rank 7, 1st LMNL Challenge of IJCAI-ECAI2022 – Image Classification Task, 2022. [<a href="https://github.com/wu-dd/LMNL" style="text-decoration: none;">Code</a>]</autocolor></li>
-  <li><autocolor>Rank 4, 1st LMNL Challenge of IJCAI-ECAI2022 – Label Noise Detection Task, 2022. [<a href="../certificates/1st of LMNL challenge.pdf" style="text-decoration: none;">Certificate</a>]</autocolor></li>
+  <li><autocolor>Rank 4, 1st LMNL Challenge of IJCAI-ECAI2022 – Label Noise Detection Task, 2022. [<a href="assets/files/1st of LMNL challenge.pdf" style="text-decoration: none;">Certificate</a>]</autocolor></li>
   <li><autocolor>Outstanding Winner, International Interdisciplinary Contest in Modeling (ICM), 2019. [<a href="https://wmxy.cqu.edu.cn/info/1016/1173.htm" style="text-decoration: none;">Report</a>]</autocolor></li>
 </ul>
 
