@@ -62,7 +62,7 @@ main:
   - title: "Efficient Model Stealing Defense with Noise Transition Matrix"
     authors: "<u>Dong-Dong Wu</u>, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang"
     conference_short: "CVPR 2024"
-    conference: "Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024"
+    conference: "Proceedings of the 35th IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024"
     pdf: "https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf"
     code: "https://github.com/wu-dd/EMMA"
     # page: "https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf"
