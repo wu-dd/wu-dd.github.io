@@ -1,6 +1,6 @@
 ## Services
 
-<div style="margin:0 0 5px;">
+<div style="margin:0 0 20px;">
   <h4 style="display:inline; margin:0 10px 0 0;">Program Committee Member:</h4>
   <autocolor>2026(AAAI, PAKDD), 2025(IJCAI, ADMA, ECAI)</autocolor>
 </div>
