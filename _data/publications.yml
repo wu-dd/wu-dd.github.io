@@ -10,6 +10,15 @@ main:
     # image: "./assets/img/rscc_teaser.png"
     notes: Submitted
 
+  - title: "Accessible, Realistic, and Fair Evaluation of Positive-Unlabeled Learning Algorithms"
+    authors: "Wei Wang*, <u>Dong-Dong Wu</u>*, Ming Li, Jingxiong Zhang, Gang Niu, Masashi Sugiyama"
+    pdf: "https://arxiv.org/abs/2509.24228"
+    # code: "https://wu-dd.github.io/"
+    # page: "https://wu-dd.github.io/"
+    # bibtex: "@misc{xxx}"
+    notes: Submitted
+    # image:
+
   - title: "Unleashing the Potential of Data Augmentation in Deep Partial Label Learning"
     authors: "<u>Dong-Dong Wu</u>, Zhaoyi Li, Xiang Li, Zhiqiang Shen"
     # pdf: "https://wu-dd.github.io/"

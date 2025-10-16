@@ -31,12 +31,12 @@
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
-      <!-- {% if link.bibtex %} 
+      {% if link.bibtex %} 
       <a href="#" class="btn btn-sm z-depth-0 bibtex-btn" role="button" style="font-size:12px;" onclick="toggleBibtex(this); return false;">BibTex</a> 
       <div class="hidden bibtex-content" style="margin-top: 10px;">
         <pre>{{ link.bibtex }}</pre>
       </div>
-      {% endif %}-->
+      {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
       {% endif %}
