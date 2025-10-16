@@ -11,11 +11,11 @@ I am a first-year Ph.D. student at <a href="http://www.u-tokyo.ac.jp/en/" style=
 
 My research interests include **Weakly Supervised Learning**, **Data-efficient Learning**, **AI Safety** and **Uncertainty in Large Model**. Here's my  <a href ="/assets/files/CV.pdf" style="text-decoration: none;">CV</a>. If you are interested in discussing with me, welcome and feel free to contact me.
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/experiences.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
 
 {% include_relative _includes/talks.md %}
 
