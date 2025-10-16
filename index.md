@@ -18,3 +18,5 @@ My research interests include **Weakly Supervised Learning**, **Data-efficient L
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/talks.md %}
+
+{% include_relative _includes/awards.md %}
