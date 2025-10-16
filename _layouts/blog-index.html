@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <title>{{ page.title }} | {{ site.title }}</title>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    {% if site.keywords %}
+    <meta name="keywords" content="{{ site.keywords }}">
+    {% endif %}
+
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
+    <script src="{{ "/assets/js/favicon-switcher.js" | relative_url }}" type="application/javascript"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    <!-- Blog uses its own standalone CSS -->
+    <link rel="stylesheet" href="{{ "/assets/css/blog.css" | relative_url }}">
+
+    <!-- RSS Feed -->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Blog" href="{{ "/feed.xml" | relative_url }}" />
+  </head>
+  <body class="blog-post-body">
+    <div class="blog-post-wrapper">
+      <header class="blog-site-header">
+        <a href="{{ "/" | relative_url }}" class="site-name">{{ site.title }}</a>
+        <nav class="blog-top-nav">
+          <a href="{{ "/" | relative_url }}">Home</a>
+          <a href="{{ "/blog/" | relative_url }}">Blog</a>
+        </nav>
+      </header>
+
+      <section class="blog-content-full">
+
+      <div class="blog-index-content">
+        {{ content }}
+      </div>
+
+      <br>
+
+      {% if site.enable_footnote %}
+      <p style="text-align: center;"><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+      {% endif %}
+
+      </section>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
+

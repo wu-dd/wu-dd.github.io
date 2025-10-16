@@ -1,0 +1,11 @@
+main:
+  - title: "RSCC: A Large-Scale Remote Sensing Change Caption Dataset for Disaster Events"
+    authors: "Zhenyuan Chen, Chenxi Wang, Ningyu Zhang, Feng Zhang"
+    conference_short: "NeurIPS 2025"
+    conference: "NeurIPS 2025 Datasets and Benchmarks Track"
+    # pdf: 
+    code: "https://github.com/Bili-Sakura/RSCC"
+    page: "https://bili-sakura.github.io/RSCC/"
+    bibtex: "@misc{chen2025rscclargescaleremotesensing, title={RSCC: A Large-Scale Remote Sensing Change Caption Dataset for Disaster Events}, author={Zhenyuan Chen and Chenxi Wang and Ningyu Zhang and Feng Zhang}, year={2025}, eprint={2509.01907}, archivePrefix={arXiv}, primaryClass={cs.CV}, url={https://arxiv.org/abs/2509.01907}}"
+    image: "./assets/img/rscc_teaser.png"
+    notes: Accepted as Poster
