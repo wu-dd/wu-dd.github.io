@@ -1,5 +1,5 @@
 main:
-  - title: " Learning Robust Diffusion Models from Imprecise Supervision"
+  - title: "Learning Robust Diffusion Models from Imprecise Supervision"
     authors: "<u>Dong-Dong Wu</u>, Jiacheng Cui, Wei Wang, Zhiqiang Shen, Masashi Sugiyama"
     # conference_short: "NeurIPS 2025"
     # conference: "NeurIPS 2025 Datasets and Benchmarks Track"
@@ -9,3 +9,14 @@ main:
     bibtex: "@misc{chen2025rscclargescaleremotesensing, title={RSCC: A Large-Scale Remote Sensing Change Caption Dataset for Disaster Events}, author={Zhenyuan Chen and Chenxi Wang and Ningyu Zhang and Feng Zhang}, year={2025}, eprint={2509.01907}, archivePrefix={arXiv}, primaryClass={cs.CV}, url={https://arxiv.org/abs/2509.01907}}"
     # image: "./assets/img/rscc_teaser.png"
     notes: Submitted
+
+  - title: "Revisiting consistency regularization for deep partial label learning"
+    authors: "<u>Dong-Dong Wu</u>\*, Deng-Bao Wang\*, Min-Ling Zhang"
+    conference_short: "ICML 2022"
+    conference: "NeurIPS 2025 Datasets and Benchmarks Track"
+    # pdf: 
+    code: "https://github.com/wu-dd/PLCR"
+    page: "http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf"
+    bibtex: "@misc{xxx}"
+    # image: "./assets/img/rscc_teaser.png"
+    # notes: Submitted
