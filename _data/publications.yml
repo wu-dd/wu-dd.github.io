@@ -3,28 +3,28 @@ main:
     authors: "<u>Dong-Dong Wu</u>, Jiacheng Cui, Wei Wang, Zhiqiang Shen, Masashi Sugiyama"
     # conference_short: "NeurIPS 2025"
     # conference: "NeurIPS 2025 Datasets and Benchmarks Track"
-    pdf: 
-    code: "https://wu-dd.github.io/"
-    page: "https://wu-dd.github.io/"
-    bibtex: "@misc{xxx}"
+    # pdf: 
+    # code: "https://wu-dd.github.io/"
+    # page: "https://wu-dd.github.io/"
+    # bibtex: "@misc{xxx}"
     # image: "./assets/img/rscc_teaser.png"
     notes: Submitted
 
   - title: "Unleashing the Potential of Data Augmentation in Deep Partial Label Learning"
     authors: "<u>Dong-Dong Wu</u>, Zhaoyi Li, Xiang Li, Zhiqiang Shen"
-    pdf: "https://wu-dd.github.io/"
-    code: "https://wu-dd.github.io/"
-    page: "https://wu-dd.github.io/"
-    bibtex: "@misc{xxx}"
+    # pdf: "https://wu-dd.github.io/"
+    # code: "https://wu-dd.github.io/"
+    # page: "https://wu-dd.github.io/"
+    # bibtex: "@misc{xxx}"
     notes: Submitted
     # image:
 
   - title: "Dissimilarity-Driven Contrastive Learning for Robust Hashing in Partial Label Image Retrieval"
     authors: "Zhiqiang Kou, Yucheng Xie, <u>Dong-Dong Wu</u>, Yuheng Jia, Jing Wang, Min-Ling Zhang, Xin Geng"
-    pdf: "https://wu-dd.github.io/"
-    code: "https://wu-dd.github.io/"
-    page: "https://wu-dd.github.io/"
-    bibtex: "@misc{xxx}"
+    # pdf: "https://wu-dd.github.io/"
+    # code: "https://wu-dd.github.io/"
+    # page: "https://wu-dd.github.io/"
+    # bibtex: "@misc{xxx}"
     notes: Submitted
     # image:
 
@@ -35,7 +35,7 @@ main:
     pdf: "https://arxiv.org/pdf/2503.10635v1"
     code: "https://github.com/VILA-Lab/M-Attack"
     page: "https://vila-lab.github.io/M-Attack-Website/"
-    bibtex: "@misc{xxx}"
+    # bibtex: "@misc{xxx}"
     notes: "Also accepted in ICML 2025 Workshop on Reliable and Responsible Foundation Models"
     # image:
 
@@ -45,8 +45,8 @@ main:
     conference: "Proceedings of the 13th International Conference on Learning Representations (ICLR), 2025"
     pdf: "https://arxiv.org/pdf/2502.10184"
     code: "https://github.com/wwangwitsel/PLENCH"
-    page: "https://wu-dd.github.io/"
-    bibtex: "@misc{xxx}"
+    # page: "https://wu-dd.github.io/"
+    # bibtex: "@misc{xxx}"
     notes: Spotlight
     # image:
 
@@ -56,8 +56,8 @@ main:
     conference: "Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024"
     pdf: "https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf"
     code: "https://github.com/wu-dd/EMMA"
-    page: "https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf"
-    bibtex: "@misc{xxx}"
+    # page: "https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf"
+    # bibtex: "@misc{xxx}"
     # image:
 
   - title: "Robust Representation Learning for Unreliable Partial Label Learning"
@@ -66,8 +66,8 @@ main:
     conference: "arXiv preprint, 2024"
     pdf: "https://arxiv.org/pdf/2308.16718.pdf"
     code: "https://github.com/wu-dd/URRL"
-    page: "https://wu-dd.github.io/"
-    bibtex: "@misc{xxx}"
+    # page: "https://wu-dd.github.io/"
+    # bibtex: "@misc{xxx}"
     # image:
 
   - title: "Distilling Reliable Knowledge for Instance-dependent Partial Label Learning"
@@ -76,8 +76,8 @@ main:
     conference: "Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024"
     pdf: "https://palm.seu.edu.cn/zhangml/files/AAAI'24d.pdf"
     code: "https://github.com/wu-dd/DIRK"
-    page: "https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf"
-    bibtex: "@misc{xxx}"
+    # page: "https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf"
+    # bibtex: "@misc{xxx}"
     # image:
 
   - title: "Revisiting consistency regularization for deep partial label learning"
