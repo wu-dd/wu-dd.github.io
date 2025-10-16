@@ -86,8 +86,8 @@ main:
     conference: "Proceedings of the 39th International Conference on Machine Learning (ICML), 2022"
     pdf: "http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf"
     code: "https://github.com/wu-dd/PLCR"
-    page: "https://wu-dd.github.io/"
-    bibtex: "@misc{xxx}"
+    # page: "https://wu-dd.github.io/"
+    # bibtex: "@misc{xxx}"
     # image:
 
   - title: "A new classification method based on the negation of a basic probability assignment in the evidence theory"
@@ -95,9 +95,9 @@ main:
     conference_short: "EAAI 2020"
     conference: "Engineering Applications of Artificial Intelligence (EAAI), 2020, 96: 103985"
     pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864"
-    code: "https://wu-dd.github.io/"
-    page: "https://wu-dd.github.io/"
-    bibtex: "@misc{xxx}"
+    # code: "https://wu-dd.github.io/"
+    # page: "https://wu-dd.github.io/"
+    # bibtex: "@misc{xxx}"
     # image:
 
   - title: "A new approach for generation of generalized basic probability assignment in the evidence theory"
@@ -105,9 +105,9 @@ main:
     conference_short: "PAA 2021"
     conference: "Pattern Analysis and Applications (PAA), 2021, 24(3): 1007-1023"
     pdf: "https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf"
-    code: "https://wu-dd.github.io/"
-    page: "https://wu-dd.github.io/"
-    bibtex: "@misc{xxx}"
+    # code:
+    # page:
+    # bibtex: 
     notes: "ESI Highly Cited Paper (Top 1%)"
     # image:
 
@@ -116,8 +116,8 @@ main:
     conference_short: "QRE 2020"
     conference: "Quality and Reliability Engineering International (QRE), 2020; 36(5): 1786–1807"
     pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660"
-    code: "https://wu-dd.github.io/"
-    page: "../certificates/Top Cited Article 2020-2021.pdf"
-    bibtex: "@misc{xxx}"
+    # code: 
+    # page: 
+    # bibtex:
     notes: "ESI Highly Cited Paper (Top 1%)"
     # image:
