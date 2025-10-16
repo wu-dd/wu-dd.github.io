@@ -3,7 +3,7 @@ main:
     authors: "<u>Dong-Dong Wu</u>, Jiacheng Cui, Wei Wang, Zhiqiang Shen, Masashi Sugiyama"
     # conference_short: "NeurIPS 2025"
     # conference: "NeurIPS 2025 Datasets and Benchmarks Track"
-    # pdf: 
+    pdf: "https://arxiv.org/abs/2510.03016v1"
     # code: "https://wu-dd.github.io/"
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
