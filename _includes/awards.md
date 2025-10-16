@@ -26,7 +26,7 @@
   <h4 style="display:inline; margin:0 10px 0 0;">Scholarships:</h4>
 </div>
 <ul style="margin:0 0 20px; padding-left:20px;">
-  <li><autocolor>Huawei Scholarship (2024)</autocolor></li>
-  <li><autocolor>Lenovo Research Institute Scholarship (2023)</autocolor></li>
-  <li><autocolor>Huawei Scholarship (2021)</autocolor></li>
+  <li><autocolor>Huawei Scholarship, 2024</autocolor></li>
+  <li><autocolor>Lenovo Research Institute Scholarship, 2023</autocolor></li>
+  <li><autocolor>Huawei Scholarship, 2021</autocolor></li>
 </ul>
