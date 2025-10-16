@@ -11,7 +11,7 @@ main:
     notes: Submitted
 
   - title: "Revisiting consistency regularization for deep partial label learning"
-    authors: "<u>Dong-Dong Wu</u>\*, Deng-Bao Wang\*, Min-Ling Zhang"
+    authors: "<u>Dong-Dong Wu</u>, Deng-Bao Wang, Min-Ling Zhang"
     conference_short: "ICML 2022"
     conference: "NeurIPS 2025 Datasets and Benchmarks Track"
     # pdf: 
