@@ -13,7 +13,7 @@ main:
   - title: "Revisiting consistency regularization for deep partial label learning"
     authors: "<u>Dong-Dong Wu</u>, Deng-Bao Wang, Min-Ling Zhang"
     conference_short: "ICML 2022"
-    conference: "*Proceedings of the 39th International Conference on Machine Learning (ICML)*, 2022"
+    conference: "Proceedings of the 39th International Conference on Machine Learning (ICML), 2022"
     # pdf: 
     code: "https://github.com/wu-dd/PLCR"
     page: "http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf"
