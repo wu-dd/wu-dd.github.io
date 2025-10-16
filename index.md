@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I completed my undergraduate studies at Zhejiang University, School of Earth Sciences, and am currently a third-year master's student at the same institution, under the supervision of [Prof. Feng Zhang](https://person.zju.edu.cn/en/fengzhang).
+I am a first-year Ph.D. student at <a href="http://www.u-tokyo.ac.jp/en/" style="text-decoration: none;">the University of Tokyo</a>,  supervised by Prof. <a href="http://www.ms.k.u-tokyo.ac.jp/sugi/index.html" style="text-decoration: none;">Masashi Sugiyama</a>. I am also a Junior Research Associate at the <a href="https://aip.riken.jp/labs/generic_tech/imperfect_inf_learn" style="text-decoration: none;">Imperfect Information Learning Team</a>, <a href="https://www.riken.jp/en" style="text-decoration: none;">RIKEN</a> <a href="https://aip.riken.jp/" style="text-decoration: none;">Center for Advanced Intelligence Project</a>. Before that, I received my M.Eng. degree from <a href="https://cse.seu.edu.cn/" style="text-decoration: none;">Southeast University</a> under the supervision of Prof. <a href="http://palm.seu.edu.cn/zhangml" style="text-decoration: none;">Min-Ling Zhang</a>. I received my B.Eng. degree from <a href="http://www.cse.cqu.edu.cn/" style="text-decoration: none;">Chongqing University</a>. During my research journey, I also had wonderful time at MBZUAI, Ant Group and CASIA.
+
 
 ## Research Interests
 
