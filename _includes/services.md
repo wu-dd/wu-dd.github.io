@@ -2,7 +2,7 @@
 
 <h4 style="margin:0 10px 0;">Program Comittee Member</h4>
 
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 5px; padding-left:0;">
   <li><autocolor>2026(AAAI, PAKDD), 2025(IJCAI, ADMA, ECAI)</autocolor></li>
 </ul>
 
