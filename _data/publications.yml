@@ -3,20 +3,121 @@ main:
     authors: "<u>Dong-Dong Wu</u>, Jiacheng Cui, Wei Wang, Zhiqiang Shen, Masashi Sugiyama"
     # conference_short: "NeurIPS 2025"
     # conference: "NeurIPS 2025 Datasets and Benchmarks Track"
-    # pdf: 
-    code: "https://github.com/Bili-Sakura/RSCC"
-    page: "https://bili-sakura.github.io/RSCC/"
-    bibtex: "@misc{chen2025rscclargescaleremotesensing, title={RSCC: A Large-Scale Remote Sensing Change Caption Dataset for Disaster Events}, author={Zhenyuan Chen and Chenxi Wang and Ningyu Zhang and Feng Zhang}, year={2025}, eprint={2509.01907}, archivePrefix={arXiv}, primaryClass={cs.CV}, url={https://arxiv.org/abs/2509.01907}}"
+    pdf: 
+    code: "https://wu-dd.github.io/"
+    page: "https://wu-dd.github.io/"
+    bibtex: "@misc{xxx}"
     # image: "./assets/img/rscc_teaser.png"
     notes: Submitted
 
+  - title: "Unleashing the Potential of Data Augmentation in Deep Partial Label Learning"
+    authors: "<u>Dong-Dong Wu</u>, Zhaoyi Li, Xiang Li, Zhiqiang Shen"
+    pdf: "https://wu-dd.github.io/"
+    code: "https://wu-dd.github.io/"
+    page: "https://wu-dd.github.io/"
+    bibtex: "@misc{xxx}"
+    notes: Submitted
+    # image:
+
+  - title: "Dissimilarity-Driven Contrastive Learning for Robust Hashing in Partial Label Image Retrieval"
+    authors: "Zhiqiang Kou, Yucheng Xie, <u>Dong-Dong Wu</u>, Yuheng Jia, Jing Wang, Min-Ling Zhang, Xin Geng"
+    pdf: "https://wu-dd.github.io/"
+    code: "https://wu-dd.github.io/"
+    page: "https://wu-dd.github.io/"
+    bibtex: "@misc{xxx}"
+    notes: Submitted
+    # image:
+
+  - title: "A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1"
+    authors: "Zhaoyi Li, Xiaohan Zhao, <u>Dong-Dong Wu</u>, Jiacheng Cui, Zhiqiang Shen"
+    conference_short: "NeurIPS 2025"
+    conference: "The 39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025"
+    pdf: "https://arxiv.org/pdf/2503.10635v1"
+    code: "https://github.com/VILA-Lab/M-Attack"
+    page: "https://vila-lab.github.io/M-Attack-Website/"
+    bibtex: "@misc{xxx}"
+    notes: "Also accepted in ICML 2025 Workshop on Reliable and Responsible Foundation Models"
+    # image:
+
+  - title: "PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms"
+    authors: "Wei Wang, <u>Dong-Dong Wu</u>, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama"
+    conference_short: "ICLR 2025"
+    conference: "Proceedings of the 13th International Conference on Learning Representations (ICLR), 2025"
+    pdf: "https://arxiv.org/pdf/2502.10184"
+    code: "https://github.com/wwangwitsel/PLENCH"
+    page: "https://wu-dd.github.io/"
+    bibtex: "@misc{xxx}"
+    notes: Spotlight
+    # image:
+
+  - title: "Efficient Model Stealing Defense with Noise Transition Matrix"
+    authors: "<u>Dong-Dong Wu</u>, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang"
+    conference_short: "CVPR 2024"
+    conference: "Proceedings of the 35th IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024"
+    pdf: "https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf"
+    code: "https://github.com/wu-dd/EMMA"
+    page: "https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf"
+    bibtex: "@misc{xxx}"
+    # image:
+
+  - title: "Robust Representation Learning for Unreliable Partial Label Learning"
+    authors: "Yu Shi*, <u>Dong-Dong Wu</u>*, Xin Geng, Min-Ling Zhang"
+    conference_short: "arXiv 2024"
+    conference: "arXiv preprint, 2024"
+    pdf: "https://arxiv.org/pdf/2308.16718.pdf"
+    code: "https://github.com/wu-dd/URRL"
+    page: "https://wu-dd.github.io/"
+    bibtex: "@misc{xxx}"
+    # image:
+
+  - title: "Distilling Reliable Knowledge for Instance-dependent Partial Label Learning"
+    authors: "<u>Dong-Dong Wu</u>*, Deng-Bao Wang*, Min-Ling Zhang"
+    conference_short: "AAAI 2024"
+    conference: "Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024"
+    pdf: "https://palm.seu.edu.cn/zhangml/files/AAAI'24d.pdf"
+    code: "https://github.com/wu-dd/DIRK"
+    page: "https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf"
+    bibtex: "@misc{xxx}"
+    # image:
+
   - title: "Revisiting consistency regularization for deep partial label learning"
-    authors: "<u>Dong-Dong Wu</u>, Deng-Bao Wang, Min-Ling Zhang"
+    authors: "<u>Dong-Dong Wu</u>*, Deng-Bao Wang*, Min-Ling Zhang"
     conference_short: "ICML 2022"
     conference: "Proceedings of the 39th International Conference on Machine Learning (ICML), 2022"
-    # pdf: 
+    pdf: "http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf"
     code: "https://github.com/wu-dd/PLCR"
-    page: "http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf"
+    page: "https://wu-dd.github.io/"
     bibtex: "@misc{xxx}"
-    # image: "./assets/img/rscc_teaser.png"
-    # notes: Submitted
+    # image:
+
+  - title: "A new classification method based on the negation of a basic probability assignment in the evidence theory"
+    authors: "<u>Dongdong Wu</u>, Zijing Liu, Yongchuan Tang"
+    conference_short: "EAAI 2020"
+    conference: "Engineering Applications of Artificial Intelligence (EAAI), 2020, 96: 103985"
+    pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864"
+    code: "https://wu-dd.github.io/"
+    page: "https://wu-dd.github.io/"
+    bibtex: "@misc{xxx}"
+    # image:
+
+  - title: "A new approach for generation of generalized basic probability assignment in the evidence theory"
+    authors: "Yongchuan Tang, <u>Dongdong Wu</u>, Zijing Liu"
+    conference_short: "PAA 2021"
+    conference: "Pattern Analysis and Applications (PAA), 2021, 24(3): 1007-1023"
+    pdf: "https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf"
+    code: "https://wu-dd.github.io/"
+    page: "https://wu-dd.github.io/"
+    bibtex: "@misc{xxx}"
+    notes: "ESI Highly Cited Paper (Top 1%)"
+    # image:
+
+  - title: "An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory"
+    authors: "<u>Dongdong Wu</u>, Yongchuan Tang"
+    conference_short: "QRE 2020"
+    conference: "Quality and Reliability Engineering International (QRE), 2020; 36(5): 1786–1807"
+    pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660"
+    code: "https://wu-dd.github.io/"
+    page: "../certificates/Top Cited Article 2020-2021.pdf"
+    bibtex: "@misc{xxx}"
+    notes: "ESI Highly Cited Paper (Top 1%)"
+    # image:
