@@ -53,8 +53,9 @@
         <h1>{{ site.title }}</h1>
 
         {% if site.chinese_name %}
-        <email>{{ site.chinese_name }}</email>
+        <position lang="zh" style='display:inline; font-family: "Kaiti SC","STKaiti","KaiTi","KaiTi_GB2312","DFKai-SB","LXGW WenKai",serif; font-weight:400;'>{{ site.chinese_name }}</position>
         {% endif %}
+        <br>
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
