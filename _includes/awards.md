@@ -16,7 +16,14 @@
   <h4 style="display:inline; margin:0 10px 0 0;">Honors:</h4>
 </div>
 <ul style="margin:0 0 5px; padding-left:20px;">
-  <li><autocolor>Outstanding Master’s Thesis Award of Southeast University (东南大学优秀硕士学术学位论文), 2025</autocolor></li>
+  <li>
+  <autocolor>
+    Outstanding Master’s Thesis Award of Southeast University 
+    (<span lang="zh-CN" style="font-family:'Noto Sans SC','Microsoft YaHei','PingFang SC','Heiti SC','SimHei',sans-serif; font-size:0.95em;">
+      东南大学优秀硕士学术学位论文
+    </span>), 2025
+  </autocolor>
+  </li>
   <li><autocolor>Outstanding Master's Graduate in Southeast University, 2024.</autocolor></li>
   <li><autocolor>Merit Master's Student Pacesetter in Southeast University, 2023.</autocolor></li>
   <li><autocolor>Outstanding Undergraduate Graduate in Chongqing University, 2021.</autocolor></li>
