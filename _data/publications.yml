@@ -19,7 +19,7 @@ main:
     notes: Submitted
     # image:
 
-  - title: "Unleashing the Potential of Data Augmentation in Deep Partial Label Learning"
+  - title: "Making Partial-Label Datasets Easier: A Simple Yet Highly Effective Data Augmentation for Deep Partial-Label Learning"
     authors: "<u>Dong-Dong Wu</u>, Zhaoyi Li, Xiang Li, Zhiqiang Shen"
     # pdf: "https://wu-dd.github.io/"
     # code: "https://wu-dd.github.io/"
