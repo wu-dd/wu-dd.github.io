@@ -28,15 +28,6 @@ main:
     notes: Submitted
     # image:
 
-  - title: "Dissimilarity-Driven Contrastive Learning for Robust Hashing in Partial Label Image Retrieval"
-    authors: "Zhiqiang Kou, Yucheng Xie, <u>Dong-Dong Wu</u>, Yuheng Jia, Jing Wang, Min-Ling Zhang, Xin Geng"
-    # pdf: "https://wu-dd.github.io/"
-    # code: "https://wu-dd.github.io/"
-    # page: "https://wu-dd.github.io/"
-    # bibtex: "@misc{xxx}"
-    notes: Submitted
-    # image:
-
   - title: "A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1"
     authors: "Zhaoyi Li, Xiaohan Zhao, <u>Dong-Dong Wu</u>, Jiacheng Cui, Zhiqiang Shen"
     conference_short: "NeurIPS 2025"
