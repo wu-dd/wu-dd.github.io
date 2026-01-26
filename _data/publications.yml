@@ -10,15 +10,6 @@ main:
     # image: "./assets/img/rscc_teaser.png"
     notes: Submitted
 
-  - title: "Accessible, Realistic, and Fair Evaluation of Positive-Unlabeled Learning Algorithms"
-    authors: "Wei Wang*, <u>Dong-Dong Wu</u>*, Ming Li, Jingxiong Zhang, Gang Niu, Masashi Sugiyama"
-    pdf: "https://arxiv.org/abs/2509.24228"
-    # code: "https://wu-dd.github.io/"
-    # page: "https://wu-dd.github.io/"
-    # bibtex: "@misc{xxx}"
-    notes: Submitted
-    # image:
-
   - title: "Making Partial-Label Datasets Easier: A Simple Yet Highly Effective Data Augmentation for Deep Partial-Label Learning"
     authors: "<u>Dong-Dong Wu</u>, Zhaoyi Li, Xiang Li, Zhiqiang Shen"
     # pdf: "https://wu-dd.github.io/"
@@ -26,6 +17,17 @@ main:
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
     notes: Submitted
+    # image:
+
+  - title: "Accessible, Realistic, and Fair Evaluation of Positive-Unlabeled Learning Algorithms"
+    authors: "Wei Wang*, <u>Dong-Dong Wu</u>*, Ming Li, Jingxiong Zhang, Gang Niu, Masashi Sugiyama"
+    conference_short: "ICLR 2026"
+    conference: "Proceedings of the 14th International Conference on Learning Representations (ICLR), 2026"
+    pdf: "https://arxiv.org/abs/2509.24228"
+    # code: "https://wu-dd.github.io/"
+    # page: "https://wu-dd.github.io/"
+    # bibtex: "@misc{xxx}"
+    # notes: Submitted
     # image:
 
   - title: "A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1"
