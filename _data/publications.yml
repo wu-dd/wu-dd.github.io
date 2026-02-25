@@ -26,6 +26,7 @@ main:
     conference: "Proceedings of the 14th International Conference on Learning Representations (ICLR), 2026"
     pdf: "https://openreview.net/pdf?id=5R11h5o44C"
     code: "https://github.com/wu-dd/PUBench"
+    research: Weakly Supervised Learning
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
     # notes: Submitted
@@ -59,6 +60,7 @@ main:
     conference: "Proceedings of the 35th IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024"
     pdf: "https://ieeexplore.ieee.org/document/10658035"
     code: "https://github.com/wu-dd/EMMA"
+    research: AI safety
     # page: "https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf"
     # bibtex: "@misc{xxx}"
     # image:
