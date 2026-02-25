@@ -1,4 +1,13 @@
 main:
+  - title: "Making Partial-Label Datasets Easier: A Simple Yet Highly Effective Data Augmentation for Deep Partial-Label Learning"
+    authors: "<u>Dong-Dong Wu</u>, Zhaoyi Li, Xiang Li, Zhiqiang Shen"
+    # pdf: "https://wu-dd.github.io/"
+    # code: "https://wu-dd.github.io/"
+    # page: "https://wu-dd.github.io/"
+    # bibtex: "@misc{xxx}"
+    notes: Submitted
+    # image:
+
   - title: "Learning Robust Diffusion Models from Imprecise Supervision"
     authors: "<u>Dong-Dong Wu</u>, Jiacheng Cui, Wei Wang, Zhiqiang Shen, Masashi Sugiyama"
     # conference_short: "NeurIPS 2025"
@@ -10,21 +19,13 @@ main:
     # image: "./assets/img/rscc_teaser.png"
     notes: Submitted
 
-  - title: "Making Partial-Label Datasets Easier: A Simple Yet Highly Effective Data Augmentation for Deep Partial-Label Learning"
-    authors: "<u>Dong-Dong Wu</u>, Zhaoyi Li, Xiang Li, Zhiqiang Shen"
-    # pdf: "https://wu-dd.github.io/"
-    # code: "https://wu-dd.github.io/"
-    # page: "https://wu-dd.github.io/"
-    # bibtex: "@misc{xxx}"
-    notes: Submitted
-    # image:
 
   - title: "Accessible, Realistic, and Fair Evaluation of Positive-Unlabeled Learning Algorithms"
     authors: "Wei Wang*, <u>Dong-Dong Wu</u>*, Ming Li, Jingxiong Zhang, Gang Niu, Masashi Sugiyama"
     conference_short: "ICLR 2026"
     conference: "Proceedings of the 14th International Conference on Learning Representations (ICLR), 2026"
-    pdf: "https://arxiv.org/abs/2509.24228"
-    # code: "https://wu-dd.github.io/"
+    pdf: "https://openreview.net/pdf?id=5R11h5o44C"
+    code: "https://github.com/wu-dd/PUBench"
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
     # notes: Submitted
@@ -36,7 +37,7 @@ main:
     conference: "The 39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025"
     pdf: "https://arxiv.org/pdf/2503.10635v1"
     code: "https://github.com/VILA-Lab/M-Attack"
-    page: "https://vila-lab.github.io/M-Attack-Website/"
+    # page: "https://vila-lab.github.io/M-Attack-Website/"
     # bibtex: "@misc{xxx}"
     notes: "Also accepted in ICML 2025 Workshop on Reliable and Responsible Foundation Models"
     # image:
@@ -56,7 +57,7 @@ main:
     authors: "<u>Dong-Dong Wu</u>, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang"
     conference_short: "CVPR 2024"
     conference: "Proceedings of the 35th IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024"
-    pdf: "https://palm.seu.edu.cn/zhangml/files/CVPR'24.pdf"
+    pdf: "https://ieeexplore.ieee.org/document/10658035"
     code: "https://github.com/wu-dd/EMMA"
     # page: "https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf"
     # bibtex: "@misc{xxx}"
