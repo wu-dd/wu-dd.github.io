@@ -29,7 +29,7 @@
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
       {% if link.research %}
-      <span class="research-badge" style="display:inline-block; font-size:12px; color:#828282; border:1px solid #000000; background:#ffffff; padding:0.0rem 0.1rem; cursor:default; text-decoration:none;">{{ link.research }}</span>
+      <span class="research-badge" style="display:inline-block; font-size:12px; color:#828282; border:1px solid #828282; background:#ffffff; padding:0.0rem 0.1rem; cursor:default; text-decoration:none;">{{ link.research }}</span>
       {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
