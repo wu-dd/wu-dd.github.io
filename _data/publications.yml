@@ -11,7 +11,7 @@ main:
   - title: "Learning Robust Diffusion Models from Imprecise Supervision"
     authors: "<u>Dong-Dong Wu</u>, Jiacheng Cui, Wei Wang, Zhiqiang Shen, Masashi Sugiyama"
     # conference_short: "NeurIPS 2025"
-    conference: "ICLR 2026 2nd Workshop on Deep Generative Model in Machine Learning: Theory, Principle and Efficacy"
+    conference: "ICLR 2026 Workshop on Deep Generative Model in Machine Learning: Theory, Principle and Efficacy"
     pdf: "https://arxiv.org/abs/2510.03016v1"
     # code: "https://wu-dd.github.io/"
     # page: "https://wu-dd.github.io/"
