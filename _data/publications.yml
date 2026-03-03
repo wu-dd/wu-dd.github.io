@@ -11,14 +11,14 @@ main:
   - title: "Learning Robust Diffusion Models from Imprecise Supervision"
     authors: "<u>Dong-Dong Wu</u>, Jiacheng Cui, Wei Wang, Zhiqiang Shen, Masashi Sugiyama"
     # conference_short: "NeurIPS 2025"
-    # conference: "NeurIPS 2025 Datasets and Benchmarks Track"
+    conference: "ICLR 2026 2nd Workshop on Deep Generative Model in Machine Learning: Theory, Principle and Efficacy"
     pdf: "https://arxiv.org/abs/2510.03016v1"
     # code: "https://wu-dd.github.io/"
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
     # image: "./assets/img/rscc_teaser.png"
     research: Weakly Supervised Learning
-    notes: Submitted
+    # notes: Submitted
 
 
   - title: "Accessible, Realistic, and Fair Evaluation of Positive-Unlabeled Learning Algorithms"
