@@ -1,12 +1,15 @@
 main:
   - title: "Making Partial-Label Datasets Easier: A Simple Yet Highly Effective Data Augmentation for Deep Partial-Label Learning"
     authors: "<u>Dong-Dong Wu</u>, Zhaoyi Li, Xiang Li, Zhiqiang Shen"
-    # pdf: "https://wu-dd.github.io/"
+    # conference_short: "NeurIPS 2025"
+    conference: "The 5th DataCV Workshop and Challenge with CVPR2026"
+    # pdf: "https://arxiv.org/abs/2510.03016v1"
     # code: "https://wu-dd.github.io/"
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
-    notes: Submitted
-    # image:
+    # image: "./assets/img/rscc_teaser.png"
+    research: Weakly Supervised Learning
+    # notes: Submitted
 
   - title: "Learning Robust Diffusion Models from Imprecise Supervision"
     authors: "<u>Dong-Dong Wu</u>, Jiacheng Cui, Wei Wang, Zhiqiang Shen, Masashi Sugiyama"
