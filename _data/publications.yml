@@ -3,7 +3,7 @@ main:
     authors: "<u>Dong-Dong Wu</u>, Zhaoyi Li, Xiang Li, Zhiqiang Shen"
     # conference_short: "NeurIPS 2025"
     conference: "The 5th DataCV Workshop and Challenge with CVPR2026"
-    # pdf: "https://arxiv.org/abs/2510.03016v1"
+    pdf: "https://openreview.net/forum?id=swEVq3Ycr3"
     # code: "https://wu-dd.github.io/"
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
@@ -11,11 +11,11 @@ main:
     research: Weakly Supervised Learning
     # notes: Submitted
 
-  - title: "Learning Robust Diffusion Models from Imprecise Supervision"
+  - title: "DELTA: Robustly Training Diffusion Models with Weak Annotations"
     authors: "<u>Dong-Dong Wu</u>, Jiacheng Cui, Wei Wang, Zhiqiang Shen, Masashi Sugiyama"
     # conference_short: "NeurIPS 2025"
     conference: "ICLR 2026 Workshop on Deep Generative Model in Machine Learning: Theory, Principle and Efficacy"
-    pdf: "https://arxiv.org/abs/2510.03016v1"
+    pdf: "https://openreview.net/forum?id=pXj6jc9jEr"
     # code: "https://wu-dd.github.io/"
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
@@ -40,7 +40,7 @@ main:
     authors: "Zhaoyi Li, Xiaohan Zhao, <u>Dong-Dong Wu</u>, Jiacheng Cui, Zhiqiang Shen"
     conference_short: "NeurIPS 2025"
     conference: "The 39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025"
-    pdf: "https://arxiv.org/pdf/2503.10635v1"
+    pdf: "https://openreview.net/forum?id=9xXjWwAoUF"
     code: "https://github.com/VILA-Lab/M-Attack"
     research: AI safety
     # page: "https://vila-lab.github.io/M-Attack-Website/"
@@ -86,7 +86,7 @@ main:
     authors: "<u>Dong-Dong Wu</u>*, Deng-Bao Wang*, Min-Ling Zhang"
     conference_short: "AAAI 2024"
     conference: "Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024"
-    pdf: "https://palm.seu.edu.cn/zhangml/files/AAAI'24d.pdf"
+    pdf: "https://ojs.aaai.org/index.php/AAAI/article/view/29519"
     code: "https://github.com/wu-dd/DIRK"
     research: Weakly Supervised Learning
     # page: "https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf"
@@ -97,7 +97,7 @@ main:
     authors: "<u>Dong-Dong Wu</u>*, Deng-Bao Wang*, Min-Ling Zhang"
     conference_short: "ICML 2022"
     conference: "Proceedings of the 39th International Conference on Machine Learning (ICML), 2022"
-    pdf: "http://palm.seu.edu.cn/zhangml/files/ICML'22a.pdf"
+    pdf: "https://proceedings.mlr.press/v162/wu22l.html"
     code: "https://github.com/wu-dd/PLCR"
     research: Weakly Supervised Learning
     # page: "https://wu-dd.github.io/"
