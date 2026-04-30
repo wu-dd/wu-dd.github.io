@@ -1,4 +1,17 @@
 main:
+
+  - title: "Positive–Unlabeled Reinforcement Learning Distillation for On-Premise Small Models"
+    authors: Zhiqiang Kou, Junyang Chen, Xin-Qiang Cai, Xiaobo Xia, Ming-Kun Xie, <u>Dong-Dong Wu</u>, Biao Liu, Yuheng Jia, Xin Geng, Masashi Sugiyama, Tat-Seng Chua
+    conference_short: "ICML 2026"
+    conference: "Proceedings of the 43rd International Conference on Machine Learning (ICML), 2026"
+    pdf: "https://openreview.net/pdf?id=WyQlim30lN"
+    # code: "https://github.com/wu-dd/PUBench"
+    # research: Weakly Supervised Learning
+    # page: "https://wu-dd.github.io/"
+    # bibtex: "@misc{xxx}"
+    # notes: Submitted
+    # image:
+
   - title: "Making Partial-Label Datasets Easier: A Simple Yet Highly Effective Data Augmentation for Deep Partial-Label Learning"
     authors: "<u>Dong-Dong Wu</u>, Zhaoyi Li, Xiang Li, Zhiqiang Shen"
     # conference_short: "NeurIPS 2025"
@@ -8,7 +21,7 @@ main:
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
     # image: "./assets/img/rscc_teaser.png"
-    research: Weakly Supervised Learning
+    # research: Weakly Supervised Learning
     # notes: Submitted
 
   - title: "DELTA: Robustly Training Diffusion Models with Weak Annotations"
@@ -30,7 +43,7 @@ main:
     conference: "Proceedings of the 14th International Conference on Learning Representations (ICLR), 2026"
     pdf: "https://openreview.net/pdf?id=5R11h5o44C"
     code: "https://github.com/wu-dd/PUBench"
-    research: Weakly Supervised Learning
+    # research: Weakly Supervised Learning
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
     # notes: Submitted
@@ -42,7 +55,7 @@ main:
     conference: "The 39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025"
     pdf: "https://openreview.net/forum?id=9xXjWwAoUF"
     code: "https://github.com/VILA-Lab/M-Attack"
-    research: AI safety
+    # research: AI safety
     # page: "https://vila-lab.github.io/M-Attack-Website/"
     # bibtex: "@misc{xxx}"
     notes: "Also accepted in ICML 2025 Workshop on Reliable and Responsible Foundation Models"
@@ -54,7 +67,7 @@ main:
     conference: "Proceedings of the 13th International Conference on Learning Representations (ICLR), 2025"
     pdf: "https://arxiv.org/pdf/2502.10184"
     code: "https://github.com/wwangwitsel/PLENCH"
-    research: Weakly Supervised Learning
+    # research: Weakly Supervised Learning
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
     notes: Spotlight
@@ -77,7 +90,7 @@ main:
     conference: "arXiv preprint, 2024"
     pdf: "https://arxiv.org/pdf/2308.16718.pdf"
     code: "https://github.com/wu-dd/URRL"
-    research: Weakly Supervised Learning
+    # research: Weakly Supervised Learning
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
     # image:
@@ -99,7 +112,7 @@ main:
     conference: "Proceedings of the 39th International Conference on Machine Learning (ICML), 2022"
     pdf: "https://proceedings.mlr.press/v162/wu22l.html"
     code: "https://github.com/wu-dd/PLCR"
-    research: Weakly Supervised Learning
+    # research: Weakly Supervised Learning
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
     # image:
@@ -109,7 +122,7 @@ main:
     conference_short: "EAAI 2020"
     conference: "Engineering Applications of Artificial Intelligence (EAAI), 2020, 96: 103985"
     pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864"
-    research: Uncertainty
+    # research: Uncertainty
     # code: "https://wu-dd.github.io/"
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
@@ -120,7 +133,7 @@ main:
     conference_short: "PAA 2021"
     conference: "Pattern Analysis and Applications (PAA), 2021, 24(3): 1007-1023"
     pdf: "https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf"
-    research: Uncertainty
+    # research: Uncertainty
     # code:
     # page:
     # bibtex: 
@@ -132,7 +145,7 @@ main:
     conference_short: "QRE 2020"
     conference: "Quality and Reliability Engineering International (QRE), 2020; 36(5): 1786–1807"
     pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660"
-    research: Uncertainty
+    # research: Uncertainty
     # code: 
     # page: 
     # bibtex:
