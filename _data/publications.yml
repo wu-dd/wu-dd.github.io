@@ -33,7 +33,7 @@ main:
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
     # image: "./assets/img/rscc_teaser.png"
-    research: Weakly Supervised Learning
+    # research: Weakly Supervised Learning
     # notes: Submitted
 
 
@@ -79,7 +79,7 @@ main:
     conference: "Proceedings of the 35th IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024"
     pdf: "https://ieeexplore.ieee.org/document/10658035"
     code: "https://github.com/wu-dd/EMMA"
-    research: AI safety
+    # research: AI safety
     # page: "https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf"
     # bibtex: "@misc{xxx}"
     # image:
@@ -101,7 +101,7 @@ main:
     conference: "Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024"
     pdf: "https://ojs.aaai.org/index.php/AAAI/article/view/29519"
     code: "https://github.com/wu-dd/DIRK"
-    research: Weakly Supervised Learning
+    # research: Weakly Supervised Learning
     # page: "https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf"
     # bibtex: "@misc{xxx}"
     # image:
