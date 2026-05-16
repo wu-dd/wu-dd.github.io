@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications &nbsp;<small><a href="/publications/" style="font-size:0.75rem; color:#828282; font-weight:normal; text-decoration:none;">[View all publications]</a></small></h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -59,6 +59,3 @@
 </ol>
 </div>
 
-<div style="text-align: right; margin-top: -10px;">
-  <a href="/publications/" style="font-size:0.9rem; color:#828282; text-decoration:none;">View all publications &rarr;</a>
-</div>
