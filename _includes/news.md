@@ -3,7 +3,7 @@
 <div class="news-list">
 <ul style="margin:0; padding-left:20px;">
   <li><autocolor>[2026.05] One paper accepted at <strong>ICML 2026</strong>.</autocolor></li>
-  <li><autocolor>[2026.01] Two papers accepted at <strong>ICLR 2026</strong> (one main conference, one workshop).</autocolor></li>
   <li><autocolor>[2026.03] Received the <strong>Travel Award</strong> for ICLR 2026.</autocolor></li>
+  <li><autocolor>[2026.01] Two papers accepted at <strong>ICLR 2026</strong> (one main conference, one workshop).</autocolor></li>
 </ul>
 </div>

@@ -19,16 +19,10 @@
   {%- else -%}
   <div class="col-sm-12" style="position:relative; padding-right:15px; padding-left:0px;">
   {%- endif -%}
-    <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+    <div class="title"><a href="{{ link.pdf }}" target="_blank" style="text-decoration:none;">{{ link.title }}</a></div>
     <div class="author">{{ link.authors }}</div>
     <div class="periodical"><em>{{ link.conference }}</em></div>
     <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
       {% if link.research %}
       <span class="research-badge" style="display:inline-block; font-size:12px; color:#828282; border:1px solid #828282; background:#ffffff; padding:0.0rem 0.1rem; cursor:default; text-decoration:none;">{{ link.research }}</span>
       {% endif %}
