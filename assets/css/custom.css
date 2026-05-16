@@ -1,0 +1,45 @@
+.site-nav {
+  margin-top: 20px;
+  padding-top: 15px;
+  border-top: 1px solid #e1e4e8;
+  text-align: center;
+}
+
+.site-nav a {
+  display: inline-block;
+  margin: 3px 5px;
+  color: #494e52;
+  font-size: 0.85rem;
+  text-decoration: none;
+  padding: 4px 12px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  transition: color 0.2s, border-color 0.2s, background-color 0.2s;
+}
+
+.site-nav a:hover {
+  color: #002D72;
+  border-color: #002D72;
+  background-color: rgba(0, 45, 114, 0.04);
+}
+
+.site-nav a.active {
+  color: #002D72;
+  border-color: #002D72;
+  font-weight: 600;
+  background-color: rgba(0, 45, 114, 0.06);
+}
+
+.news-list::-webkit-scrollbar {
+  width: 4px;
+}
+
+.news-list::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 2px;
+}
+
+.news-list::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 2px;
+}

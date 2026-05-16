@@ -37,6 +37,7 @@
     {% if page.url contains '/blog/' %}
     <link rel="stylesheet" href="{{ "/assets/css/blog.css" | relative_url }}">
     {% endif %}
+    <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
 
     <!-- RSS Feed -->
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Blog" href="{{ "/feed.xml" | relative_url }}" />
@@ -111,6 +112,12 @@
           <span class="social-label">RSS Feed</span>
         </a> -->
         </div>
+
+        <nav class="site-nav">
+          <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
+          <a href="{{ '/publications/' | relative_url }}"{% if page.url contains '/publications' %} class="active"{% endif %}>Publications</a>
+        </nav>
+
         <br>
 
       </header>

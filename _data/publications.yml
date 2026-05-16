@@ -17,6 +17,7 @@ main:
     # conference_short: "NeurIPS 2025"
     conference: "The 5th DataCV Workshop and Challenge with CVPR2026"
     pdf: "https://openreview.net/forum?id=swEVq3Ycr3"
+    selected: true
     # code: "https://wu-dd.github.io/"
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
@@ -29,6 +30,7 @@ main:
     # conference_short: "NeurIPS 2025"
     conference: "ICLR 2026 Workshop on Deep Generative Model in Machine Learning: Theory, Principle and Efficacy"
     pdf: "https://openreview.net/forum?id=pXj6jc9jEr"
+    selected: true
     # code: "https://wu-dd.github.io/"
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
@@ -43,6 +45,7 @@ main:
     conference: "Proceedings of the 14th International Conference on Learning Representations (ICLR), 2026"
     pdf: "https://openreview.net/pdf?id=5R11h5o44C"
     code: "https://github.com/wu-dd/PUBench"
+    selected: true
     # research: Weakly Supervised Learning
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
@@ -79,6 +82,7 @@ main:
     conference: "Proceedings of the 35th IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024"
     pdf: "https://ieeexplore.ieee.org/document/10658035"
     code: "https://github.com/wu-dd/EMMA"
+    selected: true
     # research: AI safety
     # page: "https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf"
     # bibtex: "@misc{xxx}"
@@ -90,6 +94,7 @@ main:
     conference: "arXiv preprint, 2024"
     pdf: "https://arxiv.org/pdf/2308.16718.pdf"
     code: "https://github.com/wu-dd/URRL"
+    selected: true
     # research: Weakly Supervised Learning
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
@@ -101,6 +106,7 @@ main:
     conference: "Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024"
     pdf: "https://ojs.aaai.org/index.php/AAAI/article/view/29519"
     code: "https://github.com/wu-dd/DIRK"
+    selected: true
     # research: Weakly Supervised Learning
     # page: "https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf"
     # bibtex: "@misc{xxx}"
@@ -112,6 +118,7 @@ main:
     conference: "Proceedings of the 39th International Conference on Machine Learning (ICML), 2022"
     pdf: "https://proceedings.mlr.press/v162/wu22l.html"
     code: "https://github.com/wu-dd/PLCR"
+    selected: true
     # research: Weakly Supervised Learning
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"

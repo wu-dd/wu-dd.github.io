@@ -1,10 +1,9 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
-{% if link.selected %}
 
 <li>
 <div class="pub-row">
@@ -53,12 +52,7 @@
 </li>
 <br>
 
-{% endif %}
 {% endfor %}
 
 </ol>
-</div>
-
-<div style="text-align: right; margin-top: -10px;">
-  <a href="/publications/" style="font-size:0.9rem; color:#828282; text-decoration:none;">View all publications &rarr;</a>
 </div>
