@@ -4,6 +4,7 @@
   <h4 style="display:inline; margin:0 10px 0 0;">Competitions:</h4>
 </div>
 <ul style="margin:0 0 5px; padding-left:20px;">
+  <li><autocolor>Rank 1, AVI Challenge 2026 (ACM MM 2026) – Track 2: Cognitive Ability Assessment, 2026. [<a href="https://avichallenge.github.io/challenge.html#IPA" style="text-decoration: none;">Paper</a>]</autocolor></li>
   <li><autocolor>Rank 1 (Top 1/1901), ATEC2023 – LLM Application and Security, 2024. [<a href="https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml" style="text-decoration: none;">Report</a>]</autocolor></li>
   <li><autocolor>Rank 6, ATEC2023 – AI-Generated News Detection Track, 2024.</autocolor></li>
   <li><autocolor>Rank 6, CCF BDCI – Conversational RAG Track, 2024. [<a href="https://github.com/wu-dd/BDCI-Solution" style="text-decoration: none;">Code</a>]</autocolor></li>
