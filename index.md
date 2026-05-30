@@ -9,7 +9,7 @@ I am a second-year Ph.D. student at <a href="http://www.u-tokyo.ac.jp/en/" style
 
 ## Research Interests
 
-My research interests lie in weakly supervised learning (for classification, generation, and LLM post-training), efficient learning (for agents, LLMs, and data), and AI safety. Here's my  <a href ="/assets/files/CV.pdf" style="text-decoration: none;">CV</a>. If you are interested in discussing with me, welcome and feel free to contact me at dongdongwu1230 [at] gmail.com.
+My research focuses mainly on weakly supervised learning (for classification, generation, and LLM post-training), with broader interests in efficient learning (for agents, LLMs, and data) and AI safety. Here's my  <a href ="/assets/files/CV.pdf" style="text-decoration: none;">CV</a>. If you would like to discuss research, feel free to reach me at dongdongwu1230 [at] gmail.com.
 
 {% include_relative _includes/news.md %}
 
