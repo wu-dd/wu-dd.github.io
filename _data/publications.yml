@@ -5,7 +5,7 @@ main:
     conference_short: "ICML 2026"
     conference: "Proceedings of the 43rd International Conference on Machine Learning (ICML), 2026"
     pdf: "https://openreview.net/pdf?id=WyQlim30lN"
-    # code: "https://github.com/wu-dd/PUBench"
+    code: "https://wu-dd.github.io/"
     # research: Weakly Supervised Learning
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
@@ -18,7 +18,7 @@ main:
     conference: "The 5th DataCV Workshop and Challenge with CVPR2026"
     pdf: "https://openreview.net/forum?id=swEVq3Ycr3"
     selected: true
-    # code: "https://wu-dd.github.io/"
+    code: "https://wu-dd.github.io/"
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
     # image: "./assets/img/rscc_teaser.png"
@@ -31,7 +31,7 @@ main:
     conference: "ICLR 2026 Workshop on Deep Generative Model in Machine Learning: Theory, Principle and Efficacy"
     pdf: "https://openreview.net/forum?id=pXj6jc9jEr"
     selected: true
-    # code: "https://wu-dd.github.io/"
+    code: "https://wu-dd.github.io/"
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
     # image: "./assets/img/rscc_teaser.png"
@@ -130,7 +130,7 @@ main:
     conference: "Engineering Applications of Artificial Intelligence (EAAI), 2020, 96: 103985"
     pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864"
     # research: Uncertainty
-    # code: "https://wu-dd.github.io/"
+    code: "https://wu-dd.github.io/"
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
     # image:
@@ -141,9 +141,9 @@ main:
     conference: "Pattern Analysis and Applications (PAA), 2021, 24(3): 1007-1023"
     pdf: "https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf"
     # research: Uncertainty
-    # code:
+    code: "https://wu-dd.github.io/"
     # page:
-    # bibtex: 
+    # bibtex:
     notes: "ESI Highly Cited Paper (Top 1%)"
     # image:
 
@@ -153,8 +153,8 @@ main:
     conference: "Quality and Reliability Engineering International (QRE), 2020; 36(5): 1786–1807"
     pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660"
     # research: Uncertainty
-    # code: 
-    # page: 
+    code: "https://wu-dd.github.io/"
+    # page:
     # bibtex:
     notes: 'ESI Highly Cited Paper (Top 1%), <span class="paper-asset"><a href="assets/files/Top Cited Article 2020-2021.pdf">Certificate</a></span>'
     # image:
