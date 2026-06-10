@@ -4,11 +4,11 @@
   <ul class="news-list">
     <li class="news-item">
       <span class="news-date">Jun. 2026</span>
-      <span class="news-text">Received the <strong>Outstanding Master’s Thesis Award</strong> from the Jiangsu Computer Society.</span>
+      <span class="news-text"><strong>Received the outstanding Master’s Thesis Award</strong>, Jiangsu Computer Society.</span>
     </li>
     <li class="news-item">
       <span class="news-date">May 2026</span>
-      <span class="news-text">Achieved <strong>Rank 1</strong> in AVI Challenge 2026 @ ACM MM 2026 – Track 2: Cognitive Ability Assessment.</span>
+      <span class="news-text">Achieved <strong>Rank 1</strong> in AVI Challenge 2026 @ ACM MM 2026.</span>
     </li>
     <li class="news-item">
       <span class="news-date">May 2026</span>
