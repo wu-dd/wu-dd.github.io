@@ -75,3 +75,61 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+
+/* News module (scrollable, date/text two-column layout) */
+.news-scroll {
+  max-height: 11.5rem;
+  margin: 0.45rem 0 1.25rem;
+  overflow-y: auto;
+  padding: 0.05rem 0.6rem 0.05rem 0;
+  scrollbar-color: rgba(0, 45, 114, 0.35) transparent;
+  scrollbar-width: thin;
+}
+
+.news-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.news-scroll::-webkit-scrollbar-thumb {
+  background: rgba(0, 45, 114, 0.28);
+  border-radius: 999px;
+}
+
+.news-list {
+  display: grid;
+  gap: 0.34rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.news-item {
+  align-items: baseline;
+  border-left: 2px solid rgba(0, 45, 114, 0.2);
+  display: grid;
+  gap: 0.55rem;
+  grid-template-columns: 5.9rem minmax(0, 1fr);
+  padding-left: 0.55rem;
+}
+
+.news-date {
+  color: var(--global-theme-color);
+  display: inline-block;
+  font-feature-settings: "tnum";
+  font-size: 0.86rem;
+  font-weight: 700;
+  min-width: 5.2rem;
+  white-space: nowrap;
+}
+
+.news-text {
+  color: var(--global-text-color);
+  line-height: 1.28;
+}
+
+@media print, screen and (max-width: 480px) {
+  .news-item {
+    gap: 0.15rem;
+    grid-template-columns: 1fr;
+  }
+}
