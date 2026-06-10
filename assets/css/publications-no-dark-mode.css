@@ -133,3 +133,51 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
     grid-template-columns: 1fr;
   }
 }
+
+/* Publications Show all / Show selected toggle */
+.publications ol.bibliography li.secondary-publication {
+  display: none;
+}
+
+.publications.show-all-publications ol.bibliography li.secondary-publication {
+  display: list-item;
+}
+
+.publications-heading {
+  align-items: center;
+  display: flex;
+  gap: 0.65rem;
+  margin: 2px 0 -15px;
+}
+
+.publications-heading h2 {
+  margin: 0;
+}
+
+.show-publications-button {
+  appearance: none;
+  background: rgba(0, 45, 114, 0.06);
+  border: 1px solid rgba(0, 45, 114, 0.22);
+  border-radius: 999px;
+  box-shadow: none;
+  color: var(--global-theme-color);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-top: 0.15rem;
+  padding: 0.24rem 0.55rem;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.show-publications-button:hover {
+  background: rgba(0, 45, 114, 0.11);
+  border-color: rgba(0, 45, 114, 0.38);
+  color: var(--global-theme-color);
+}
+
+.show-publications-button:focus {
+  outline: 2px solid rgba(0, 45, 114, 0.18);
+  outline-offset: 2px;
+}
