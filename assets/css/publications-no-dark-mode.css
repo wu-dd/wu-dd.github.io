@@ -36,7 +36,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography { list-style: none; padding: 0; margin-top: 0; }
 
-.publications ol.bibliography li { min-height: 110px; margin-bottom: 0.5rem; }
+.publications ol.bibliography li { margin-bottom: 1.5rem; }
 
 .publications ol.bibliography li .abbr { height: 8rem; margin-bottom: 0.5rem; }
 
@@ -49,6 +49,8 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li .abbr .award { color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color); }
 
 .publications ol.bibliography li .title { font-weight: bolder; }
+
+.publications ol.bibliography li .author, .publications ol.bibliography li .periodical, .publications ol.bibliography li .notes { font-size: 0.9rem; }
 
 .publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
 
