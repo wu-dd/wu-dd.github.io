@@ -8,7 +8,7 @@
     </li>
     <li class="news-item">
       <span class="news-date">May 2026</span>
-      <span class="news-text">Achieved <strong>Rank 1</strong> in AVI Challenge 2026 (ACM MM 2026) – Track 2: Cognitive Ability Assessment. A paper about our method will be released to the ACM MM 2026 main track soon.</span>
+      <span class="news-text">Achieved <strong>Rank 1</strong> in AVI Challenge 2026 @ ACM MM 2026 – Track 2: Cognitive Ability Assessment.</span>
     </li>
     <li class="news-item">
       <span class="news-date">May 2026</span>
@@ -20,7 +20,7 @@
     </li>
     <li class="news-item">
       <span class="news-date">Jan. 2026</span>
-      <span class="news-text">Two papers accepted at <strong>ICLR 2026</strong> (one main conference, one workshop).</span>
+      <span class="news-text">Two papers accepted at <strong>ICLR 2026</strong>.</span>
     </li>
   </ul>
 </div>
