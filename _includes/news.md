@@ -4,6 +4,10 @@
   <ul class="news-list">
     <li class="news-item">
       <span class="news-date">Jun. 2026</span>
+      <span class="news-text">One paper accepted at <strong>ECCV 2026</strong>.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jun. 2026</span>
       <span class="news-text"><strong>Received the outstanding Master’s Thesis Award</strong>, Jiangsu Computer Society.</span>
     </li>
     <li class="news-item">

@@ -14,11 +14,12 @@ main:
 
   - title: "Making Partial-Label Datasets Easier: A Simple Yet Highly Effective Data Augmentation for Deep Partial-Label Learning"
     authors: "<u>Dong-Dong Wu</u>, Zhaoyi Li, Xiang Li, Zhiqiang Shen"
-    # conference_short: "NeurIPS 2025"
-    conference: "The 5th DataCV Workshop and Challenge with CVPR2026"
+    conference_short: "ECCV 2026"
+    conference: "The 19th European Conference on Computer Vision (ECCV), 2026"
     pdf: "https://openreview.net/forum?id=swEVq3Ycr3"
     selected: true
     code: "https://wu-dd.github.io/"
+    notes: "Also accepted in The 5th DataCV Workshop and Challenge with CVPR2026"
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
     # image: "./assets/img/rscc_teaser.png"
