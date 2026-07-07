@@ -5,7 +5,7 @@
 </div>
 <ul style="margin:0 0 5px; padding-left:20px;">
   <li><autocolor>Rank 1, AVI Challenge 2026 (ACM MM 2026) – Track 2: Cognitive Ability Assessment, 2026. [<a href="https://avichallenge.github.io/challenge.html#IPA" style="text-decoration: none;">Paper</a>]</autocolor></li>
-  <li><autocolor>Rank 1 (Top 1/1901), ATEC2023 – LLM Application and Security, 2024. Prize: ¥1,000,000 RMB. [<a href="https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml" style="text-decoration: none;">Report</a>]</autocolor></li>
+  <li><autocolor>Rank 1 (Top 1/1901), ATEC2023 – LLM Application and Security, 2024. Prize: ¥1,000,000 CNY. [<a href="https://tech.cnr.cn/techph/20240423/t20240423_526677850.shtml" style="text-decoration: none;">Report</a>]</autocolor></li>
   <li><autocolor>Rank 6, ATEC2023 – AI-Generated News Detection Track, 2024.</autocolor></li>
   <li><autocolor>Rank 6, CCF BDCI – Conversational RAG Track, 2024. [<a href="https://github.com/wu-dd/BDCI-Solution" style="text-decoration: none;">Code</a>]</autocolor></li>
   <li><autocolor>Rank 7, 1st LMNL Challenge of IJCAI-ECAI2022 – Image Classification Task, 2022. [<a href="https://github.com/wu-dd/LMNL" style="text-decoration: none;">Code</a>]</autocolor></li>
