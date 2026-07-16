@@ -1,5 +1,15 @@
 main:
 
+  - title: "Question-Level Multimodal Fusion for Cognitive Ability Assessment in Asynchronous Video Interviews"
+    authors: "Zhiqiang Kou*, Jingcheng Duan*, <u>Dong-Dong Wu</u>*, Hanlin Gu, Jing Guo, Yijie Lin, Di Jiang, Yuheng Jia"
+    conference_short: "ACM MM 2026"
+    conference: "Proceedings of the 34th ACM International Conference on Multimedia (ACM MM), 2026"
+    pdf: "https://wu-dd.github.io/"
+    code: "https://wu-dd.github.io/"
+    selected: true
+    # notes:
+    # image:
+
   - title: "Positive–Unlabeled Reinforcement Learning Distillation for On-Premise Small Models"
     authors: Zhiqiang Kou, Junyang Chen, Xin-Qiang Cai, Xiaobo Xia, Ming-Kun Xie, <u>Dong-Dong Wu</u>, Biao Liu, Yuheng Jia, Xin Geng, Masashi Sugiyama, Tat-Seng Chua
     conference_short: "ICML 2026"
