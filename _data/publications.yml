@@ -7,7 +7,7 @@ main:
     pdf: "https://wu-dd.github.io/"
     code: "https://wu-dd.github.io/"
     selected: true
-    # notes:
+    notes: "Rank 1 Solution for AVI Challenge 2026 (ACM MM 2026) – Track 2: Cognitive Ability Assessment"
     # image:
 
   - title: "Positive–Unlabeled Reinforcement Learning Distillation for On-Premise Small Models"
