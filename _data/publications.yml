@@ -10,6 +10,14 @@ main:
     notes: "Rank 1 Solution for AVI Challenge 2026 (ACM MM 2026) – Track 2: Cognitive Ability Assessment"
     # image:
 
+  - title: "DenMark: Robust Semantic Watermarking for Diffusion Language Models"
+    authors: "Tianhao Ma, Weihao Xuan, <u>Dong-Dong Wu</u>, Farshid Nooshi, Takashi Ishida, Gang Niu, Naoto Yokoya, Masashi Sugiyama"
+    conference_short: "arXiv 2026"
+    conference: "arXiv preprint, 2026"
+    pdf: "https://arxiv.org/pdf/2609.14257"
+    # code:
+    # image:
+
   - title: "Positive–Unlabeled Reinforcement Learning Distillation for On-Premise Small Models"
     authors: Zhiqiang Kou, Junyang Chen, Xin-Qiang Cai, Xiaobo Xia, Ming-Kun Xie, <u>Dong-Dong Wu</u>, Biao Liu, Yuheng Jia, Xin Geng, Masashi Sugiyama, Tat-Seng Chua
     conference_short: "ICML 2026"
