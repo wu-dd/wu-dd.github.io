@@ -15,7 +15,7 @@ main:
     conference_short: "arXiv 2026"
     conference: "arXiv preprint, 2026"
     pdf: "https://arxiv.org/pdf/2609.14257"
-    # code:
+    code: "https://github.com/TianhaoMa5/DenMark"
     # image:
 
   - title: "Positive–Unlabeled Reinforcement Learning Distillation for On-Premise Small Models"
