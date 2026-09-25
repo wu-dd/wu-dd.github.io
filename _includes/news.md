@@ -3,6 +3,10 @@
 <div class="news-scroll" aria-label="News archive">
   <ul class="news-list">
     <li class="news-item">
+      <span class="news-date">Sep. 2026</span>
+      <span class="news-text">Three papers accepted at <strong>NeurIPS 2026</strong>.</span>
+    </li>
+    <li class="news-item">
       <span class="news-date">Jul. 2026</span>
       <span class="news-text">One paper accepted at <strong>ACM MM 2026</strong>.</span>
     </li>
