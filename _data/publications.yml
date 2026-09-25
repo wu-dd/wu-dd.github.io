@@ -1,5 +1,31 @@
 main:
 
+  - title: "Rethinking Learning from Label Proportions via Moment Matching"
+    authors: "Tianhao Ma, Wei Wang, Yivan Zhang, <u>Dong-Dong Wu</u>, Takashi Ishida, Gang Niu, Masashi Sugiyama"
+    conference_short: "NeurIPS 2026"
+    conference: "The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026"
+    # pdf:
+    # code:
+    # image:
+
+  - title: "Watermarking as a Learned Intrinsic Property of Diffusion Models"
+    authors: "Xiang Li, <u>Dong-Dong Wu</u>, Masashi Sugiyama, Lannan Luo, Qiang Zeng"
+    conference_short: "NeurIPS 2026"
+    conference: "The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026"
+    # pdf:
+    # code:
+    # image:
+
+  - title: "DELTA: Robustly Training Label-Conditional Diffusion Models with Weak Annotations"
+    authors: "<u>Dong-Dong Wu</u>, Jiacheng Cui, Wei Wang, Zhiqiang Shen, Masashi Sugiyama"
+    conference_short: "NeurIPS 2026"
+    conference: "The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026"
+    pdf: "https://openreview.net/forum?id=pXj6jc9jEr"
+    selected: true
+    code: "https://wu-dd.github.io/"
+    notes: "Also accepted in ICLR 2026 Workshop on Deep Generative Model in Machine Learning"
+    # image:
+
   - title: "Question-Level Multimodal Fusion for Cognitive Ability Assessment in Asynchronous Video Interviews"
     authors: "Zhiqiang Kou*, Jingcheng Duan*, <u>Dong-Dong Wu</u>*, Hanlin Gu, Jing Guo, Yijie Lin, Di Jiang, Yuheng Jia"
     conference_short: "ACM MM 2026"
@@ -43,33 +69,6 @@ main:
     # image: "./assets/img/rscc_teaser.png"
     # research: Weakly Supervised Learning
     # notes: Submitted
-
-  - title: "Rethinking Learning from Label Proportions via Moment Matching"
-    authors: "Tianhao Ma, Wei Wang, Yivan Zhang, <u>Dong-Dong Wu</u>, Takashi Ishida, Gang Niu, Masashi Sugiyama"
-    conference_short: "NeurIPS 2026"
-    conference: "The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026"
-    # pdf:
-    # code:
-    # image:
-
-  - title: "Watermarking as a Learned Intrinsic Property of Diffusion Models"
-    authors: "Xiang Li, <u>Dong-Dong Wu</u>, Masashi Sugiyama, Lannan Luo, Qiang Zeng"
-    conference_short: "NeurIPS 2026"
-    conference: "The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026"
-    # pdf:
-    # code:
-    # image:
-
-  - title: "DELTA: Robustly Training Label-Conditional Diffusion Models with Weak Annotations"
-    authors: "<u>Dong-Dong Wu</u>, Jiacheng Cui, Wei Wang, Zhiqiang Shen, Masashi Sugiyama"
-    conference_short: "NeurIPS 2026"
-    conference: "The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026"
-    pdf: "https://openreview.net/forum?id=pXj6jc9jEr"
-    selected: true
-    code: "https://wu-dd.github.io/"
-    notes: "Also accepted in ICLR 2026 Workshop on Deep Generative Model in Machine Learning"
-    # image:
-
 
   - title: "Accessible, Realistic, and Fair Evaluation of Positive-Unlabeled Learning Algorithms"
     authors: "Wei Wang*, <u>Dong-Dong Wu</u>*, Ming Li, Jingxiong Zhang, Gang Niu, Masashi Sugiyama"
