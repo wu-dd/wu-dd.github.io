@@ -26,6 +26,20 @@ main:
     notes: "Also accepted in ICLR 2026 Workshop on Deep Generative Model in Machine Learning"
     # image:
 
+  - title: "Making Partial-Label Datasets Easier: A Simple Yet Highly Effective Data Augmentation for Deep Partial-Label Learning"
+    authors: "<u>Dong-Dong Wu</u>, Zhaoyi Li, Xiang Li, Zhiqiang Shen"
+    conference_short: "ECCV 2026"
+    conference: "The 19th European Conference on Computer Vision (ECCV), 2026"
+    pdf: "https://openreview.net/forum?id=swEVq3Ycr3"
+    selected: true
+    code: "https://wu-dd.github.io/"
+    notes: "Also accepted in The 5th DataCV Workshop and Challenge with CVPR2026"
+    # page: "https://wu-dd.github.io/"
+    # bibtex: "@misc{xxx}"
+    # image: "./assets/img/rscc_teaser.png"
+    # research: Weakly Supervised Learning
+    # notes: Submitted
+
   - title: "Question-Level Multimodal Fusion for Cognitive Ability Assessment in Asynchronous Video Interviews"
     authors: "Zhiqiang Kou*, Jingcheng Duan*, <u>Dong-Dong Wu</u>*, Hanlin Gu, Jing Guo, Yijie Lin, Di Jiang, Yuheng Jia"
     conference_short: "ACM MM 2026"
@@ -55,20 +69,6 @@ main:
     # bibtex: "@misc{xxx}"
     # notes: Submitted
     # image:
-
-  - title: "Making Partial-Label Datasets Easier: A Simple Yet Highly Effective Data Augmentation for Deep Partial-Label Learning"
-    authors: "<u>Dong-Dong Wu</u>, Zhaoyi Li, Xiang Li, Zhiqiang Shen"
-    conference_short: "ECCV 2026"
-    conference: "The 19th European Conference on Computer Vision (ECCV), 2026"
-    pdf: "https://openreview.net/forum?id=swEVq3Ycr3"
-    selected: true
-    code: "https://wu-dd.github.io/"
-    notes: "Also accepted in The 5th DataCV Workshop and Challenge with CVPR2026"
-    # page: "https://wu-dd.github.io/"
-    # bibtex: "@misc{xxx}"
-    # image: "./assets/img/rscc_teaser.png"
-    # research: Weakly Supervised Learning
-    # notes: Submitted
 
   - title: "Accessible, Realistic, and Fair Evaluation of Positive-Unlabeled Learning Algorithms"
     authors: "Wei Wang*, <u>Dong-Dong Wu</u>*, Ming Li, Jingxiong Zhang, Gang Niu, Masashi Sugiyama"
