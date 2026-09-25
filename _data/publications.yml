@@ -5,7 +5,7 @@ main:
     conference_short: "NeurIPS 2026"
     conference: "The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026"
     # pdf:
-    # code:
+    code: "https://wu-dd.github.io/"
     # image:
 
   - title: "Watermarking as a Learned Intrinsic Property of Diffusion Models"
@@ -13,7 +13,7 @@ main:
     conference_short: "NeurIPS 2026"
     conference: "The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026"
     # pdf:
-    # code:
+    code: "https://wu-dd.github.io/"
     # image:
 
   - title: "DELTA: Robustly Training Label-Conditional Diffusion Models with Weak Annotations"
@@ -24,6 +24,14 @@ main:
     selected: true
     code: "https://wu-dd.github.io/"
     notes: "Also accepted in ICLR 2026 Workshop on Deep Generative Model in Machine Learning"
+    # image:
+
+  - title: "DenMark: Robust Semantic Watermarking for Diffusion Language Models"
+    authors: "Tianhao Ma, Weihao Xuan, <u>Dong-Dong Wu</u>, Farshid Nooshi, Takashi Ishida, Gang Niu, Naoto Yokoya, Masashi Sugiyama"
+    conference_short: "arXiv 2026"
+    conference: "arXiv preprint, 2026"
+    pdf: "https://arxiv.org/pdf/2609.14257"
+    code: "https://github.com/TianhaoMa5/DenMark"
     # image:
 
   - title: "Making Partial-Label Datasets Easier: A Simple Yet Highly Effective Data Augmentation for Deep Partial-Label Learning"
@@ -48,14 +56,6 @@ main:
     code: "https://wu-dd.github.io/"
     selected: true
     notes: "Rank 1 Solution for AVI Challenge 2026 (ACM MM 2026) – Track 2: Cognitive Ability Assessment"
-    # image:
-
-  - title: "DenMark: Robust Semantic Watermarking for Diffusion Language Models"
-    authors: "Tianhao Ma, Weihao Xuan, <u>Dong-Dong Wu</u>, Farshid Nooshi, Takashi Ishida, Gang Niu, Naoto Yokoya, Masashi Sugiyama"
-    conference_short: "arXiv 2026"
-    conference: "arXiv preprint, 2026"
-    pdf: "https://arxiv.org/pdf/2609.14257"
-    code: "https://github.com/TianhaoMa5/DenMark"
     # image:
 
   - title: "Positive–Unlabeled Reinforcement Learning Distillation for On-Premise Small Models"
