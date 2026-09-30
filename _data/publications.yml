@@ -28,8 +28,8 @@ main:
 
   - title: "DenMark: Robust Semantic Watermarking for Diffusion Language Models"
     authors: "Tianhao Ma, Weihao Xuan, <u>Dong-Dong Wu</u>, Farshid Nooshi, Takashi Ishida, Gang Niu, Naoto Yokoya, Masashi Sugiyama"
-    conference_short: "arXiv 2026"
-    conference: "arXiv preprint, 2026"
+    conference_short: "NeurIPS 2026"
+    conference: "NeurIPS 2026 Workshop on Diffusion Language Models: Foundations, Efficiency, and Reasoning"
     pdf: "https://arxiv.org/pdf/2609.14257"
     code: "https://github.com/TianhaoMa5/DenMark"
     # image:
