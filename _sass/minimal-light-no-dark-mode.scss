@@ -5,43 +5,28 @@
 
 .social-icons {
   display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 0.5rem;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 1.6rem;
 }
 
 .social-icons a {
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  gap: 0.8rem;
-  height: auto;
-  width: 100%;
+  justify-content: center;
   background-color: transparent;
   color: #043361 !important;
-  text-align: left;
-  font-size: 1.15rem;
-  padding: 0.4rem 0;
+  font-size: 1.4rem;
   text-decoration: none;
   transition: transform 0.2s ease;
 }
 
-.social-icons a i {
-  width: 2rem;
-  text-align: center;
-  flex-shrink: 0;
-}
-
 .social-icons a .social-label {
-  font-size: 0.95rem;
-  font-weight: 400;
-  color: #043361;
+  display: none;
 }
 
 .social-icons a:hover {
-  transform: translateX(5px);
-}
-
-.social-icons a:hover i {
   transform: scale(1.2);
 }
 /*
