@@ -7,7 +7,7 @@ I am a second-year Ph.D. student at the University of Tokyo, where I am fortunat
 
 ## Research Interests
 
-My research focuses mainly on weakly supervised learning (for classification, generation, and LLM post-training), with broader interests in efficient learning (for agents, LLMs, and data) and AI safety. Here's my <a href ="/assets/files/CV.pdf" style="text-decoration: none;">CV</a> — feel free to reach me at dongdongwu1230 [at] gmail.com to discuss research.
+My research asks a central question: <i>how can machine learning systems learn reliably when supervision is imperfect?</i> To this end, I work on <strong>weakly supervised learning</strong> across classification, generative models, and LLM post-training, developing methods with both theoretical guarantees and practical impact. I am also broadly interested in <strong>AI safety</strong>, including robustness, watermarking, and model protection. Here's my <a href ="/assets/files/CV.pdf" style="text-decoration: none;">CV</a> — feel free to reach me at dongdongwu1230 [at] gmail.com to discuss research.
 
 {% include_relative _includes/news.md %}
 
