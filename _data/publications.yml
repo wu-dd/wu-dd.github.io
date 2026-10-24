@@ -40,7 +40,7 @@ main:
     conference: "The 19th European Conference on Computer Vision (ECCV), 2026"
     pdf: "https://openreview.net/forum?id=swEVq3Ycr3"
     selected: true
-    code: "https://wu-dd.github.io/"
+    code: "https://github.com/wu-dd/UMiP"
     notes: "Also accepted in The 5th DataCV Workshop and Challenge with CVPR2026"
     # page: "https://wu-dd.github.io/"
     # bibtex: "@misc{xxx}"
