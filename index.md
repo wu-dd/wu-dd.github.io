@@ -7,7 +7,7 @@ I am a second-year Ph.D. student at the University of Tokyo, where I am fortunat
 
 ## Research Interests
 
-My research explores two complementary questions around imperfect information in machine learning:
+My research explores two complementary questions around imperfect information:
 
 - <strong>Imperfection as a defect</strong> — how can models learn reliably from imperfect supervision? To this end, I work on <strong>weakly supervised learning</strong> across discriminative classification, generative modeling, and LLM post-training.
 - <strong>Imperfection as a design</strong> — how can imperfect signals be deliberately crafted to protect models? This drives my work on <strong>AI safety</strong>, including watermarking, model protection, and robustness.
