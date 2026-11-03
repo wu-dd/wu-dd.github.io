@@ -7,7 +7,7 @@
 
 <div style="margin:0 0 5px;">
   <h4 style="display:inline; margin:0 10px 0 0;">Journal Reviewer:</h4>
-  <autocolor>Frontiers of Computer Science</autocolor>
+  <autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Frontiers of Computer Science</autocolor>
 </div>
 
 <div style="margin:0 0 20px;">
