@@ -52,7 +52,7 @@ main:
     authors: "Zhiqiang Kou*, Jingcheng Duan*, <u>Dong-Dong Wu</u>*, Hanlin Gu, Jing Guo, Yijie Lin, Di Jiang, Yuheng Jia"
     conference_short: "ACM MM 2026"
     conference: "Proceedings of the 34th ACM International Conference on Multimedia (ACM MM), 2026"
-    pdf: "https://wu-dd.github.io/"
+    pdf: "https://dl.acm.org/doi/10.1145/3767308.3837685"
     code: "https://wu-dd.github.io/"
     selected: true
     notes: "Rank 1 Solution for AVI Challenge 2026 (ACM MM 2026) – Track 2: Cognitive Ability Assessment"
