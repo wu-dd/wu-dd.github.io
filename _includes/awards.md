@@ -31,7 +31,7 @@
   <h4 style="display:inline; margin:0 10px 0 0;">Scholarships:</h4>
 </div>
 <ul style="margin:0 0 20px; padding-left:20px;">
-  <li><autocolor>Google PhD Fellowship, 2026</autocolor></li>
+  <li><autocolor>Google PhD Fellowship (Machine Learning and ML Foundations), 2026</autocolor></li>
   <li><autocolor>ICLR Travel Award, 2026</autocolor></li>
   <li><autocolor>Huawei Scholarship, 2024</autocolor></li>
   <li><autocolor>Lenovo Research Institute Scholarship, 2023</autocolor></li>
