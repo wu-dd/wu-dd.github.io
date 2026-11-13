@@ -3,6 +3,10 @@
 <div class="news-scroll" aria-label="News archive">
   <ul class="news-list">
     <li class="news-item">
+      <span class="news-date">Nov. 2026</span>
+      <span class="news-text">Received the <strong>Google PhD Fellowship</strong>.</span>
+    </li>
+    <li class="news-item">
       <span class="news-date">Sep. 2026</span>
       <span class="news-text">Four papers accepted at <strong>NeurIPS 2026</strong>.</span>
     </li>
