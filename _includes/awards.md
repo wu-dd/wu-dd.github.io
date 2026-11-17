@@ -30,10 +30,18 @@
 <div style="margin:0 0 5px;">
   <h4 style="display:inline; margin:0 10px 0 0;">Scholarships:</h4>
 </div>
-<ul style="margin:0 0 20px; padding-left:20px;">
+<ul style="margin:0 0 5px; padding-left:20px;">
   <li><autocolor>Google PhD Fellowship (Machine Learning and ML Foundations), 2026</autocolor></li>
   <li><autocolor>ICLR Travel Award, 2026</autocolor></li>
   <li><autocolor>Huawei Scholarship, 2024</autocolor></li>
   <li><autocolor>Lenovo Research Institute Scholarship, 2023</autocolor></li>
   <li><autocolor>Huawei Scholarship, 2021</autocolor></li>
+</ul>
+
+<div style="margin:0 0 5px;">
+  <h4 style="display:inline; margin:0 10px 0 0;">Grants:</h4>
+</div>
+<ul style="margin:0 0 20px; padding-left:20px;">
+  <li><autocolor>RIKEN JRA Travel Funding (500K JPY), Apr. 2026 – Mar. 2027</autocolor></li>
+  <li><autocolor>RIKEN JRA Travel Funding (500K JPY), Apr. 2025 – Mar. 2026</autocolor></li>
 </ul>
